@@ -1,0 +1,9 @@
+judge,prompt,cutoff,cutoff_source,group,n_pairs,accuracy,lo,hi
+gpt-5,P1,2024-09-30,https://developers.openai.com/api/docs/models/gpt-5,post,37,0.581081081081081,0.44594594594594594,0.7027027027027027
+gpt-5,P1,2024-09-30,https://developers.openai.com/api/docs/models/gpt-5,pre,463,0.5788336933045356,0.5367170626349892,0.6187904967602592
+gpt-5,P3,2024-09-30,https://developers.openai.com/api/docs/models/gpt-5,post,17,0.7058823529411765,0.5,0.8823529411764706
+gpt-5,P3,2024-09-30,https://developers.openai.com/api/docs/models/gpt-5,pre,233,0.630901287553648,0.5686695278969958,0.6866952789699571
+haiku-4.5,P1,2025-02-28,https://platform.claude.com/docs/en/models/haiku-4-5/overview (reliable Feb 2025; training data Jul 2025),pre,500,0.555,0.52,0.59
+haiku-4.5,P3,2025-02-28,https://platform.claude.com/docs/en/models/haiku-4-5/overview (reliable Feb 2025; training data Jul 2025),pre,250,0.564,0.512,0.62
+gemini-2.5-flash,P1,2025-01-31,https://ai.google.dev/gemini-api/docs/models/gemini-2.5-flash,pre,500,0.587,0.555,0.618
+gemini-2.5-flash,P3,2025-01-31,https://ai.google.dev/gemini-api/docs/models/gemini-2.5-flash,pre,500,0.564,0.534975,0.593

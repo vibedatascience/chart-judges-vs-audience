@@ -1,0 +1,48 @@
+                        subset                     row  n_pairs  accuracy     lo     hi  tie_rate  failure_rate
+0          all 2,000 (primary)  feature baseline (OOF)     2000     0.591  0.570  0.612       NaN           NaN
+1          all 2,000 (primary)                gpt-5 P1     2000     0.564  0.544  0.582     0.228         0.000
+2          all 2,000 (primary)            haiku-4.5 P1     2000     0.554  0.537  0.572     0.328         0.000
+3          all 2,000 (primary)     gemini-2.5-flash P1     2000     0.576  0.558  0.593     0.352         0.000
+4      pairs 501-2,000 (fresh)  feature baseline (OOF)     1500     0.586  0.561  0.611       NaN           NaN
+5      pairs 501-2,000 (fresh)                gpt-5 P1     1500     0.558  0.536  0.581     0.227         0.000
+6      pairs 501-2,000 (fresh)            haiku-4.5 P1     1500     0.554  0.534  0.575     0.325         0.001
+7      pairs 501-2,000 (fresh)     gemini-2.5-flash P1     1500     0.572  0.552  0.592     0.349         0.000
+8   first 1,000 (frontier set)  feature baseline (OOF)     1000     0.596  0.565  0.626       NaN           NaN
+9   first 1,000 (frontier set)                gpt-5 P1     1000     0.571  0.544  0.598     0.242         0.000
+10  first 1,000 (frontier set)            haiku-4.5 P1     1000     0.556  0.531  0.580     0.336         0.001
+11  first 1,000 (frontier set)     gemini-2.5-flash P1     1000     0.572  0.548  0.597     0.345         0.000
+12  first 1,000 (frontier set)           sonnet-5.5 P1     1000     0.578  0.551  0.604     0.239         0.000 
+
+                        subset                               comparison  n_pairs    diff  ci90_lo  ci90_hi  ci95_lo  ci95_hi  tost_p  superiority_p_two_sided verdict_margin_4pts
+0          all 2,000 (primary)                  gpt-5 P1 minus baseline     2000 -0.0275  -0.0510  -0.0032  -0.0562   0.0002  0.1946                   0.0583        inconclusive
+1          all 2,000 (primary)              haiku-4.5 P1 minus baseline     2000 -0.0365  -0.0590  -0.0132  -0.0635  -0.0088  0.4014                   0.0093        inconclusive
+2          all 2,000 (primary)       gemini-2.5-flash P1 minus baseline     2000 -0.0152  -0.0385   0.0085  -0.0422   0.0125  0.0389                   0.2771          equivalent
+3      pairs 501-2,000 (fresh)                  gpt-5 P1 minus baseline     1500 -0.0277  -0.0553   0.0000  -0.0607   0.0057  0.2326                   0.1015        inconclusive
+4      pairs 501-2,000 (fresh)              haiku-4.5 P1 minus baseline     1500 -0.0317  -0.0587  -0.0047  -0.0637   0.0000  0.3054                   0.0533        inconclusive
+5      pairs 501-2,000 (fresh)       gemini-2.5-flash P1 minus baseline     1500 -0.0140  -0.0403   0.0127  -0.0463   0.0180  0.0550                   0.3895        inconclusive
+6   first 1,000 (frontier set)                  gpt-5 P1 minus baseline     1000 -0.0250  -0.0590   0.0090  -0.0640   0.0150  0.2307                   0.2196        inconclusive
+7   first 1,000 (frontier set)              haiku-4.5 P1 minus baseline     1000 -0.0405  -0.0730  -0.0090  -0.0780  -0.0030  0.5103                   0.0372        inconclusive
+8   first 1,000 (frontier set)       gemini-2.5-flash P1 minus baseline     1000 -0.0235  -0.0565   0.0085  -0.0620   0.0150  0.2006                   0.2320        inconclusive
+9   first 1,000 (frontier set)             sonnet-5.5 P1 minus baseline     1000 -0.0185  -0.0520   0.0145  -0.0585   0.0210  0.1448                   0.3622        inconclusive
+10  first 1,000 (frontier set)             sonnet-5.5 P1 minus gpt-5 P1     1000  0.0065  -0.0140   0.0275  -0.0180   0.0315  0.0040                   0.6067          equivalent
+11  first 1,000 (frontier set)         sonnet-5.5 P1 minus haiku-4.5 P1     1000  0.0220   0.0000   0.0435  -0.0035   0.0480  0.0868                   0.0963        inconclusive
+12  first 1,000 (frontier set)  sonnet-5.5 P1 minus gemini-2.5-flash P1     1000  0.0050  -0.0150   0.0250  -0.0190   0.0290  0.0021                   0.6823          equivalent 
+
+                   row  n_pairs  judge_coef_per_sd  judge_coef_se  lr_stat  lr_p  auc_baseline  auc_baseline_plus_judge  auc_judge_alone  delta_auc
+0             gpt-5 P1     2000             0.2655         0.0470  32.7266   0.0        0.6234                   0.6457           0.5811     0.0223
+1         haiku-4.5 P1     1999             0.1917         0.0467  17.1044   0.0        0.6236                   0.6340           0.5712     0.0104
+2  gemini-2.5-flash P1     2000             0.2952         0.0482  39.5391   0.0        0.6234                   0.6489           0.6029     0.0255 
+
+              judge  n_audience_images  spearman_P1_vs_audience_pct  aud_lo  aud_hi  n_expert_items  spearman_P1_vs_expert
+0             gpt-5               4000                        0.084   0.051   0.112           150.0                  0.442
+1         haiku-4.5               3999                        0.115   0.086   0.145           150.0                  0.489
+2  gemini-2.5-flash               4000                        0.133   0.103   0.164           150.0                  0.453
+3        sonnet-5.5               2000                        0.119   0.077   0.164             NaN                    NaN 
+
+target               audience  gemini-2.5-flash P1  gpt-5 P1  haiku-4.5 P1
+feature                                                                   
+edge_density           -0.039               -0.007    -0.066        -0.090
+log_aspect_ratio       -0.216               -0.153    -0.132        -0.067
+log_ocr_words          -0.017                0.315     0.498         0.473
+log_orig_megapixels     0.177                0.212     0.165         0.144
+n_colors                0.013               -0.029    -0.045        -0.081

@@ -1,0 +1,4 @@
+judge,n,claimed_seen,recall_rate,recall_not_in_image_rate,true_title_readable_in_image,flag_contaminated
+gemini-2.5-flash,50,0.62,0.2,0.02,0.72,False
+gpt-5,50,0.06,0.02,0.0,0.72,False
+haiku-4.5,50,0.2,0.1,0.02,0.72,False

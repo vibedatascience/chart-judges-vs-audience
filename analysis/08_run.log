@@ -1,0 +1,74 @@
+      set                     row  n_pairs  accuracy    acc_lo    acc_hi  decisive_right  decisive_wrong  binom_p_vs_0.5  inconsistency_rate  tie_rate  parse_or_api_failure_rate
+0   clear     gemini-2.5-flash P1      500    0.5870  0.552000  0.618000             203             116    1.274163e-06                 NaN  0.362000                        0.0
+1   clear     gemini-2.5-flash P3      500    0.5640  0.535000  0.595000             149              85    3.435624e-05               0.532  0.000000                        0.0
+2   clear                gpt-5 P1      500    0.5790  0.544000  0.618000             232             153    6.658285e-05                 NaN  0.230000                        0.0
+3   clear        gpt-5 title-only      500    0.5820  0.553000  0.613000             167              85    2.654913e-07               0.496  0.000000                        0.0
+4   clear            haiku-4.5 P1      500    0.5550  0.518000  0.590000             193             138    2.939452e-03                 NaN  0.338000                        0.0
+5   clear                gpt-5 P3      250    0.6360  0.582000  0.690000             136              68    2.213898e-06               0.184  0.000000                        0.0
+6   clear            haiku-4.5 P3      250    0.5640  0.505950  0.618050             118              86    2.972407e-02               0.184  0.000000                        0.0
+7   clear                gpt-5 P2      150    0.6000  0.530000  0.676667              80              50    1.069406e-02                 NaN  0.133333                        0.0
+8   close     gemini-2.5-flash P1      200    0.5125  0.460000  0.570000              63              58    7.162941e-01                 NaN  0.395000                        0.0
+9   clear  feature baseline (OOF)      500    0.6060  0.566000  0.648000             303             197    2.447135e-06                 NaN  0.000000                        NaN
+10  close  feature baseline (OOF)      200    0.4900  0.424875  0.560000              98             102    8.320704e-01                 NaN  0.000000                        NaN
+                   row  n_pairs  judge_coef_per_sd  judge_coef_se    lr_stat      lr_p  auc_baseline  auc_baseline_plus_judge  auc_judge_alone  delta_auc
+0  gemini-2.5-flash P1      500           0.326444       0.099098  11.666600  0.000636      0.633124                 0.663382         0.616932   0.030258
+1  gemini-2.5-flash P3      500           0.373716       0.095416  15.890483  0.000067      0.633124                 0.670789         0.598100   0.037665
+2             gpt-5 P1      500           0.338660       0.095530  13.078173  0.000299      0.633124                 0.668615         0.604404   0.035491
+3         haiku-4.5 P1      500           0.213805       0.094469   5.240076  0.022072      0.633124                 0.645346         0.577593   0.012222
+4             gpt-5 P3      250           0.608089       0.137585  20.590260  0.000006      0.633408                 0.712000         0.661312   0.078592
+5         haiku-4.5 P3      250           0.282758       0.131726   4.663340  0.030813      0.633408                 0.655040         0.575936   0.021632
+6             gpt-5 P2      150           0.508489       0.181595   8.566862  0.003423      0.575925                 0.672475         0.638514   0.096550
+              judge prompt  n_images  spearman_pct_month        lo        hi  spearman_residual_pct_month  resid_lo  resid_hi
+0  gemini-2.5-flash     P1      1000            0.124990  0.062040  0.181815                     0.088224  0.027988  0.153011
+1             gpt-5     P1      1000            0.086639  0.025900  0.149709                     0.065121  0.005003  0.128376
+2         haiku-4.5     P1      1000            0.122515  0.059811  0.189817                     0.086836  0.025008  0.152013
+3             gpt-5     P2       300            0.116013 -0.001919  0.227223                     0.074019 -0.037747  0.196208
+               judge_a       judge_b  n_decisions  cohen_kappa
+0  gemini-2.5-flash P3      gpt-5 P3          500     0.495710
+1  gemini-2.5-flash P3  haiku-4.5 P3          500     0.264706
+2             gpt-5 P3  haiku-4.5 P3          500     0.408568 
+             judge_a    judge_b  n_images  spearman_P1
+0  gemini-2.5-flash      gpt-5      1000     0.682427
+1  gemini-2.5-flash  haiku-4.5      1000     0.575640
+2             gpt-5  haiku-4.5      1000     0.628677
+                 target              feature      coef        se  n_pairs
+0              audience        log_ocr_words -0.042216  0.074350      500
+1              audience             n_colors  0.056936  0.082173      500
+2              audience         edge_density -0.208392  0.078752      500
+3              audience     log_aspect_ratio -0.156349  0.069265      500
+4              audience  log_orig_megapixels  0.144530  0.075827      500
+5   gemini-2.5-flash P1        log_ocr_words  0.335633  0.096368      319
+6   gemini-2.5-flash P1             n_colors  0.040134  0.106768      319
+7   gemini-2.5-flash P1         edge_density  0.142472  0.095277      319
+8   gemini-2.5-flash P1     log_aspect_ratio -0.130682  0.087871      319
+9   gemini-2.5-flash P1  log_orig_megapixels  0.302502  0.097969      319
+10  gemini-2.5-flash P3        log_ocr_words  0.766186  0.145268      234
+11  gemini-2.5-flash P3             n_colors -0.077227  0.129223      234
+12  gemini-2.5-flash P3         edge_density -0.266780  0.133446      234
+13  gemini-2.5-flash P3     log_aspect_ratio -0.146916  0.115616      234
+14  gemini-2.5-flash P3  log_orig_megapixels  0.167861  0.129302      234
+15             gpt-5 P1        log_ocr_words  0.485261  0.096896      385
+16             gpt-5 P1             n_colors -0.000077  0.097085      385
+17             gpt-5 P1         edge_density  0.021346  0.089877      385
+18             gpt-5 P1     log_aspect_ratio -0.122438  0.081843      385
+19             gpt-5 P1  log_orig_megapixels  0.158647  0.089950      385
+20         haiku-4.5 P1        log_ocr_words  0.424770  0.102243      331
+21         haiku-4.5 P1             n_colors -0.061594  0.103164      331
+22         haiku-4.5 P1         edge_density  0.120834  0.088966      331
+23         haiku-4.5 P1     log_aspect_ratio -0.057761  0.085415      331
+24         haiku-4.5 P1  log_orig_megapixels  0.402105  0.100834      331
+25             gpt-5 P3        log_ocr_words  0.370090  0.132278      204
+26             gpt-5 P3             n_colors  0.016388  0.135222      204
+27             gpt-5 P3         edge_density -0.324680  0.128944      204
+28             gpt-5 P3     log_aspect_ratio -0.205277  0.124710      204
+29             gpt-5 P3  log_orig_megapixels  0.337144  0.126727      204
+30         haiku-4.5 P3        log_ocr_words  0.945266  0.179734      204
+31         haiku-4.5 P3             n_colors  0.035020  0.143334      204
+32         haiku-4.5 P3         edge_density -0.567384  0.169539      204
+33         haiku-4.5 P3     log_aspect_ratio -0.038328  0.122501      204
+34         haiku-4.5 P3  log_orig_megapixels  0.024946  0.138465      204
+35             gpt-5 P2        log_ocr_words  0.498380  0.183122      130
+36             gpt-5 P2             n_colors  0.082874  0.175247      130
+37             gpt-5 P2         edge_density -0.314683  0.169306      130
+38             gpt-5 P2     log_aspect_ratio -0.212639  0.189746      130
+39             gpt-5 P2  log_orig_megapixels  0.219772  0.159520      130

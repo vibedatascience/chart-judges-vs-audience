@@ -1,0 +1,1888 @@
+task_id,prompt,vj_id,judge,model_id,cost_usd,raw_text,finish,input_tokens,output_tokens,attempts,status,data_fidelity,semantic_readability,insight_discovery,design_style,visual_composition,color_harmony,p2_mean,_id,overall_score
+2648,P2,2648,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001815,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```",end_turn,1450,73,1,ok,4.0,3.0,3.0,4.0,3.0,4.0,3.5,2648,2.83
+2225,P2,2225,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001934,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 1,
+  ""insight_discovery"": 1,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 3
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: Pie charts distort perception of values, especially with many slices. Without labels or values, accuracy cannot be verified.
+- **semantic_readability (1)**: No labels, legends, titles, or data values are provided. It's impossible to know what each slice represents or its magnitude.
+- **insight_discovery (1)**: Without context or labels, no meaningful patterns or insights can be extracted from these charts.
+- **design_style (3)**: Clean, modern aesthetic with consistent styling across the three charts, but lacks professional elements like titles and legends.
+- **visual_composition (3)**: The three charts are evenly spaced and balanced, though the lack of hierarchy or context diminishes effectiveness.
+- **color_harmony (3)**: Colors are vibrant and generally pleasing, though some combinations (especially in the middle chart) could be more cohesive. Adequate but not exceptional.",end_turn,509,285,1,ok,2.0,1.0,1.0,3.0,3.0,3.0,2.1666666666666665,2225,2.33
+2816,P2,2816,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00326,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 1,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: The Sankey diagram's flow widths are difficult to verify for accuracy. The overlapping streams and lack of clear labels make it hard to confirm data is represented faithfully.
+
+- **semantic_readability (1)**: Critical failure—there are no axis labels, legend, or project/location identifiers visible. A reader cannot determine which projects or locations are being shown, making the chart essentially uninterpretable.
+
+- **insight_discovery (2)**: While the general flow pattern is visible (showing distribution from left to right), the lack of labels prevents meaningful insight extraction. One can only observe that there's concentration and dispersion, but not what it means.
+
+- **design_style (3)**: The visualization uses a professional Sankey template with consistent styling, but the absence of essential labeling undermines professionalism.
+
+- **visual_composition (2)**: The layout is balanced spatially, but the composition fails functionally due to missing context and labels that should anchor the visualization.
+
+- **color_harmony (3)**: The green and blue palette is pleasant and provides adequate contrast, though the color coding's meaning is unexplained.",end_turn,1585,335,1,ok,2.0,1.0,2.0,3.0,2.0,3.0,2.1666666666666665,2816,2.08
+3079,P2,3079,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000964,"```json
+{
+  ""data_fidelity"": 3,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,599,73,1,ok,3.0,4.0,2.0,3.0,4.0,4.0,3.3333333333333335,3079,2.0
+2952,P2,2952,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001539,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,1174,73,1,ok,2.0,2.0,2.0,4.0,4.0,4.0,3.0,2952,2.75
+3067,P2,3067,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000895,"```json
+{
+  ""data_fidelity"": 3,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,530,73,1,ok,3.0,2.0,2.0,4.0,4.0,4.0,3.1666666666666665,3067,3.83
+2813,P2,2813,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002086,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 2,
+  ""color_harmony"": 4
+}
+```",end_turn,1721,73,1,ok,2.0,2.0,2.0,3.0,2.0,4.0,2.5,2813,2.5
+2732,P2,2732,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001746,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 3
+}
+```",end_turn,1381,73,1,ok,4.0,3.0,3.0,4.0,3.0,3.0,3.3333333333333335,2732,3.42
+2691,P2,2691,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001549,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 4,
+  ""design_style"": 3,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```",end_turn,1184,73,1,ok,4.0,3.0,4.0,3.0,2.0,3.0,3.1666666666666665,2691,2.14
+3060,P2,3060,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001846,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 3,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```",end_turn,1481,73,1,ok,4.0,2.0,3.0,3.0,3.0,4.0,3.1666666666666665,3060,1.42
+2770,P2,2770,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000925,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 3,
+  ""design_style"": 3,
+  ""visual_composition"": 2,
+  ""color_harmony"": 4
+}
+```",end_turn,560,73,1,ok,4.0,3.0,3.0,3.0,2.0,4.0,3.1666666666666665,2770,3.92
+2338,P2,2338,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001954,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 1,
+  ""insight_discovery"": 1,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 5
+}
+```",end_turn,1589,73,1,ok,2.0,1.0,1.0,4.0,3.0,5.0,2.6666666666666665,2338,1.78
+2611,P2,2611,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00211,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```",end_turn,1745,73,1,ok,4.0,2.0,2.0,3.0,3.0,4.0,3.0,2611,1.33
+454,P2,454,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00211,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 5,
+  ""design_style"": 5,
+  ""visual_composition"": 4,
+  ""color_harmony"": 5
+}
+```",end_turn,1745,73,1,ok,4.0,5.0,5.0,5.0,4.0,5.0,4.666666666666667,454,4.33
+2416,P2,2416,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001075,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 5,
+  ""color_harmony"": 3
+}
+```",end_turn,710,73,1,ok,5.0,5.0,4.0,4.0,5.0,3.0,4.333333333333333,2416,3.33
+2722,P2,2722,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002862,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 1,
+  ""design_style"": 3,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: The radar/spider chart format is problematic here. Without actual data values shown, it's unclear what the concentric circles represent or how the categories are measured. The visual encoding is ambiguous.
+
+- **semantic_readability (2)**: While the Dutch labels are clear, the chart's purpose is confusing. It appears to be a template or framework rather than a data visualization, making it difficult to understand what story is being told.
+
+- **insight_discovery (1)**: The chart provides no actionable insights. There are no data points plotted, no comparisons visible, and no patterns to discover. It's essentially an empty framework.
+
+- **design_style (3)**: The design is clean and minimalist, with consistent line weights and professional appearance, but lacks visual interest and clarity of purpose.
+
+- **visual_composition (2)**: The radial layout is symmetrical but the label placement is inconsistent (some inside, some outside the circle), creating visual imbalance. The hierarchy is unclear.
+
+- **color_harmony (3)**: The monochromatic black-and-white scheme is professional and neutral, though it offers no visual differentiation between categories or emphasis.",end_turn,1147,343,1,ok,2.0,2.0,1.0,3.0,2.0,3.0,2.1666666666666665,2722,1.19
+2244,P2,2244,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00153,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,1165,73,1,ok,5.0,4.0,3.0,4.0,4.0,3.0,3.8333333333333335,2244,2.75
+2738,P2,2738,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001072,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,707,73,1,ok,5.0,4.0,4.0,4.0,4.0,3.0,4.0,2738,3.78
+2913,P2,2913,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002774,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 2,
+  ""design_style"": 2,
+  ""visual_composition"": 2,
+  ""color_harmony"": 2
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: Pie charts distort perception of values, especially with such disparate percentages (55% vs 1%). The visual area of Mississippi's slice doesn't accurately represent its dominance relative to smaller segments.
+
+- **semantic_readability (3)**: While labels are present, the extreme range (1%-55%) makes it difficult to visually distinguish smaller segments. The chart's purpose is unclear without context.
+
+- **insight_discovery (2)**: The overwhelming dominance of Mississippi (55%) makes other data points nearly invisible, limiting meaningful pattern discovery. A bar chart would reveal relationships more effectively.
+
+- **design_style (2)**: The 3D effect adds visual noise without improving comprehension. The design feels dated and lacks professional polish.
+
+- **visual_composition (2)**: Label placement is inconsistent and some labels point to very small slices that are hard to locate. The 3D perspective creates spatial confusion.
+
+- **color_harmony (2)**: The orange-to-blue contrast is harsh. The color scheme doesn't create visual hierarchy that helps distinguish the data's relative importance or categories.
+
+**Recommendation**: Use a horizontal bar chart to better represent this highly skewed distribution.",end_turn,1049,345,1,ok,2.0,3.0,2.0,2.0,2.0,2.0,2.1666666666666665,2913,2.14
+2579,P2,2579,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002108,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```",end_turn,1743,73,1,ok,4.0,3.0,4.0,4.0,3.0,4.0,3.6666666666666665,2579,2.89
+3007,P2,3007,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001325,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,960,73,1,ok,5.0,4.0,4.0,4.0,4.0,3.0,4.0,3007,3.33
+2909,P2,2909,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002294,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 1,
+  ""insight_discovery"": 1,
+  ""design_style"": 2,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: The treemap structure doesn't clearly convey what the data represents or how values relate to each other. The relationship between numbers is unclear, and there's no legend explaining the data source or meaning.
+
+- **semantic_readability (1)**: Without context, labels, axes, or a title, it's impossible to understand what this chart communicates. The numbers appear arbitrary with no explanation of their significance.
+
+- **insight_discovery (1)**: The visualization provides no meaningful patterns or insights. The random arrangement of numbers doesn't suggest any analytical value or story.
+
+- **design_style (2)**: While the layout is clean, the lack of title, legend, and axis labels makes it appear incomplete and unprofessional for data communication.
+
+- **visual_composition (2)**: The treemap layout is somewhat organized, but the hierarchy and spacing don't clearly prioritize information. The arrangement feels arbitrary rather than purposeful.
+
+- **color_harmony (3)**: The coral/pink and mint green palette is pleasant and harmonious, though the color coding doesn't appear to encode meaningful data categories or values.",end_turn,669,325,1,ok,2.0,1.0,1.0,2.0,2.0,3.0,1.8333333333333333,2909,2.39
+2591,P2,2591,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001102,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 5,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,737,73,1,ok,4.0,5.0,5.0,4.0,4.0,4.0,4.333333333333333,2591,4.28
+3057,P2,3057,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000911,"```json
+{
+  ""data_fidelity"": 3,
+  ""semantic_readability"": 1,
+  ""insight_discovery"": 2,
+  ""design_style"": 2,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```",end_turn,546,73,1,ok,3.0,1.0,2.0,2.0,2.0,3.0,2.1666666666666665,3057,1.0
+508,P2,508,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00101,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 2,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,645,73,1,ok,5.0,4.0,2.0,4.0,4.0,3.0,3.6666666666666665,508,2.64
+3061,P2,3061,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000964,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,599,73,1,ok,5.0,5.0,4.0,4.0,4.0,3.0,4.166666666666667,3061,3.75
+2880,P2,2880,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001386,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,1021,73,1,ok,5.0,5.0,4.0,4.0,4.0,4.0,4.333333333333333,2880,3.31
+2741,P2,2741,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.003511,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 3
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: Radar charts distort perception due to area scaling issues. With only two companies and 6 metrics, the overlapping polygons make accurate value comparison difficult. The visual area doesn't proportionally represent the underlying data.
+
+- **semantic_readability (2)**: The chart is confusing—it's unclear which colored line represents which company or metric at first glance. The legend requires careful cross-referencing, and the overlapping lines obscure individual values.
+
+- **insight_discovery (2)**: While the chart attempts to show comparative performance, the overlapping geometry makes it hard to identify which company excels in which strategy. Key insights are buried in visual complexity.
+
+- **design_style (3)**: The chart is clean and uses a professional template, but the choice of radar chart for this data is questionable. Typography and layout are adequate.
+
+- **visual_composition (3)**: The circular layout is balanced, and the concentric rings provide reference points. However, the density of overlapping lines creates visual clutter.
+
+- **color_harmony (3)**: The six colors are reasonably distinct and the palette is professional, though some colors (orange and red) could be confused under certain conditions. The harmony is acceptable but not exceptional.",end_turn,1736,355,1,ok,2.0,2.0,2.0,3.0,3.0,3.0,2.5,2741,2.95
+2915,P2,2915,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00232,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 1,
+  ""design_style"": 2,
+  ""visual_composition"": 3,
+  ""color_harmony"": 3
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: Pie charts are inherently poor at representing data with similar values. With percentages ranging from 1.19% to 1.49%, the visual differences are nearly imperceptible, making accurate comparison impossible.
+
+- **semantic_readability (2)**: While the legend is present, the tiny slices make it extremely difficult to match colors to labels. The similar percentages create confusion rather than clarity.
+
+- **insight_discovery (1)**: No meaningful insights can be derived. The data shows 10 nearly identical categories (~1.3% each), which suggests either poor data segmentation or that a pie chart is entirely inappropriate for this dataset.
+
+- **design_style (2)**: The chart appears generic. For data this uniform, a pie chart is a poor choice regardless of styling.
+
+- **visual_composition (3)**: The layout is balanced with a clear legend positioned appropriately, though the composition doesn't compensate for the fundamental chart type problem.
+
+- **color_harmony (3)**: Colors are reasonably distinct and the palette is acceptable, though color differentiation cannot overcome the visual encoding problem with nearly identical slice sizes.
+
+**Recommendation**: A bar chart or table would be far more appropriate for displaying these nearly equal percentages.",end_turn,545,355,1,ok,2.0,2.0,1.0,2.0,3.0,3.0,2.1666666666666665,2915,3.56
+2949,P2,2949,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001558,"```json
+{
+  ""data_fidelity"": 3,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 2,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```",end_turn,1193,73,1,ok,3.0,2.0,2.0,2.0,2.0,3.0,2.3333333333333335,2949,2.25
+456,P2,456,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00146,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 3,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 2
+}
+```",end_turn,1095,73,1,ok,4.0,3.0,3.0,3.0,3.0,2.0,3.0,456,2.42
+2521,P2,2521,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002108,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,1743,73,1,ok,4.0,4.0,3.0,4.0,4.0,4.0,3.8333333333333335,2521,1.42
+473,P2,473,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00209,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,1725,73,1,ok,5.0,4.0,4.0,4.0,4.0,4.0,4.166666666666667,473,3.55
+3008,P2,3008,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002071,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 1,
+  ""design_style"": 3,
+  ""visual_composition"": 2,
+  ""color_harmony"": 4
+}
+```",end_turn,1706,73,1,ok,2.0,2.0,1.0,3.0,2.0,4.0,2.3333333333333335,3008,2.83
+2255,P2,2255,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00211,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,1745,73,1,ok,4.0,4.0,3.0,4.0,4.0,3.0,3.6666666666666665,2255,3.58
+2359,P2,2359,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00125,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,885,73,1,ok,4.0,2.0,2.0,4.0,4.0,3.0,3.1666666666666665,2359,2.06
+2284,P2,2284,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00146,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 4,
+  ""design_style"": 5,
+  ""visual_composition"": 5,
+  ""color_harmony"": 4
+}
+```",end_turn,1095,73,1,ok,5.0,5.0,4.0,5.0,5.0,4.0,4.666666666666667,2284,4.06
+2497,P2,2497,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002071,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,1706,73,1,ok,4.0,4.0,4.0,4.0,4.0,4.0,4.0,2497,4.08
+2674,P2,2674,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000942,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,577,73,1,ok,4.0,4.0,4.0,4.0,4.0,3.0,3.8333333333333335,2674,2.89
+2746,P2,2746,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001925,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 5,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,1560,73,1,ok,5.0,4.0,5.0,4.0,4.0,4.0,4.333333333333333,2746,2.67
+2638,P2,2638,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00211,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 2
+}
+```",end_turn,1745,73,1,ok,4.0,2.0,2.0,3.0,3.0,2.0,2.6666666666666665,2638,2.17
+2507,P2,2507,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002678,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 2,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: The multiple donut rings make it difficult to accurately compare the three values (48, 36, 16). The visual encoding doesn't clearly represent the proportional relationships, and the concentric design obscures rather than clarifies the data.
+
+- **semantic_readability (3)**: While the legend identifies the three categories (Covert Ford, Leif Johnson Ford, Maxwell Ford), the connection between the rings and categories is ambiguous. The central ""48%"" and ""283 Sold"" lack clear context about which category they represent.
+
+- **insight_discovery (2)**: The chart doesn't facilitate easy comparison of the three values. A reader cannot quickly determine relative magnitudes or meaningful patterns across the categories.
+
+- **design_style (4)**: The dark theme, modern gradient colors, and polished UI elements create a professional, contemporary aesthetic with good visual appeal.
+
+- **visual_composition (3)**: The layout is centered and balanced, but the multiple concentric rings create visual confusion. The legend placement is appropriate, though the relationship between visual elements and data could be clearer.
+
+- **color_harmony (4)**: The gradient color scheme (purple, orange, cyan) is visually appealing and creates good contrast against the dark background, though the color-to-data mapping could be more intuitive.",end_turn,823,371,1,ok,2.0,3.0,2.0,4.0,3.0,4.0,3.0,2507,3.39
+2443,P2,2443,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000982,"```json
+{
+  ""data_fidelity"": 3,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```",end_turn,617,73,1,ok,3.0,2.0,3.0,4.0,2.0,3.0,2.8333333333333335,2443,3.28
+2877,P2,2877,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001188,"```json
+{
+  ""data_fidelity"": 3,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,823,73,1,ok,3.0,3.0,3.0,4.0,4.0,4.0,3.5,2877,3.45
+2937,P2,2937,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00097,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,605,73,1,ok,5.0,5.0,4.0,4.0,4.0,3.0,4.166666666666667,2937,3.42
+2678,P2,2678,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002254,"```json
+{
+  ""data_fidelity"": 3,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 2,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (3)**: The frequency bars are accurate, but the cumulative percentage line is poorly integrated and difficult to read against the bar chart. The dual-axis approach creates confusion about what values correspond to what.
+
+- **semantic_readability (2)**: The chart is confusing due to mixed visualization types (bars + line) without clear axis labels. It's unclear which axis the percentages refer to, and the legend doesn't adequately explain the dual encoding.
+
+- **insight_discovery (2)**: While the data shows issue frequencies, the cumulative line obscures rather than clarifies patterns. The chart doesn't effectively highlight which issues are most critical or actionable.
+
+- **design_style (2)**: The combination of bar and line chart feels awkward and unprofessional. The percentage labels on the line are difficult to read and inconsistently positioned.
+
+- **visual_composition (2)**: Poor balance between the two chart types. The cumulative line competes with the bars for attention. Spacing and hierarchy are unclear—it's not obvious what the primary message should be.
+
+- **color_harmony (3)**: The blue bars are pleasant, but the cyan cumulative line doesn't contrast well enough and feels disconnected from the primary data visualization.",end_turn,484,354,1,ok,3.0,2.0,2.0,2.0,2.0,3.0,2.3333333333333335,2678,3.83
+2342,P2,2342,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00211,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 5,
+  ""color_harmony"": 4
+}
+```",end_turn,1745,73,1,ok,5.0,5.0,4.0,4.0,5.0,4.0,4.5,2342,3.83
+2388,P2,2388,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002546,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: Funnel charts distort data representation. The visual area doesn't accurately represent proportional differences—82.1% appears much larger than it should relative to 10.3%, 4.1%, 2.3%, and 1.2%. This is a fundamental limitation of funnel chart geometry.
+
+- **semantic_readability (3)**: While labels are present with percentages, the funnel format itself can be confusing. Readers must understand that funnel width represents magnitude, which isn't immediately intuitive for all audiences.
+
+- **insight_discovery (2)**: The chart shows stage progression but obscures the actual drop-off rates. A bar chart would more clearly reveal the magnitude of losses at each stage.
+
+- **design_style (3)**: Clean, professional appearance with clear labeling and legend, though somewhat generic.
+
+- **visual_composition (3)**: Reasonable balance and spacing, though the funnel's tapering creates an inherent compositional bias that emphasizes early stages.
+
+- **color_harmony (4)**: The color palette is cohesive and distinct, making stages easily differentiable. Colors are professional and accessible.",end_turn,851,339,1,ok,2.0,3.0,2.0,3.0,3.0,4.0,2.8333333333333335,2388,3.17
+2651,P2,2651,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000849,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 2,
+  ""color_harmony"": 4
+}
+```",end_turn,484,73,1,ok,4.0,3.0,3.0,4.0,2.0,4.0,3.3333333333333335,2651,2.33
+2385,P2,2385,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001746,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 2
+}
+```",end_turn,1381,73,1,ok,4.0,4.0,3.0,4.0,4.0,2.0,3.5,2385,2.08
+2775,P2,2775,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000941,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 2
+}
+```",end_turn,576,73,1,ok,4.0,3.0,2.0,3.0,3.0,2.0,2.8333333333333335,2775,3.08
+504,P2,504,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002395,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: Funnel charts distort proportional relationships. The visual width doesn't accurately represent the percentage values (e.g., 26% appears much larger than its true proportion due to the funnel's geometry). The percentages don't sum to 100%, creating ambiguity about what the remaining ~0% represents.
+
+- **semantic_readability (4)**: Labels are clear with stage names, percentages, and dollar amounts. The funnel metaphor is immediately recognizable for sales pipeline stages.
+
+- **insight_discovery (3)**: The chart shows the sales funnel progression, but the distorted visual encoding makes it harder to compare relative stage sizes accurately. The largest drop appears between Qualification and Closed Won, but this isn't visually obvious.
+
+- **design_style (4)**: Professional appearance with clean typography, appropriate labeling, and a polished aesthetic suitable for business presentations.
+
+- **visual_composition (3)**: While the funnel is centered and balanced, the tapering geometry creates uneven visual weight distribution that doesn't correspond to data values, affecting compositional clarity.
+
+- **color_harmony (4)**: The color palette (navy, green, purple, orange) is professional, distinct, and supports visual differentiation between stages without clashing.",end_turn,590,361,1,ok,2.0,4.0,3.0,4.0,3.0,4.0,3.3333333333333335,504,3.72
+443,P2,443,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002886,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 1,
+  ""design_style"": 2,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: The dual-ring sunburst chart creates confusion about what data is being represented. The inner and outer rings appear to show different metrics (Sales vs. Marketing Expenses) but the relationship is unclear. The percentages don't align intuitively between rings.
+
+- **semantic_readability (2)**: The chart title promises a comparison of ""Sales vs. Marketing Expenses,"" but it's ambiguous which ring represents which metric. Labels are scattered and difficult to follow, making it hard to understand the underlying data structure.
+
+- **insight_discovery (1)**: The visualization obscures rather than reveals patterns. It's unclear whether we're comparing two separate datasets or showing a breakdown of one metric. No meaningful insights about the relationship between sales and marketing expenses emerge.
+
+- **design_style (2)**: While the chart attempts a modern aesthetic, the dual-ring approach feels unnecessarily complex. The design doesn't serve a clear analytical purpose.
+
+- **visual_composition (2)**: Label placement is inconsistent and scattered around the chart. The white center circle and overlapping rings create visual clutter rather than clarity. Hierarchy is poorly established.
+
+- **color_harmony (3)**: The color palette is reasonably pleasant and distinct enough to differentiate categories, though the colors don't reinforce any meaningful data relationships or comparisons.",end_turn,1036,370,1,ok,2.0,2.0,1.0,2.0,2.0,3.0,2.0,443,3.5
+450,P2,450,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001082,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 5,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,717,73,1,ok,4.0,5.0,5.0,4.0,4.0,4.0,4.333333333333333,450,4.08
+2595,P2,2595,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000941,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 3,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 2
+}
+```",end_turn,576,73,1,ok,4.0,3.0,3.0,3.0,3.0,2.0,3.0,2595,1.86
+2422,P2,2422,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002235,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 1,
+  ""design_style"": 2,
+  ""visual_composition"": 2,
+  ""color_harmony"": 2
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: The pie chart distorts perception due to the exploded slices and irregular positioning. The 3D perspective effect (if present) further distorts area-to-value relationships, making accurate comparison difficult.
+
+- **semantic_readability (2)**: While labels are present, the chart lacks a legend or title explaining what data is being represented. It's unclear what the values represent (population, area, GDP, etc.).
+
+- **insight_discovery (1)**: The irregular layout and visual distortions make it nearly impossible to quickly compare values or identify meaningful patterns. The exploded slices obscure relative proportions.
+
+- **design_style (2)**: The design appears dated with inconsistent styling. The exploded slices seem arbitrary rather than purposeful, and the overall presentation lacks professional polish.
+
+- **visual_composition (2)**: The layout is unbalanced with labels scattered around the chart. The exploded slices create visual chaos rather than hierarchy or emphasis.
+
+- **color_harmony (2)**: While colors are distinct, they lack cohesion. The palette appears random without a clear strategy—mixing primary colors (red, yellow), secondary colors (green), and neutrals (gray) without apparent purpose or gradient logic.",end_turn,470,353,1,ok,2.0,2.0,1.0,2.0,2.0,2.0,1.8333333333333333,2422,3.17
+2464,P2,2464,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00091,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,545,73,1,ok,5.0,5.0,4.0,4.0,4.0,4.0,4.333333333333333,2464,4.0
+2512,P2,2512,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000941,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 5,
+  ""color_harmony"": 4
+}
+```",end_turn,576,73,1,ok,4.0,5.0,4.0,4.0,5.0,4.0,4.333333333333333,2512,3.28
+2829,P2,2829,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001775,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,1410,73,1,ok,4.0,4.0,3.0,4.0,4.0,4.0,3.8333333333333335,2829,3.11
+381,P2,381,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001126,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,761,73,1,ok,4.0,4.0,4.0,4.0,4.0,3.0,3.8333333333333335,381,3.25
+2922,P2,2922,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00208,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```",end_turn,1715,73,1,ok,2.0,3.0,2.0,3.0,3.0,4.0,2.8333333333333335,2922,3.67
+3043,P2,3043,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001642,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 2,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,1277,73,1,ok,5.0,3.0,2.0,4.0,4.0,3.0,3.5,3043,3.11
+2305,P2,2305,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00195,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 3
+}
+```",end_turn,1585,73,1,ok,4.0,3.0,4.0,4.0,3.0,3.0,3.5,2305,3.53
+2326,P2,2326,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002108,"```json
+{
+  ""data_fidelity"": 3,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 3
+}
+```",end_turn,1743,73,1,ok,3.0,2.0,2.0,3.0,3.0,3.0,2.6666666666666665,2326,1.8
+2839,P2,2839,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001188,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,823,73,1,ok,4.0,3.0,3.0,4.0,4.0,3.0,3.5,2839,2.33
+2523,P2,2523,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001954,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,1589,73,1,ok,5.0,5.0,3.0,4.0,4.0,3.0,4.0,2523,4.06
+2842,P2,2842,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000792,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 5,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,427,73,1,ok,5.0,4.0,5.0,4.0,4.0,4.0,4.333333333333333,2842,3.72
+2264,P2,2264,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002432,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 3
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (4)**: The box plots and individual data points accurately represent the distributions. However, the extreme overplotting in Parch 0 makes it difficult to verify all individual values visually.
+
+- **semantic_readability (2)**: The chart lacks a title and axis labels are minimal. ""Parch"" is unexplained (likely ""number of parents/children aboard"" from Titanic data), and ""Age"" is the only clear label. A reader unfamiliar with the dataset would struggle to understand what is being shown.
+
+- **insight_discovery (2)**: While the distributions are visible, the extreme overplotting in Parch 0 obscures patterns. The comparison across groups is difficult due to the visual clutter and lack of clear narrative guidance.
+
+- **design_style (3)**: The use of box plots with overlaid points is a reasonable approach, but the execution suffers from overplotting. The styling is functional but not particularly polished.
+
+- **visual_composition (3)**: The layout is reasonable with adequate spacing between groups, but the massive overplotting in the first category creates visual imbalance and draws disproportionate attention.
+
+- **color_harmony (3)**: Colors are distinct and distinguishable, but the palette feels somewhat arbitrary. The colors don't convey an obvious ordering or relationship between categories.",end_turn,537,379,1,ok,4.0,2.0,2.0,3.0,3.0,3.0,2.8333333333333335,2264,2.75
+2415,P2,2415,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001165,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 4,
+  ""design_style"": 3,
+  ""visual_composition"": 2,
+  ""color_harmony"": 2
+}
+```",end_turn,800,73,1,ok,4.0,3.0,4.0,3.0,2.0,2.0,3.0,2415,3.0
+3025,P2,3025,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.0021,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 2
+}
+```",end_turn,1735,73,1,ok,4.0,3.0,3.0,4.0,3.0,2.0,3.1666666666666665,3025,2.83
+2472,P2,2472,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002116,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 2,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,1751,73,1,ok,5.0,4.0,2.0,4.0,4.0,3.0,3.6666666666666665,2472,3.3
+2269,P2,2269,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00211,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,1745,73,1,ok,5.0,4.0,4.0,4.0,4.0,3.0,4.0,2269,2.42
+2627,P2,2627,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002108,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 1,
+  ""insight_discovery"": 1,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 5
+}
+```",end_turn,1743,73,1,ok,2.0,1.0,1.0,4.0,4.0,5.0,2.8333333333333335,2627,1.39
+2731,P2,2731,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00166,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 3,
+  ""design_style"": 3,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```",end_turn,1295,73,1,ok,4.0,2.0,3.0,3.0,2.0,3.0,2.8333333333333335,2731,2.72
+2940,P2,2940,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002054,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 2,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,1689,73,1,ok,4.0,5.0,2.0,4.0,4.0,4.0,3.8333333333333335,2940,4.11
+427,P2,427,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001188,"```json
+{
+  ""data_fidelity"": 3,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 2,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```",end_turn,823,73,1,ok,3.0,3.0,2.0,4.0,3.0,4.0,3.1666666666666665,427,3.08
+2630,P2,2630,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001355,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 3,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,990,73,1,ok,4.0,4.0,4.0,3.0,4.0,3.0,3.6666666666666665,2630,3.5
+522,P2,522,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001175,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,810,73,1,ok,5.0,4.0,4.0,4.0,4.0,3.0,4.0,522,3.31
+1329,P2,1329,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001294,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 3
+}
+```",end_turn,929,73,1,ok,4.0,4.0,3.0,4.0,3.0,3.0,3.5,1329,4.78
+2575,P2,2575,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00211,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,1745,73,1,ok,5.0,4.0,4.0,4.0,4.0,4.0,4.166666666666667,2575,4.5
+444,P2,444,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001075,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 3,
+  ""design_style"": 3,
+  ""visual_composition"": 2,
+  ""color_harmony"": 4
+}
+```",end_turn,710,73,1,ok,4.0,3.0,3.0,3.0,2.0,4.0,3.1666666666666665,444,3.67
+2990,P2,2990,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001188,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```",end_turn,823,73,1,ok,4.0,3.0,4.0,4.0,3.0,4.0,3.6666666666666665,2990,3.44
+2510,P2,2510,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001538,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,1173,73,1,ok,4.0,5.0,3.0,4.0,4.0,3.0,3.8333333333333335,2510,3.44
+534,P2,534,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000844,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 4,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 2
+}
+```",end_turn,479,73,1,ok,4.0,3.0,4.0,3.0,3.0,2.0,3.1666666666666665,534,3.08
+436,P2,436,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002212,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 2,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: The stacked area chart obscures individual data series. The orange area overlaps the blue, making it impossible to accurately read values for either series, especially where they intersect.
+
+- **semantic_readability (2)**: The chart lacks clear axis labels, title, and units. While a legend exists, the purpose and meaning of the data are unclear. The y-axis shows negative values in red text, which is confusing.
+
+- **insight_discovery (2)**: The overlapping areas make pattern recognition difficult. Readers cannot easily compare the two series or identify trends without being able to see the underlying values.
+
+- **design_style (2)**: The chart appears unfinished with placeholder-like elements (gray circles at corners), inconsistent formatting, and unclear labeling conventions.
+
+- **visual_composition (2)**: The layout is unbalanced with excessive white space and awkwardly positioned elements. The legend placement and axis label positioning are suboptimal.
+
+- **color_harmony (3)**: The blue and orange colors have reasonable contrast, though the orange-on-blue stacking reduces clarity. The red text for negative values adds visual noise without improving comprehension.",end_turn,507,341,1,ok,2.0,2.0,2.0,2.0,2.0,3.0,2.1666666666666665,436,2.67
+2589,P2,2589,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002098,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 5,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,1733,73,1,ok,5.0,5.0,5.0,4.0,4.0,3.0,4.333333333333333,2589,2.53
+2557,P2,2557,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000836,"```json
+{
+  ""data_fidelity"": 3,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```",end_turn,471,73,1,ok,3.0,2.0,2.0,3.0,2.0,3.0,2.5,2557,2.36
+2783,P2,2783,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001616,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,1251,73,1,ok,5.0,4.0,3.0,4.0,4.0,3.0,3.8333333333333335,2783,2.11
+2933,P2,2933,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00329,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 1,
+  ""design_style"": 2,
+  ""visual_composition"": 2,
+  ""color_harmony"": 2
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: The treemap lacks numerical labels, axis values, or any quantitative indicators. It's impossible to verify if the rectangle sizes accurately represent the underlying data values.
+
+- **semantic_readability (2)**: While the legend identifies marital status categories, the chart provides no clear indication of what the age groups are, what salary ranges correspond to colors, or how to interpret the visualization systematically.
+
+- **insight_discovery (1)**: The lack of labels, legends for age/salary dimensions, and unclear visual hierarchy makes pattern discovery nearly impossible. Readers cannot extract meaningful insights.
+
+- **design_style (2)**: The design appears incomplete and unpolished. Missing axis labels, unclear color-to-variable mappings, and no data annotations undermine professionalism.
+
+- **visual_composition (2)**: The layout is confusing with unclear hierarchies. The relationship between the three variables (salary, age, marital status) is not clearly established through visual organization.
+
+- **color_harmony (2)**: While individual colors are vibrant, the color scheme lacks a coherent strategy. Colors don't systematically represent salary levels or age groups, creating visual confusion rather than harmony.",end_turn,1585,341,1,ok,2.0,2.0,1.0,2.0,2.0,2.0,1.8333333333333333,2933,2.17
+411,P2,411,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002071,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 2,
+  ""visual_composition"": 3,
+  ""color_harmony"": 2
+}
+```",end_turn,1706,73,1,ok,4.0,2.0,2.0,2.0,3.0,2.0,2.5,411,2.0
+3045,P2,3045,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000844,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 4,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```",end_turn,479,73,1,ok,4.0,3.0,4.0,3.0,3.0,4.0,3.5,3045,2.83
+433,P2,433,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001883,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,1518,73,1,ok,5.0,5.0,4.0,4.0,4.0,4.0,4.333333333333333,433,4.33
+2764,P2,2764,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00112,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 5,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,755,73,1,ok,4.0,5.0,5.0,4.0,4.0,3.0,4.166666666666667,2764,3.78
+488,P2,488,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002101,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,1736,73,1,ok,4.0,5.0,3.0,4.0,4.0,3.0,3.8333333333333335,488,2.56
+2559,P2,2559,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001253,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 3,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 2
+}
+```",end_turn,888,73,1,ok,4.0,2.0,3.0,3.0,3.0,2.0,2.8333333333333335,2559,2.19
+2323,P2,2323,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001253,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 3,
+  ""design_style"": 3,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```",end_turn,888,73,1,ok,4.0,3.0,3.0,3.0,2.0,3.0,3.0,2323,2.22
+2500,P2,2500,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000771,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,406,73,1,ok,5.0,4.0,4.0,4.0,4.0,3.0,4.0,2500,3.22
+2656,P2,2656,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001746,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```",end_turn,1381,73,1,ok,4.0,4.0,4.0,4.0,3.0,4.0,3.8333333333333335,2656,3.17
+2904,P2,2904,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001125,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 3
+}
+```",end_turn,760,73,1,ok,4.0,4.0,4.0,4.0,3.0,3.0,3.6666666666666665,2904,3.0
+506,P2,506,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002152,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 4,
+  ""design_style"": 3,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: The funnel chart distorts the data representation. The visual width of each section doesn't accurately correspond to the numerical values. For example, ""Screened - 2,596"" appears disproportionately large relative to ""Applications - 4,271,"" which should be larger.
+
+- **semantic_readability (3)**: While labels are clear and values are provided, the funnel format can be confusing since applications (the largest number) appear at the top but don't visually dominate as expected.
+
+- **insight_discovery (4)**: The funnel effectively shows the recruitment pipeline progression and drop-off rates at each stage, making it easy to identify where candidates are lost.
+
+- **design_style (3)**: Professional appearance with clear labeling, though the funnel metaphor choice is questionable for this data type.
+
+- **visual_composition (2)**: The inverted funnel layout creates awkward spacing, and the narrowing effect doesn't align with the actual data hierarchy, creating visual confusion.
+
+- **color_harmony (3)**: Colors are distinct and readable, though the progression doesn't follow a logical gradient that might reinforce the funnel concept.",end_turn,437,343,1,ok,2.0,3.0,4.0,3.0,2.0,3.0,2.8333333333333335,506,3.61
+455,P2,455,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002114,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 2
+}
+```",end_turn,1749,73,1,ok,5.0,4.0,4.0,4.0,4.0,2.0,3.8333333333333335,455,2.5
+2725,P2,2725,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00208,"```json
+{
+  ""data_fidelity"": 3,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 2,
+  ""color_harmony"": 2
+}
+```",end_turn,1715,73,1,ok,3.0,3.0,2.0,3.0,2.0,2.0,2.5,2725,3.0
+2824,P2,2824,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002364,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 1,
+  ""design_style"": 2,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: The funnel chart distorts proportions significantly. The width of each segment doesn't accurately represent the underlying data values, making quantitative comparison unreliable.
+
+- **semantic_readability (2)**: While labels are present, the chart type itself is ambiguous. Without a clear title or context, it's unclear what the data represents or what the progression means.
+
+- **insight_discovery (1)**: The chart provides minimal insight. The funnel structure suggests a progression or filtering process, but without context or values, no meaningful patterns can be identified.
+
+- **design_style (2)**: The design appears dated and lacks professional polish. The trapezoid/funnel shape is somewhat arbitrary for this data presentation.
+
+- **visual_composition (2)**: The layout is unbalanced with inconsistent spacing. The narrowing effect creates visual tension that doesn't necessarily serve the data story.
+
+- **color_harmony (3)**: The color palette is reasonably diverse and distinguishable, though the colors don't follow a logical progression or hierarchy that would enhance understanding.",end_turn,779,317,1,ok,2.0,2.0,1.0,2.0,2.0,3.0,2.0,2824,3.17
+2653,P2,2653,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00208,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 2,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```",end_turn,1715,73,1,ok,4.0,3.0,2.0,4.0,3.0,4.0,3.3333333333333335,2653,4.08
+502,P2,502,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001177,"```json
+{
+  ""data_fidelity"": 3,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,812,73,1,ok,3.0,4.0,3.0,4.0,4.0,3.0,3.5,502,3.89
+2745,P2,2745,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000858,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,493,73,1,ok,5.0,4.0,4.0,4.0,4.0,3.0,4.0,2745,3.92
+2249,P2,2249,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001318,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,953,73,1,ok,5.0,4.0,4.0,4.0,4.0,3.0,4.0,2249,2.67
+472,P2,472,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002114,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,1749,73,1,ok,5.0,4.0,4.0,4.0,4.0,3.0,4.0,472,3.33
+2956,P2,2956,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.0028,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 1,
+  ""design_style"": 2,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: A funnel chart distorts data representation through its tapering shape. The visual width of each segment doesn't accurately represent the underlying values, making quantitative comparison difficult without explicit labels.
+
+- **semantic_readability (2)**: While labels are present, the chart type itself is ambiguous. Without values or percentages, it's unclear what metric is being measured or whether this represents a conversion funnel, distribution, or hierarchy.
+
+- **insight_discovery (1)**: The chart provides minimal insight. There's no clear narrative about what's happening across these companies/platforms, no visible trends, and no context for why these entities are being compared in a funnel format.
+
+- **design_style (2)**: The design is basic and lacks polish. Missing data labels, no legend, unclear title context (""Copy of Will Weekly sent"" is vague), and no supporting information diminish professionalism.
+
+- **visual_composition (2)**: The layout is unbalanced with the funnel narrowing dramatically, creating awkward negative space. The bottom sections (Target, Wells Fargo) appear cramped compared to the top.
+
+- **color_harmony (3)**: Colors are distinct and reasonably pleasant, though the selection appears arbitrary with no clear logic connecting color to category or value.",end_turn,985,363,1,ok,2.0,2.0,1.0,2.0,2.0,3.0,2.0,2956,3.33
+3037,P2,3037,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00113,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,765,73,1,ok,5.0,4.0,4.0,4.0,4.0,3.0,4.0,3037,2.44
+519,P2,519,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001746,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 2
+}
+```",end_turn,1381,73,1,ok,4.0,2.0,2.0,3.0,3.0,2.0,2.6666666666666665,519,2.06
+439,P2,439,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001746,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 2,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```",end_turn,1381,73,1,ok,2.0,3.0,2.0,4.0,3.0,4.0,3.0,439,2.83
+2334,P2,2334,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000895,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```",end_turn,530,73,1,ok,2.0,2.0,2.0,3.0,3.0,4.0,2.6666666666666665,2334,2.17
+2808,P2,2808,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00303,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 3,
+  ""design_style"": 3,
+  ""visual_composition"": 2,
+  ""color_harmony"": 4
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: The flowing/organic shapes make it difficult to accurately compare values. The visual encoding doesn't preserve proportional relationships well—areas don't correspond clearly to the numerical values stated.
+
+- **semantic_readability (3)**: While labels are present with specific dollar amounts, the organic visualization style obscures the hierarchical relationships. Readers must rely on text labels rather than visual encoding to understand the data.
+
+- **insight_discovery (3)**: The chart shows the breakdown adequately, but the artistic style doesn't facilitate pattern recognition or comparative analysis. The distinction between domestic and overseas cash is clear, but relationships within categories are harder to discern.
+
+- **design_style (3)**: The design is modern and visually interesting, but prioritizes aesthetics over clarity. For a financial/analytical context, this is somewhat inappropriate.
+
+- **visual_composition (2)**: The layout is crowded with overlapping elements. The positioning of labels (especially the top 5 tech companies) is cramped and difficult to parse. Hierarchy could be clearer.
+
+- **color_harmony (4)**: The blue gradient palette is cohesive and professional. The color scheme supports the financial/corporate theme well, though differentiation between categories could be stronger.",end_turn,1265,353,1,ok,2.0,3.0,3.0,3.0,2.0,4.0,2.8333333333333335,2808,2.25
+3020,P2,3020,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002071,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 1,
+  ""insight_discovery"": 1,
+  ""design_style"": 3,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,1706,73,1,ok,2.0,1.0,1.0,3.0,4.0,3.0,2.3333333333333335,3020,2.5
+2587,P2,2587,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001253,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 2
+}
+```",end_turn,888,73,1,ok,4.0,2.0,2.0,3.0,3.0,2.0,2.6666666666666665,2587,3.11
+2923,P2,2923,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002625,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 3
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: Funnel charts distort data representation. The visual width doesn't accurately correspond to the numerical values (500, 432, 321, 217, 83). The trapezoid shapes create a misleading visual comparison where differences appear exaggerated or minimized depending on position.
+
+- **semantic_readability (2)**: Without labels or a legend, it's unclear what each segment represents. The gray bars on the right have no explanation. The context and meaning of the data are ambiguous.
+
+- **insight_discovery (2)**: While the decreasing trend is visible, the funnel format obscures whether this represents a conversion funnel, attrition, or something else. The lack of context prevents meaningful insight extraction.
+
+- **design_style (3)**: The chart has a clean, modern appearance with professional formatting and clear typography, though the choice of funnel chart itself is questionable for this data.
+
+- **visual_composition (3)**: Layout is balanced with adequate spacing. The funnel is centered and the gray reference bars are aligned, though their purpose is unclear.
+
+- **color_harmony (3)**: Colors are distinct and reasonably harmonious (blue, teal, orange, blue, gray), though the color scheme lacks clear semantic meaning and the repeated blue is potentially confusing.",end_turn,785,368,1,ok,2.0,2.0,2.0,3.0,3.0,3.0,2.5,2923,1.61
+2846,P2,2846,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00095,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,585,73,1,ok,4.0,3.0,2.0,3.0,4.0,4.0,3.3333333333333335,2846,2.92
+2927,P2,2927,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002114,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 3
+}
+```",end_turn,1749,73,1,ok,5.0,4.0,4.0,4.0,3.0,3.0,3.8333333333333335,2927,2.67
+2666,P2,2666,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002594,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: Pie charts are inherently poor at representing data accurately, especially with many small slices. The human eye cannot reliably compare angles and areas, particularly for similar-sized segments. Many values here (0-1%) are nearly impossible to distinguish visually.
+
+- **semantic_readability (2)**: With 30+ categories, the chart is cluttered and difficult to parse. Many labels overlap or point to tiny slices. The reader must work hard to understand what's being measured and compare values.
+
+- **insight_discovery (2)**: While ""Weight & Fitness"" at 42% stands out, the remaining 58% is fragmented into dozens of small pieces, making pattern recognition difficult. The chart doesn't facilitate meaningful comparisons or insights about the smaller categories.
+
+- **design_style (3)**: The chart is competently executed with clear labeling and professional appearance, but the fundamental choice of visualization type undermines the design.
+
+- **visual_composition (2)**: The layout is cramped with too many labels radiating outward. The hierarchy is unclear—it's difficult to know where to focus attention. The composition doesn't guide the viewer effectively.
+
+- **color_harmony (3)**: The color palette is reasonably pleasant and distinct enough to differentiate segments, though with 30+ categories, some colors are necessarily similar.",end_turn,714,376,1,ok,2.0,2.0,2.0,3.0,2.0,3.0,2.3333333333333335,2666,3.11
+2680,P2,2680,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002101,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,1736,73,1,ok,5.0,5.0,4.0,4.0,4.0,4.0,4.333333333333333,2680,2.44
+530,P2,530,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002071,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 2,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```",end_turn,1706,73,1,ok,2.0,3.0,2.0,4.0,3.0,4.0,3.0,530,2.5
+2665,P2,2665,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001043,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""color_harmony"": 3,
+  ""visual_composition"": 4
+}
+```",end_turn,678,73,1,ok,4.0,4.0,3.0,4.0,4.0,3.0,3.6666666666666665,2665,3.25
+3021,P2,3021,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002926,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 2,
+  ""color_harmony"": 4
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: Concentric pie/donut charts are inherently problematic for accurate comparison. The outer ring segments are difficult to compare due to their varying arc lengths and radii, making precise value assessment nearly impossible.
+
+- **semantic_readability (2)**: While labels are present, the nested structure creates confusion about what is being compared. The relationship between gender categories and age groups is unclear, and the hierarchy is ambiguous.
+
+- **insight_discovery (2)**: The chart obscures rather than reveals patterns. Comparing age distributions across genders or identifying demographic trends requires significant cognitive effort due to the visualization choice.
+
+- **design_style (3)**: The chart is clean and professionally rendered with clear labeling, but the fundamental design choice undermines its effectiveness.
+
+- **visual_composition (2)**: The nested rings create visual clutter. The balance between the center circle and outer rings is awkward, and the segmentation makes it difficult to parse the information hierarchy.
+
+- **color_harmony (4)**: The light-to-dark blue gradient effectively distinguishes gender categories, and the neutral gray center provides good contrast. Color choices are professional and aesthetically pleasing.",end_turn,1241,337,1,ok,2.0,2.0,2.0,3.0,2.0,4.0,2.5,3021,4.11
+2626,P2,2626,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001327,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 4,
+  ""design_style"": 5,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,962,73,1,ok,4.0,5.0,4.0,5.0,4.0,4.0,4.333333333333333,2626,4.22
+2869,P2,2869,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000902,"```json
+{
+  ""data_fidelity"": 3,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 2,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```",end_turn,537,73,1,ok,3.0,2.0,2.0,2.0,2.0,3.0,2.3333333333333335,2869,3.61
+2566,P2,2566,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001642,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 5,
+  ""visual_composition"": 4,
+  ""color_harmony"": 5
+}
+```",end_turn,1277,73,1,ok,4.0,4.0,4.0,5.0,4.0,5.0,4.333333333333333,2566,4.0
+2716,P2,2716,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00113,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,765,73,1,ok,5.0,3.0,4.0,4.0,4.0,4.0,4.0,2716,2.55
+2401,P2,2401,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001746,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,1381,73,1,ok,5.0,4.0,4.0,4.0,4.0,3.0,4.0,2401,2.53
+2744,P2,2744,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002116,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 4,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 2
+}
+```",end_turn,1751,73,1,ok,4.0,3.0,4.0,3.0,3.0,2.0,3.1666666666666665,2744,3.17
+2688,P2,2688,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001026,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 5,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 5,
+  ""color_harmony"": 4
+}
+```",end_turn,661,73,1,ok,5.0,5.0,4.0,4.0,5.0,4.0,4.5,2688,3.45
+2885,P2,2885,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.003649,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 1,
+  ""design_style"": 2,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: The sunburst chart distorts perception through angular encoding. Comparing values across rings and segments is difficult; similar percentages appear vastly different in size depending on their position.
+
+- **semantic_readability (2)**: The chart lacks a clear title or legend explanation. It's unclear what the data represents (operating systems? geographic regions? user demographics?). The country/region codes are ambiguous without context.
+
+- **insight_discovery (1)**: The dual-ring structure obscures patterns rather than revealing them. Comparing the inner ring (OSX, win 8, iOS, etc.) to outer ring segments is cognitively taxing. No clear narrative emerges.
+
+- **design_style (2)**: While technically competent, the chart feels cluttered with numerous labels and lacks visual hierarchy. The purpose and context are missing.
+
+- **visual_composition (2)**: Labels crowd the chart; some are difficult to read. The relationship between inner and outer rings is unclear. Spacing is inconsistent.
+
+- **color_harmony (3)**: Colors are reasonably distinct and the palette is acceptable, though some similar hues (various greens, browns) could cause confusion when comparing segments.
+
+**Recommendation**: Consider a bar chart or table for clearer comparison, or simplify to a single-ring donut chart with better labeling and context.",end_turn,1749,380,1,ok,2.0,2.0,1.0,2.0,2.0,3.0,2.0,2885,3.53
+2662,P2,2662,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002118,"```json
+{
+  ""data_fidelity"": 3,
+  ""semantic_readability"": 1,
+  ""insight_discovery"": 1,
+  ""design_style"": 2,
+  ""visual_composition"": 2,
+  ""color_harmony"": 2
+}
+```",end_turn,1753,73,1,ok,3.0,1.0,1.0,2.0,2.0,2.0,1.8333333333333333,2662,1.05
+2973,P2,2973,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001138,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,773,73,1,ok,5.0,4.0,4.0,4.0,4.0,3.0,4.0,2973,2.92
+2328,P2,2328,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002167,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 1,
+  ""insight_discovery"": 1,
+  ""design_style"": 2,
+  ""visual_composition"": 2,
+  ""color_harmony"": 3
+}
+```
+
+**Rationale:**
+- **data_fidelity (2)**: The chart lacks clear labels, legend, and axis titles. It's unclear what the blue box represents, what the error bars/whiskers indicate, or what the two small symbols on the right mean. The data encoding is ambiguous.
+- **semantic_readability (1)**: Without a title, axis labels, or legend, it's nearly impossible to understand what this visualization is communicating. The purpose and meaning are completely unclear.
+- **insight_discovery (1)**: The lack of context and labeling prevents any meaningful pattern recognition or insight extraction.
+- **design_style (2)**: While the chart uses a clean grid and professional font, the absence of essential elements (title, labels, legend) makes it appear incomplete and unprofessional.
+- **visual_composition (2)**: The layout is sparse and unbalanced. The blue box dominates the left side while the right side is mostly empty, creating poor visual hierarchy.
+- **color_harmony (3)**: The blue color is pleasant and the grayscale elements are neutral, but color choices cannot compensate for the fundamental clarity issues.",end_turn,537,326,1,ok,2.0,1.0,1.0,2.0,2.0,3.0,1.8333333333333333,2328,2.11
+2179,P2,2179,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00109,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 1,
+  ""insight_discovery"": 1,
+  ""design_style"": 2,
+  ""visual_composition"": 2,
+  ""color_harmony"": 2
+}
+```",end_turn,725,73,1,ok,2.0,1.0,1.0,2.0,2.0,2.0,1.6666666666666667,2179,1.5
+2756,P2,2756,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001576,"```json
+{
+  ""data_fidelity"": 3,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```",end_turn,1211,73,1,ok,3.0,2.0,2.0,3.0,3.0,4.0,2.8333333333333335,2756,1.58
+2588,P2,2588,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001253,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```",end_turn,888,73,1,ok,4.0,3.0,2.0,3.0,3.0,4.0,3.1666666666666665,2588,3.0
+2583,P2,2583,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002118,"```json
+{
+  ""data_fidelity"": 5,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,1753,73,1,ok,5.0,4.0,4.0,4.0,4.0,4.0,4.166666666666667,2583,2.58
+2827,P2,2827,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.000975,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```",end_turn,610,73,1,ok,2.0,2.0,2.0,4.0,3.0,4.0,2.8333333333333335,2827,2.42
+383,P2,383,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00146,"```json
+{
+  ""data_fidelity"": 1,
+  ""semantic_readability"": 1,
+  ""insight_discovery"": 1,
+  ""design_style"": 2,
+  ""visual_composition"": 2,
+  ""color_harmony"": 2
+}
+```",end_turn,1095,73,1,ok,1.0,1.0,1.0,2.0,2.0,2.0,1.5,383,1.28
+512,P2,512,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00218,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: Funnel charts distort proportions due to their trapezoidal shape. The visual width doesn't accurately represent the numerical differences (500→350→200→120). A bar chart would show these ratios more truthfully.
+
+- **semantic_readability (3)**: While the legend is clear and labels are present, the funnel metaphor may confuse some viewers about whether it represents a conversion process or just a ranking. The purpose isn't immediately obvious.
+
+- **insight_discovery (2)**: The chart shows a declining sequence but doesn't reveal *why* or the conversion rates between stages. It's unclear if this represents a sales funnel with conversion metrics or just a ranked list.
+
+- **design_style (3)**: Professional appearance with clean typography and appropriate styling, though somewhat generic. The design is competent but not distinctive.
+
+- **visual_composition (3)**: Balanced layout with adequate spacing. The legend placement is appropriate, though the overall composition is fairly standard.
+
+- **color_harmony (4)**: The color palette (blue, green, gray, orange) is cohesive and professional. Colors are distinct enough for differentiation while maintaining visual harmony.",end_turn,470,342,1,ok,2.0,3.0,2.0,3.0,3.0,4.0,2.8333333333333335,512,3.5
+2419,P2,2419,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001327,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 3
+}
+```",end_turn,962,73,1,ok,4.0,4.0,3.0,4.0,4.0,3.0,3.6666666666666665,2419,3.61
+2397,P2,2397,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001882,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 3,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,1517,73,1,ok,4.0,4.0,3.0,4.0,4.0,4.0,3.8333333333333335,2397,3.61
+2306,P2,2306,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00146,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 4,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```",end_turn,1095,73,1,ok,4.0,4.0,4.0,4.0,3.0,4.0,3.8333333333333335,2306,3.56
+2942,P2,2942,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.001272,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 4,
+  ""insight_discovery"": 5,
+  ""design_style"": 4,
+  ""visual_composition"": 4,
+  ""color_harmony"": 4
+}
+```",end_turn,907,73,1,ok,4.0,4.0,5.0,4.0,4.0,4.0,4.166666666666667,2942,2.67
+3001,P2,3001,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002494,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 2,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: The funnel visualization is misleading. Funnel charts typically show sequential stages where values decrease. Here, the widths don't accurately represent the point values (e.g., Robert has 20,268 points but appears smaller than others). The geometric distortion of a 3D funnel makes accurate comparison impossible.
+
+- **semantic_readability (3)**: While labels are clear and readable, the chart type itself is confusing. It's unclear why a funnel was chosen for comparing individual scores rather than a simpler bar chart.
+
+- **insight_discovery (2)**: The funnel format obscures rather than reveals patterns. It's difficult to quickly rank or compare the values due to the visual distortion and non-intuitive layout.
+
+- **design_style (4)**: Professional appearance with consistent typography, good use of negative space, and modern aesthetic. The 3D effect is polished.
+
+- **visual_composition (3)**: Layout is balanced, but the funnel's geometric shape creates awkward spacing. The bottom section feels cramped compared to the top.
+
+- **color_harmony (4)**: Teal and coral/pink colors are complementary and visually appealing. Good contrast and consistent color coding (teal for some names, pink for others).",end_turn,669,365,1,ok,2.0,3.0,2.0,4.0,3.0,4.0,3.0,3001,3.11
+3040,P2,3040,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002059,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 3,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 3
+}
+```
+
+**Rationale:**
+
+- **data_fidelity (2)**: Stacked area charts distort perception of values for middle categories. The yellow and red sections' actual magnitudes are difficult to assess accurately since they don't share a common baseline.
+
+- **semantic_readability (3)**: While the legend is clear and axis labels present, the chart type makes it challenging to read exact values for non-baseline categories. Data labels help but are small.
+
+- **insight_discovery (2)**: The chart shows trends over time, but the stacked format obscures individual category performance. It's hard to see if middle categories are growing or shrinking independently.
+
+- **design_style (3)**: Professional appearance with consistent formatting, though the chart type choice is questionable for this data.
+
+- **visual_composition (3)**: Adequate spacing and layout, but the stacked area format creates visual imbalance where some categories appear more prominent due to positioning rather than actual importance.
+
+- **color_harmony (3)**: Colors are distinct and reasonably harmonious, though the yellow is somewhat bright. Color selection supports differentiation but doesn't enhance the message.",end_turn,449,322,1,ok,2.0,3.0,2.0,3.0,3.0,3.0,2.6666666666666665,3040,3.22
+2772,P2,2772,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.002101,"```json
+{
+  ""data_fidelity"": 4,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 3,
+  ""visual_composition"": 3,
+  ""color_harmony"": 3
+}
+```",end_turn,1736,73,1,ok,4.0,2.0,2.0,3.0,3.0,3.0,2.8333333333333335,2772,2.39
+390,P2,390,haiku-4.5,global.anthropic.claude-haiku-4-5-20251001-v1:0,0.00196,"```json
+{
+  ""data_fidelity"": 2,
+  ""semantic_readability"": 2,
+  ""insight_discovery"": 2,
+  ""design_style"": 4,
+  ""visual_composition"": 3,
+  ""color_harmony"": 4
+}
+```",end_turn,1595,73,1,ok,2.0,2.0,2.0,4.0,3.0,4.0,2.8333333333333335,390,3.0

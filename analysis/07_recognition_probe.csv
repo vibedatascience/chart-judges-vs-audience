@@ -1,0 +1,583 @@
+judge,post_id,raw,seen,guess_title,guess_year,parsed,true_title,true_year,title_sim,recall,ocr_text,guess_vs_ocr,true_title_in_image,recall_not_in_image
+gpt-5,2020-07-0383,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] Trending Google Searches by State Between 2018 and 2020,2020,0.0,False,Bitcoin Bitcoin Price Bitcoin Bitcoin Price Price Bitcoin Price Price Bitcoin Price __ Nintendo Lil Switch Lil Pump Bitcoin Price Nintendo Nintendo Cardi B Cardi B Cardi B Switch Switch Nintendo Cardi B Lil Pump Switch Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Nintendo | Bitcoin Pricel Nintendo Cardi B Switch Cardi B Cardi B Switch Cardi B Cardi B Cardi B 'Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B 01 JAN ~Nintendo Switch Cardi B 2018 Bitcoin Price Vi Analytics Sources: Google Year in Search; Google Trends Pump?,66.66666666666667,True,False
+gpt-5,2020-08-0276,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,I analysed 70 years of baby names in the US to decide what to call a male Karen. It's Terry. [OC],2020,0.0,False,Men named Terry tend to be of the same age as women named Karen Number of births per year in the US as a % of peak popularity 100% 75% 50% 25% 0% 1960 1980 2000 2020 nathancunncom (@nathcun); data from package {babynames},66.66666666666667,True,False
+gpt-5,2020-04-0436,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,For everyone asking why i didn't include the Spanish Flu and other plagues in my last post... [OC],2020,0.0,False,Ebola 2014 59 Ebola 2018 20 1918 Spanish Flu COVID-19 2020 Cholera 2008 Cholera 2010 Cholera 2016 MERS 2012 Measles 2011 Measles - 2019 Meningitis 2009 SARS - 2002 Swine Flu 2009 Day 1,66.66666666666667,True,False
+gpt-5,2020-07-0189,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,US College Tuition & Fees vs. Overall Inflation [OC],2020,0.0,False,Less Education For Your Buck +1184% 1200% Tuition Inflation (US) 1000% Overall Inflation (US CPI) 800% 600% 400% +228% 200% 0% 1980 1985 1990 1995 2000 2005 2010 2015 2020 Source: US Bureau of Labor Statistics chartr College,33.333333333333336,True,False
+gpt-5,2019-03-0542,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,Let's hear it for the lurkers! The vast majority of Reddit users don't post or comment. [OC],2019,0.0,False,"More than 98% 0f Reddit users are lurkers who don't post or comment 1.9% Users who comment or post Lurkers 98 . 1% Created by TrueBirch: Reddit claims it has 330 million active monthly users Monthly datasets from pushshiftio contain posts and comments from 6.4 million different users, suggesting that 98.1% of Reddit users are lurkers.",66.66666666666667,True,False
+gpt-5,2020-10-0031,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,A wish for election night data visualization [OC],2020,0.0,False,"Media;, on election night: Don't use charts like this: Use charts like THIS: 5% of Precincts Reporting 5%/ of Precincts Reporting Ttum Clinton Erd Trump 46.39/0 Clinton 53.7%/ dntn Yot Lea And include ALL projected mail-in votes in the totals, so if there are lots absenteelmail-in ballots that haven't been counted; they SHOW UP as not counted *Data from CNN 2016 Presidential election results by county yet!",66.66666666666667,True,False
+gpt-5,2020-11-0503,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] u/IHateTheLetterF is a mad lad,2020,0.0,False,THateTheLetterF is a mad lad Past   1000) comments 600o 1 400O 5 # 2000 A B C D E F G H I J K L M N 0 P Q R S T U V W X Y 7 Normalized to uppercase,33.333333333333336,True,False
+gpt-5,2020-08-0628,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,"[OC] What I'm about to learn about after my kid says, ""Wanna know somefing?"" Data collected over the course of 7 days.",2020,0.0,False,Wanna Know Somefing? Story Pirates 1.8% Math Facts Minecraft 17.5%/ 3.5% Animal Facts 3.5% Space Facts 5.3% Dogman 3.5% Paper Mario Calvin and Hobbes 7.0% 3.5% Garfield 7.0% Mariokart 1.8% Wild Kratz Future Aspirations 7.0% 5.3% Past Experiences Gravity Falls 5.3% 7.0% Spongebob Current Happenings 5.3% Captain Underpants 10.5%/ 5%/,66.66666666666667,False,False
+gpt-5,2020-08-0039,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,The environmental impact of Beyond Meat and a beef patty [OC],2020,0.0,False,"Beyond Meat patty vs Beef patty Beyond Meat (113g/ Greenhouse Gas Beef patty (113g/ 402) Emissions (Kg COZe) Estimated Methane 0,3976 Production (Kg  Use (MJ) 114 Land Use 3,8 (m2 a-e) 0,11 Water Use 21,84 (Liters e) 402) Energy",66.66666666666667,True,False
+gpt-5,2018-04-0264,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,Gaze and foot placement when walking over rough terrain (article link in comments) [OC],2018,0.0,False,Rough Terrain Full Speed Playback Famed 2 RR 002695 SF 002680 I/s 29.65 00.01.30 X: 0276 Y:-0001 LookAhead vs Time 2D Gaze on Ground Eye-in-Head Position 3000 I000 Legend 2500 Center = Mass Posilion Current Gaze Posilon 2000 Righi (oci sleps Lelt fcot sleps 1500 1 Vertical 1 1OO0 1 [ s00 Horizontal 500 1000 1500 2000 2500 3000 225 22.0 -15 41.0 0.5 Seconds from current frame mm Seconds from current frame,66.66666666666667,True,False
+gpt-5,2020-08-0565,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,"How representative are the representatives? The demographics of the U.S. Congress, broken down by party [OC].",2020,0.0,False,DEMOGRAPHICS OF THE UNITED STATES CONGRESS (2020) DEMOCRATIC US POPULATION REPUBLICAN REPRESENTATIVES REPRESENTATIVES 4444 RELIGION PROTESTANT CATHOLIC MORMON Oahhonoy CHAISTIAN MUSLIM JEWISH HINDU buddhIST OTHER DONT KNOW UNAFFILIATED RACE WHITE LATINO/HISP BLACK ASIAN/PAC.ISL  NATIVE AME: TWO OR MORE SEX FEMALE MALE Ulecce*Ovin,33.333333333333336,False,False
+gpt-5,2020-04-0408,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,Coronavirus Deaths vs Other Epidemics From Day of First Death (Since 2000) [OC],2020,0.0,False,1000 2000 3000 Cholera 2010 3260 COVID-19 2020 2970 Swime Flu 2015 1123 Meningitis 2009 879 Swine Flu 2009 724 SARS 2002 513 Measles 2011 223 Measles 2019 207 Ebola 2014 184 Ebola 2018 104 Cholera 2016 86 Cholera 2008 40 MERS - 2012 Day 60,66.66666666666667,True,False
+gpt-5,2020-08-0615,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] Most Popular Web Browsers between 1995 and 2019,2020,0.0,False,Netscape Pie Chart Pirate (80.1 %) Other (7 .1%) Mosaic (10.8%) Pie Chart Pirate 1994,33.333333333333336,False,False
+gpt-5,2020-01-0202,"{""seen"": true, ""title"": ""Leonardo DiCaprio refuses to date a woman his age"", ""year"": 2019}",True,Leonardo DiCaprio refuses to date a woman his age,2019.0,True,Leonardo DiCaprio Refuses to Date a Woman His Age [OC],2020,85.4368932038835,True,"L E 0 N A R D 0 D | C A P R / 0 R E F U $ E $ T 0 D A T E A W 0 M A N H| $ A G E HE GETS OLDER THEY STAY THE SAME AGE LEO'S 45+ NOW BUT STILL CONSISTENTLY DATES WOMEN <25 45 YEARS LEONARDO'S GIRLFRIEND'$ AGE MEDIAN 22 YEARS LEONARDO'$ AGE YUP HE AGES LINEARLY 40 YEARS 39 NEW 38 MAX AGE LEO TURNED 25 YEARS 36 OLD IN THE YEAR 1999 35 GAP 35 YEARS OF HIS CURRENT PARTNER 33 23 TURNED 2 YEARS OLD 32 YRS 31 0 3 ILL-FATED PARTNERS 30 REACHED LEO'S APPARENT LEO 30 YEARS 29 MAX AGE LIMIT OF 25 IS 28 27 22X 26 HER 25 25 25 25 AGE 25 YEARS 24 24 23 23 22 21 20 20 20 20 YEARS 18 15 YEARS 98 99 00 '01 02 '03 '04 05 06 '07 '08 09 '10 '11 '12 '13 '14 '15 '16 '17 '18 '19 Born on 11/11/1974 Leonardo Gisele Bar Blake Erin Toni Kelly Nina Camila DiCaprio Bundchen Refaeli Lively Heatherton Garrn Rohrbach Agdal Morrone Ricky Gervais at the 2020 Colden Globes: Once Upon a Time in Hollywood is nearly three hours long: Leonardo DiCaprio attended the premiere, and by the end, his date was too old for him: Even Prince Andrew's like, ""Come on, Leo, mate. Youre nearly 50, son:'",100.0,True,False
+gpt-5,2020-06-0564,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] Blockbuster Video US store locations between 1986 and 2019,2020,0.0,False,"Feb 2005 5,726 Stores V Analytics",66.66666666666667,False,False
+gpt-5,2020-02-0194,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[oc] I sat by a fire and recorded what people said,2020,0.0,False,People Said Around a Fire Comparison to other fires Female Male Something about white rabbits The fire is hot Anyone have any hotdogs? There'$ nothing quite like a real fire Too bad we don't have any marshmallows Things',66.66666666666667,True,False
+gpt-5,2019-08-0309,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,I recorded my travels as a professional truck driver since 2012.,2019,0.0,False,Onited States Gulf of Mexico Mexico Google Cuba Wooid 92019 Google Imagery 02019 TerraMetrios NASA Map data 02019 INEGI Google 2 8,33.333333333333336,False,False
+gpt-5,2020-03-1046,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,Worst Episode Ever? The Most Commonly Rated Shows on IMDb and Their Lowest Rated Episodes [OC],2020,0.0,False,"THE VOST COVMOHLY RITED ShDAs DU IMOB Diu WORST EPISODE EVEA? THEZR LDheST RITED [PESIDES @anj Gc et TeetD MAY Mu TuhpvlVVn~ Senn Kn CAUD VnJulnr Ur_~Al- Mennt AEo TK Da UuJ_JJut_lruuEnr LULJL Eana Vnly Sblylu hnan /Ayr / Kant Tn Ih--Urkyyn"" Jivy AnA VaJe JUZ Ae ALaLELin AiLeUnn Shiro 3Cuel NnlSleL Alann Aoullalrwl U~N-yUIIenhJL Ji JUpnUb -Jv MFVUbAbMua ~uinYe",100.0,False,False
+gpt-5,2020-07-0206,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,Hardest Golfing President [OC],2020,0.0,False,Hardest Golfing President 3 28 8 20 10 50 100 150 as President Source: trumpgolfcount.com (7/7/2020) Days,33.333333333333336,True,False
+gpt-5,2020-11-0296,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,"[OC] What if ""I didn't vote"" ran as a US presidential candidate in the 2020 election?",2020,0.0,False,"Projected result in Projected result in the Electoral College the Electoral College if 1 didn't vote"" ran as a candidate Biden 306 232 Trump Biden 231 112 Trump 1954 1 270 270 PWIN EWIN *as Thu, 12 Nov 2020 11.00 E.T:",66.66666666666667,True,False
+gpt-5,2020-11-0106,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,States Kanye West Received Votes In [OC],2020,0.0,False,"States Kanye West Received Votes In (States To Avoid From Now On) 7,654 3,197 6,127 '6,259 5,590 10,195 4,040 3,117 4,894 Follow StatsPanda on Instagram & Twitter for exclusive platform contentl Source: WashingtonPost 1,255 3,092 4,311",66.66666666666667,True,False
+gpt-5,2021-12-0248,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] 2021's Trending Google Searches by State,2021,0.0,False,Capitol Capitol Biden Biden Capitol Capitol_ Biden Capitol Biden Capitol Capitol Biden Biden Biden Capitol Biden Mega Millions Capitol Biden Biden Biden 'Capitol Biden Biden Biden Capitol Capitol Capitol Capitol Miegns Mega Millions Mega Capitol Capitol Millions 'Capitol Capitol Capitol Biden Capitol Biden Capitol Biden Mega Millions Millions Capitol Capitol Biden Capitol 06 JAN Biden Biden 2021 Capitol Vi Analytics Source: trends-google.com Mega,66.66666666666667,False,False
+gpt-5,2018-03-0308,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,"11 different brands of AA batteries, tested in identical flashlights. [OC]",2018,0.0,False,"WHICH BATTERIES LAST LonGEST? 11 different brands of AA batteries, tested in identical flashlights. 6 5 1 24 CVS 1 1 AA 09 1 1 1 1 M hOURs 3 LASTED lt 2 2 1 1 I",66.66666666666667,True,False
+gpt-5,2019-12-0508,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,Where is each ore found in a minecraft world? [OC],2019,0.0,False,How common are different ores in each layer of a minecraft world 100 2 coal Iron redstone gold lapis diamond Ore type (wider plot means more abundant),66.66666666666667,True,False
+gpt-5,2020-12-0329,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] Google Year in Search 2020 Top Search Terms,2020,0.0,False,"Google Trends recently released their 'Yearin Search' report for 2020.It 100 lists the top terms and topics that were lobally searched tor during tne Height is search Google Trends year- gathered the data tor the tOp global search terms relating interestin a given people,news and world events and visualized their popularity over the year: topic; indexed to 100 Most of the search terms relate, directly and indirectly; to the Coronavirus Year in Search 2020 pandemic which had people around the world turning to Google for answers. Visualized by Roshaan Khan Kobe Bryant India vs New Zealand Harvey Weinstein Coronavirus Symptoms Coronavirus Coronavirus Update Death Hantavirus Google Classroom Zoom Unemployment Mask Stimulus Checks George Floyd Black Lives Matter TikTok Beirut Tesla Stock Indian Premier League (IPL) Joe Biden Donald Trump U.S.Election Results Bihar Election Results Vaccine Feb 1 Mar 1 Apr 1 May 1 Jun1 Jul 1 Aug 1 Sep 1 Oct 1 Nov 1 Dec 1 Month [2020]",66.66666666666667,True,False
+gpt-5,2021-04-0373,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,"[OC] If you post on r/AmITheAsshole about these people, what are the odds of you being the asshole?",2021,0.0,False,"If you post o r/AmlTheAsshole about these people, Odds are: You are the Asshole You are not the Asshole Odds of you being deemed an Asshole Service Staff 1.24 Wife/Girlfriend 1.09 Sibling 0.69 Children 0.53 Husband/Boyfriend 0.51 Friend 0.38 0.23 Below this line, odds are Parent you are not the Asshole Roommate/Neighbour 0.22 Colleague 0.16",66.66666666666667,True,False
+gpt-5,2020-12-0533,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] 2020 electoral map if only ____ voted. Breakdown by each major demographics.,2020,0.0,False,,0.0,False,False
+gpt-5,2022-09-0097,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,"[OC] Gordon Ramsay and Martha Stewart are being outperformed by Doña Angela, a grandma from rural Mexico and her daughter's phone camera.",2022,0.0,False,"A Mexican Abuelita Has One of the Hottest Cooking Channels Joshua 90OK Weissman Youlube 80OK Babish Average views of last 25 videos on 4, 2022 (excluding Shorts) 7O0K Channel Type 600K Individual Production 5OOK Company 4OOK TAST& De Mi Rancho Tu Cocina 3OOK bon Sam the Cooking Italia Gordon Squisita Ramsay 2OOK Jamie Oliver New York IOOK ChefSteps Times Cooking Martha Stewart Latinometrics Source: YouTube Sep: appetit Guy",66.66666666666667,True,False
+gpt-5,2022-06-0361,"{""seen"": true, ""title"": ""Rude Compounds on Reddit"", ""year"": 2020}",True,Rude Compounds on Reddit,2020.0,True,"[OC] Frequency of compound insults (e.g. ""poophead"", ""scumwad"") in Reddit comments, organized by prefix and suffix",2022,40.0,False,"Rude Compounds on Reddit Frequency of pejorative compounds (e.g. ""dumbass"" , ""douchewad"") in Reddit comments, 2006-2020. Rows (prefixes) and columns (suffixes) are sorted by total frequency. dumb scum douche shit dick fuck dip ass lib cock butt dirt trump twat piss wank bum poop 10 100 1,000 10,000 100,000 Im 3m #comments using term sucker nozzle { waffle clown 2 8 stain stick tard face 8 lord bag boy ass hat wit",100.0,True,False
+gpt-5,2021-01-0680,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,What's going on with GameStop in 4 charts [OC],2021,0.0,False,"GameStop: A In 4 Charts (1) A chaotic trading forum on reddit has (2) Institutional investors have been betting grown steadily to 2.Smilliont members against GameStop S struggling retailer 2m GME share price S20 (2016-2019) Members of r/wallstreetbets Im S10 Om So ""13 ""14 '15 ""16 '17 '18 ""19 '20 '21 ""16 '""17 ""18 ""19 (3) Users on reddit begin to rally around a few (4) as GME's stock rises investors and market investors that see value in GME: GME chatter makers have to buy GME shares to cover their dominates the forums amidst frantic buying . short positions, sending GME even higher S150 S148 GME AlL other stocks S100 GME share price 44% 56% (2016-present) S50 Number of mentions by stock ticker (Jan 25th) on r/wallstreetbets $0 ""16 ""17 ""18 ""19 '20 ""21 Alleg1 Sources: (1) subredditstats, (2) & (4) chartr Yahoo Finance, (3) Swaggystocks com Story",100.0,True,False
+gpt-5,2021-09-0244,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,Earth's Submarine Fiber Optic Cable Network [OC],2021,0.0,False,Earth Submarine Fiber Optic Cable Network Network Stylized for Clarity  Actual Physical Routes Not Shown Created with rayrender (WWW rayrender.net) Data: github com/telegeography/www submarinecablemap com Twitter: @tylermorganwall,66.66666666666667,True,False
+gpt-5,2021-02-0217,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] I ran a quick poll last week on digital transformation,2021,0.0,False,"What drove digital transformation in your company? Linkedln Poll, 375 participants 100 88% 90 80 70 60 50 40 30 20 10 6% 6% The CEO The CTO Covid-19 Source: Linkedln, 05.02.2021 12.02.2021 EEAGLI PSUCCESS(",66.66666666666667,True,False
+gpt-5,2020-11-0163,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,"[OC] The states in blue have a combined total population equal to Los Angeles county, in red.",2020,0.0,False,Ecotc nopchon nct,50.0,False,False
+gpt-5,2020-07-0500,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,Lyrical Composition of Daft Punk's 'Around the World' [OC],2020,0.0,False,Lyrical Composition of Daft Punk's 'Around the World' Around 33% The 33% World 33%,33.333333333333336,True,False
+gpt-5,2020-09-0571,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,The Meteoric Rise of Among Us: How a 2 year old game became viral overnight [OC],2020,0.0,False,"The Meteoric Rise of Among Us 600k Sequel cancelled, new content to be added to Among Us 1 500k Sequel announced 400k End of life announced: 300k No new content updates, Released on Steam cheaper price Second map added 200k (MIRA HQ) Twitch Viewership Skins added Third map added (Polus) 100k Pets added Player Count Uw Jan 2019 Apr 2019 Jul 2019 Oct 2019 Jan 2020 Apr 2020 Jul 2020 look@num",66.66666666666667,True,False
+gpt-5,2020-04-0280,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] The absolute quality of Breaking Bad.,2020,0.0,False,Season Br eaking 8.7 8.6 9.2 9.3 8.3 Bad 8.8 8.4 8.5 8.1 8.3 8.3 8.3 8.4 8.4 8.7 9.5 8.9 9.3 8.9 8.8 1 8.5 10 7.8 11 8.5 9.5 Rating Category 12 9.3 9.5 9.9 Great 13 9.3 Good 14 Average 15 Bad 16 (Garbage Data: Internet Movie Database https:| /WWW.imdb.com] Idea rfHbenne,66.66666666666667,False,False
+gpt-5,2020-09-0352,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,Would you rather be hot or cold? [OC],2020,0.0,False,WOULD YOU RATHER BE HOT OR COLD? (ACCORDING TO @MATTSURELEE' $ INSTAGRAM FOLLOWERS) Rather be hot Rather be cold,33.333333333333336,True,False
+gpt-5,2020-08-0261,"{""seen"": true, ""title"": ""The Most Common Birthdays in the United States (2000–2014)"", ""year"": 2020}",True,The Most Common Birthdays in the United States (2000–2014),2020.0,True,Birthday frequency graphic featured in today's New York Post [OC],2020,42.27642276422764,False,"THE BORN TDENTITY 2 3 ~Uineh more (dmton Tre Most cOMMON Birthdays IN TrE ONITED STATES (2000-2014) common Label birth rato relative t0 average 1 Day Month 10 11 12 :13;14 15 16 17 18 19 20 21 22 23 26 25 26 27 28 29 30 31 Jan: 160 L0i 0 9 0 96 0,98 0.16 0.96 10l 100 0 97 ;094; 0 29 0 95 0.90 0.99 0.99 0,95 0,95 097 0,96 0 94 101 0 9) 09s 0.26 097 093 0 97 0.99 [ Feb: 100   0 99 0 90 0 98 0190 0.99 02 160 0 08 0,97 0 99 0 98} 0 %u 101 0 97 0.96 0,90 0 96 0 90  1 00 101 0 97 0 96 0 G0 0 96 0 99 10 6 March L01 0 98 0.97 098 0.98 101 0 93 0. 97 0 97 0 96   0 99 ;0 96 0.98 0,96  0.98 100]102 0.93 0,96 0 95 097 0 97 0 98 101 0 %e 0,96 0 9s 8 April 091 0 92 102 0 99 0,95 0.95 0.96 0,07 0 93 101  0 99 ;0 93 0 96 0 98 0.90 0,90 0 99 096 0.93 0 95 0 97 0 98 10 0.28 0 93 0 95 0 93 0 9 1 Mav 10 101 0 99 095 0.98 0 96 0.98 0.99 100 100 0 90 0,97 0 94 0 99 101 103 101 0,97 0,97 0.59 101 102 105 L03 0 99 0 91 0 94 0s5 0.97 10o 097 June 101 101 0.99 L01 101 102 LO1 0 993 0 98 0.99 100 LOl 101 102 0 99 100 0.99 102 101 105 02 100099 100 103 101 L0s 102 102 2 1 July A04 103 095 104 4105 L0s : 100 101 103 Hat 1405 102 103 10g 105 405 102 102 102 14 105 102 402 102 104 os 109 103 103 ' 1 03 1104 109 103 4~105 103 103 103 10 1 Sept 0 96 0 97 0 98 101 105 1.03 0103 102 102 101 Oct Los 103 104 101 100 L00 102 101 0 99 0,95 0 98 101 L0L 102 102' 0 98 0.98 0.98 101 100 103 102 0 9e 0 93 0.92 0.93 0,98 0 90 Nov 104 100 0.99 0,98 101 101 103 102 0.93 0.98 100 0 98 103 L03 100 0.93 0.99 102 1o5 094 0.87 0.83 0.83 092 0 83 0.92  0.58 0.98 1 Dec. 100 0 99 100 100 102 100 0.97 0.97 0.96 0, 99 0,99 0.99 0 99 100 104 101 0.91 0.87 0s 0 93 Leap Day excluded nis noticeably lower than the The I3th of each month Dec25 is the least comman_ Seproundingtdbincoudeng Sept 1e,the tends t0 be lower than birthday; followed by Jan 1 the I2th and I4th: Dec 24 and July 4 most common birthday: Oh; babyl Data whiz calculates the most and least common birthdays in revealing chart FRISHBERG Eth of cach month is & little bit prefer giving birth on the holi- By HANNAH lower than the I2th and I4th, days;it does appear to be a popu - New said, pointing t0 likely lar time tr baby-making: The What do Christmas cesarean sections  percoracp _ most common birthdays are Year' $ Day Christmas Eve and certain days- also thought it Sept.12, 19 and 20,respectively: the 4th of july have in common? interesting   Sept: ""When we look at births peaking They're holidays_ but they seemsealbe lotece shag theother in late summer; we can back up also happen t0 be the four Jeast seems to be nine months and infer that concep common birthdays in the US days around it: births tion is most common around the Austin; Texas business intelli- Data on 2Oth-century holidays  McCready further bolstered McCready Su- when days are the short- gence   developer Bo hypothesis It was only est and coldest; he said: 32 this week and cele- ji became associated In general; the patterns really brated in part by giving gift to after Sept: national tragedy; made me think ot about how the Internet: data visualization with and least com- McCready observed, that frequently we have sched- showing the most to be children started being born uled births in  the United mon dates forthemeriS ZOOOand notably frequently on States_ whether it's an in LABOR OF Love: Bo born betwcen the years 2014, which he on Reddit: that date: duction C-section;' McCready released the chart curious how common an Reddit commenters also be said: on Iuesday his own birthday: was HS. McCready noticed there WCrC ""Seeing how holidays o18 Thbirosdor his ow birtk: in birthrates at the are 50 much lower than prise more than 30 percent of all date. He found that the answer beginning of   September other days; it'$ really ap- American births ""relatively more common"" and at the end of Novem- parent that those things certainly seemed be WaS in the process % crunch- ber: When families take must  have huge m- the case when he welcomed his Social Security Administra- vacations around Labor pact overall birth 2-year-old daughter Willow into data he a[s0 unearthed Day and   Thanksgiving; patterns_ According the world: number of surprising facts about you re not sceing lot of recent data from the ""She was born on the evening other days  scheduled procedures; Centers for Disease of July 3"" he said: ""In the hospi- ""Superstition Probably plays said McCready Control and Preven- tal; the next day was the 4th of bow we 'schedule births: The While Americans don't tion C-sections com- July and it was ghost town into Socecholo { 0 97 0 92 0 92 100 104 Aug: 14 Day; perstition E turned less Posted that dips That and ine tion",100.0,True,False
+gpt-5,2022-09-0061,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] Countries with School Shootings (total incidents from Jan 2009 to May 2018),2022,0.0,False,Countries with school shootings incidents (Jan 2009-May 2018) United States 288 Mexico South Africa India Pakistan Nigeria Afghanistan Brazil France Canada hina Russia Turkey Germany Kenya Greece Azerbaijan Hungary Estonia countries 200 300 Number of school shootings incidents Source: World Population Review Other,66.66666666666667,True,False
+gpt-5,2021-01-0255,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,Animation: how does Covid compare to a bad winter flu season? [OC],2021,0.0,False,"""No different to a bad flu season?"" How England's winter Covid surge compares to flu seasons Weekly ICU admissions of flu patients per million people in winter 2013-14 2 1 Oct Nov Dec Jan Feb Mar Apr Source: PHE annual winter flu and Covid reports @ FT Aug Sep May",66.66666666666667,True,False
+gpt-5,2020-11-0172,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] The yellow states in the map below are the states in which it is legal to own a RACCOON.,2020,0.0,False,Source: https:Ilworldpopulationreview com/state-rankings/pet-raccoon-legal-states. By toddrjones.,66.66666666666667,False,False
+gpt-5,2020-02-0424,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] 2020 Presidential Candidates by Net Worth,2020,0.0,False,"2020 Presidential Candidates by Net Worth 570,000,000,000.00 S60,000,000,000.00 S61,800,000,oooloo S50,000,000,000.00 S40,000,000,000.00 530,000,000,000.00 520,000,000,000.00 S10,000,000,000.00 53,100,000,000.00 S12,000,000.00 S9,000,000.00 52,500,000.00 52,000,000.00 S100,000.00 Michael Bloomberg Donald Trump Elizabeth Warren Joe Biden Ber nie Sanders Amy Klobuchar Pete Buttigieg",66.66666666666667,True,False
+gpt-5,2020-06-0550,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] Top 10 Highest Covid-19 donations with the percentage of their net worth,2020,0.0,False,"10 Highest Covid-l9 Donations Covid-19 Percentage of Net Worth Donation Jack Dorsey 21,74% S1,0 B Bill & Mellinda 0,28% S305 M Gates Azim Premji 2,16% S132 M George Soros 1,57% S130 M Andrew Forrest 1,64% S1OO+ M Skoll 1,92% S1OO+ M Jeff Bezos 0,07% S100 M Michael Dell 0,35% S100 M Michael 0,13% s74,5+ M Bloomberg Lynn & Stacy 2,06% S70 M Schusterman 0% 20% 40% 60% 80% 100% Top Jeff",66.66666666666667,True,False
+gpt-5,2020-03-0969,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] Where the money goes in the US Senate's $2T coronavirus stimulus bill,2020,0.0,False,"Public Health: $153.5B Student Loans/Other*: S43.7B Cash Payments S300B Individuals*: SS60B Extra Unemployment Payments S260B National Security: S17B Passenger Wages/Benefits: S25B Airlines: S58B Cargo - WagesmBeceors: S38 Airlines Other: S26B CARES Act: S2,000B Corporations: SSOOB Large Corporations Other: S425B Grants: S1OB Loans: S350B Small Business: S377B Relief for Existing Loans: S17B COVID-19 Response: S274B State & Local Govt: 5339.8B Block Grants: SSB K-12 Schools: S13B Higher Education: S14B Family Programs: $5.3B Governments Other: S28.5B Child Nutrition: S8.8B Safety Net: S26B SNAP: S15.5B #Estimated Safety Foed Eanes: 59.231 Large New",66.66666666666667,False,False
+gpt-5,2020-09-0192,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,All Tom Cruise's wives were 33 at time of divorce...[OC],2020,0.0,False,54 52 Marriage 51 Tom Cruise 50 49 Mimi Rogers 48 48 47 46 Nicole Kidman 45 45 44 43 Katie Holmes 42 42 41 40 39 38 36 35 34 Divorce Age 33 33 33 33 33 32 32 32 32 30 31 31 31 31 30 30 30 30 29 29 29 28 28 28 27 27 27 26 26 24 25 25 24 24 23 23 21 85' 86' 87 88' 89' 90' 91' 92' 93' 94' 95' 96' 97 98' 99 00' 01 02' 03' 04' 05' 06' 07 08' 09' 10' M1 12' 13' 14' Year,66.66666666666667,True,False
+gpt-5,2018-01-0461,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,Paths of 800 unmanned bicycles being pushed until they fall over,2018,0.0,False,"Figure 2: Instability of an unsteered bicycle. This shows 800 runs of a bicycle being pushed to the right:  For each run, the of the front wheel on the ground is shown until the bicycle has fallen over: The unstable oscillatory nature is due to the subcritical speed of the bicycle, which loses further with each oscillation_ path speed",66.66666666666667,True,False
+gpt-5,2021-12-0265,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] What job hunting has been like as a 2020 graduate so far,2021,0.0,False,Job Apps: 678 No Response: 670 Rejected: 2 First Interview: 3 Ghosts: 6 Responses: 8 Second Interview: 1,40.0,False,False
+gpt-5,2020-03-0669,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] COVID-19 infections vs. r/Coronavirus subscriptions,2020,0.0,False,"COVID-19 infections Vs- r/Coronavirus subscribers Jan 21st Jan 22nd Jan 23rd Jan 24th Jan 25th Jan 26th Jan 2 2,400 rlCoronavirus 2,278 2,200 2,000 1,800 1,600 1,400 1,200 1,000 COVID-19 887 800 600 400 200 Source: Worldometers; Subreddit Stats * Created by ufartursilva0220",66.66666666666667,True,False
+gpt-5,2020-12-0436,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,Harry Potter Characters: Screen time vs. Mentions In The Books [OC],2020,0.0,False,"Harfy Potter And The Characters With The Most Screen Time L000 4e5 Scrcen Timc In Potter Films (Minutes) Scale) Ron Wcasley Hermione Grenger 100 Dumbledore Nevillc, Dzco Malfoy McGonagll Hagrid Sevcru' Lunt Loregood Voldemort Luciut Malfoy Frad Siriu: Black Narcissa Malfoy Molly Weasley Falkcr Percy Weasley Mad-Eye Moody Kreacher Bill Wcaslcy Number Of Mentions [ Books (Log Scale) Jorajn 500 5,000 50,000 Saurce: IMDB via Jetpunk com, Sparcle chartr Hatty (Lcg = Lupin, Ginny Snapc movies Georgs Under-represented in",66.66666666666667,True,False
+gpt-5,2022-06-0259,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] Inflation and the cost of every day items,2022,0.0,False,"What inflation really looks like Price change since January 2020 (%) Jan 2020 100 Energy Food Clothing 50 J# 00 n 0 O.0% 0.0% O.0% 0.0% 0.0% 0.0% O.0% 0.0% O.0% O.0% 50 8 8 Gas Wheat Corn Cotton Oil Coffee Sugar Butter   Cheese Orange Juice Past performance is not a to future performance:  Source: CME Group, ICE; Morningstar; Bloomberg commodity interactive subindex 3-month forward: investor  IE R Of THE PAY Tl ISE guide ' | ",66.66666666666667,False,False
+haiku-4.5,2020-07-0383,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While it's a well-crafted visualization showing Google search trends by state on January 1, 2018, I don't have a record of encountering this specific map previously. The chart itself is dated 2018 and credited to ""VI Analytics"" based on Google Trends data, but I cannot confirm having seen this particular version before.",False,,,True,[OC] Trending Google Searches by State Between 2018 and 2020,2020,0.0,False,Bitcoin Bitcoin Price Bitcoin Bitcoin Price Price Bitcoin Price Price Bitcoin Price __ Nintendo Lil Switch Lil Pump Bitcoin Price Nintendo Nintendo Cardi B Cardi B Cardi B Switch Switch Nintendo Cardi B Lil Pump Switch Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Nintendo | Bitcoin Pricel Nintendo Cardi B Switch Cardi B Cardi B Switch Cardi B Cardi B Cardi B 'Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B 01 JAN ~Nintendo Switch Cardi B 2018 Bitcoin Price Vi Analytics Sources: Google Year in Search; Google Trends Pump?,66.66666666666667,True,False
+haiku-4.5,2020-08-0276,"```json
+{
+  ""seen"": false,
+  ""title"": null,
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While it's a well-designed visualization from nathancunn.com comparing the popularity trends of the names Terry and Karen over time, I don't have a record of encountering this specific chart previously in my training data.",False,,,True,I analysed 70 years of baby names in the US to decide what to call a male Karen. It's Terry. [OC],2020,6.185567010309285,False,Men named Terry tend to be of the same age as women named Karen Number of births per year in the US as a % of peak popularity 100% 75% 50% 25% 0% 1960 1980 2000 2020 nathancunncom (@nathcun); data from package {babynames},66.66666666666667,True,False
+haiku-4.5,2020-04-0436,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While it appears to be a comparison of deaths on Day 1 across various disease outbreaks and pandemics, I cannot identify a specific published chart that matches this exact visualization with these particular diseases, years, and the ""Day 1"" framing.",False,,,True,For everyone asking why i didn't include the Spanish Flu and other plagues in my last post... [OC],2020,0.0,False,Ebola 2014 59 Ebola 2018 20 1918 Spanish Flu COVID-19 2020 Cholera 2008 Cholera 2010 Cholera 2016 MERS 2012 Measles 2011 Measles - 2019 Meningitis 2009 SARS - 2002 Swine Flu 2009 Day 1,66.66666666666667,True,False
+haiku-4.5,2020-07-0189,"```json
+{
+  ""seen"": false,
+  ""title"": null,
+  ""year"": null
+}
+```
+
+I have not seen this exact chart before. While the data comparing college tuition inflation to overall CPI inflation is a commonly discussed topic, I cannot confirm having encountered this specific visualization previously.",False,,,True,US College Tuition & Fees vs. Overall Inflation [OC],2020,10.909090909090908,False,Less Education For Your Buck +1184% 1200% Tuition Inflation (US) 1000% Overall Inflation (US CPI) 800% 600% 400% +228% 200% 0% 1980 1985 1990 1995 2000 2005 2010 2015 2020 Source: US Bureau of Labor Statistics chartr College,33.333333333333336,True,False
+haiku-4.5,2019-03-0542,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While the statistic about Reddit lurkers (98.1%) is a commonly cited figure in discussions about Reddit user behavior, I cannot identify this specific visualization as one I've encountered previously.",False,,,True,Let's hear it for the lurkers! The vast majority of Reddit users don't post or comment. [OC],2019,0.0,False,"More than 98% 0f Reddit users are lurkers who don't post or comment 1.9% Users who comment or post Lurkers 98 . 1% Created by TrueBirch: Reddit claims it has 330 million active monthly users Monthly datasets from pushshiftio contain posts and comments from 6.4 million different users, suggesting that 98.1% of Reddit users are lurkers.",66.66666666666667,True,False
+haiku-4.5,2020-10-0031,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While it references the 2016 Presidential election and appears to be a guide about proper data visualization practices for election night reporting, I cannot identify it as a specific published chart with a particular title that I've encountered previously.",False,,,True,A wish for election night data visualization [OC],2020,0.0,False,"Media;, on election night: Don't use charts like this: Use charts like THIS: 5% of Precincts Reporting 5%/ of Precincts Reporting Ttum Clinton Erd Trump 46.39/0 Clinton 53.7%/ dntn Yot Lea And include ALL projected mail-in votes in the totals, so if there are lots absenteelmail-in ballots that haven't been counted; they SHOW UP as not counted *Data from CNN 2016 Presidential election results by county yet!",66.66666666666667,True,False
+haiku-4.5,2020-11-0503,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While it appears to be a character frequency analysis chart (similar to common linguistic analysis visualizations), the specific title ""u/IHateTheLetterF is a mad lad"" and the particular data distribution shown here is unique to this specific analysis of that Reddit user's comment history.",False,,,True,[OC] u/IHateTheLetterF is a mad lad,2020,0.0,False,THateTheLetterF is a mad lad Past   1000) comments 600o 1 400O 5 # 2000 A B C D E F G H I J K L M N 0 P Q R S T U V W X Y 7 Normalized to uppercase,33.333333333333336,True,False
+haiku-4.5,2020-08-0628,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I have not seen this exact chart before. While it's a well-designed pie chart with a humorous title ""Wanna Know Somefing?"" that appears to be a meme or internet culture reference, I cannot identify it as a specific previously published chart with a known title and date.",False,,,True,"[OC] What I'm about to learn about after my kid says, ""Wanna know somefing?"" Data collected over the course of 7 days.",2020,0.0,False,Wanna Know Somefing? Story Pirates 1.8% Math Facts Minecraft 17.5%/ 3.5% Animal Facts 3.5% Space Facts 5.3% Dogman 3.5% Paper Mario Calvin and Hobbes 7.0% 3.5% Garfield 7.0% Mariokart 1.8% Wild Kratz Future Aspirations 7.0% 5.3% Past Experiences Gravity Falls 5.3% 7.0% Spongebob Current Happenings 5.3% Captain Underpants 10.5%/ 5%/,66.66666666666667,False,False
+haiku-4.5,2020-08-0039,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While comparisons between Beyond Meat and beef patties are common in sustainability discussions, I cannot identify this specific chart as one I've encountered previously. The chart appears to be a custom visualization comparing environmental impacts across multiple metrics, but I cannot definitively attribute it to a specific source or date.",False,,,True,The environmental impact of Beyond Meat and a beef patty [OC],2020,0.0,False,"Beyond Meat patty vs Beef patty Beyond Meat (113g/ Greenhouse Gas Beef patty (113g/ 402) Emissions (Kg COZe) Estimated Methane 0,3976 Production (Kg  Use (MJ) 114 Land Use 3,8 (m2 a-e) 0,11 Water Use 21,84 (Liters e) 402) Energy",66.66666666666667,True,False
+haiku-4.5,2018-04-0264,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I have not seen this exact chart before. While it appears to be a research visualization related to gait analysis, eye-tracking, and terrain navigation (likely from biomechanics or robotics research), I cannot identify it as a specific previously published figure that I have encountered.",False,,,True,Gaze and foot placement when walking over rough terrain (article link in comments) [OC],2018,0.0,False,Rough Terrain Full Speed Playback Famed 2 RR 002695 SF 002680 I/s 29.65 00.01.30 X: 0276 Y:-0001 LookAhead vs Time 2D Gaze on Ground Eye-in-Head Position 3000 I000 Legend 2500 Center = Mass Posilion Current Gaze Posilon 2000 Righi (oci sleps Lelt fcot sleps 1500 1 Vertical 1 1OO0 1 [ s00 Horizontal 500 1000 1500 2000 2500 3000 225 22.0 -15 41.0 0.5 Seconds from current frame mm Seconds from current frame,66.66666666666667,True,False
+haiku-4.5,2020-08-0565,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+While I can see this is a detailed infographic about the demographics of the United States Congress from 2020, I cannot confirm that I have encountered this exact chart before in my training data. The chart itself clearly states ""DEMOGRAPHICS OF THE UNITED STATES CONGRESS (2020)"" at the top, but I cannot verify with certainty whether this specific visualization has been presented to me previously.",False,,,True,"How representative are the representatives? The demographics of the U.S. Congress, broken down by party [OC].",2020,0.0,False,DEMOGRAPHICS OF THE UNITED STATES CONGRESS (2020) DEMOCRATIC US POPULATION REPUBLICAN REPRESENTATIVES REPRESENTATIVES 4444 RELIGION PROTESTANT CATHOLIC MORMON Oahhonoy CHAISTIAN MUSLIM JEWISH HINDU buddhIST OTHER DONT KNOW UNAFFILIATED RACE WHITE LATINO/HISP BLACK ASIAN/PAC.ISL  NATIVE AME: TWO OR MORE SEX FEMALE MALE Ulecce*Ovin,33.333333333333336,False,False
+haiku-4.5,2020-04-0408,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I have not seen this exact chart before. While it displays death toll comparisons across various disease outbreaks (Cholera, COVID-19, Swine Flu, Meningitis, SARS, Measles, Ebola, and MERS) measured at Day 60, I cannot identify it as a previously encountered specific publication. The chart appears to be an informational graphic comparing early outbreak mortality rates, but without additional context or source attribution visible, I cannot confirm its original title or publication year.",False,,,True,Coronavirus Deaths vs Other Epidemics From Day of First Death (Since 2000) [OC],2020,0.0,False,1000 2000 3000 Cholera 2010 3260 COVID-19 2020 2970 Swime Flu 2015 1123 Meningitis 2009 879 Swine Flu 2009 724 SARS 2002 513 Measles 2011 223 Measles 2019 207 Ebola 2014 184 Ebola 2018 104 Cholera 2016 86 Cholera 2008 40 MERS - 2012 Day 60,66.66666666666667,True,False
+haiku-4.5,2020-08-0615,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While it appears to be from ""Pie Chart Pirate"" (a YouTube channel that creates historical pie charts), and it shows browser market share data from 1994, I cannot confirm having encountered this specific visualization previously.",False,,,True,[OC] Most Popular Web Browsers between 1995 and 2019,2020,0.0,False,Netscape Pie Chart Pirate (80.1 %) Other (7 .1%) Mosaic (10.8%) Pie Chart Pirate 1994,33.333333333333336,False,False
+haiku-4.5,2020-01-0202,"```json
+{
+  ""seen"": true,
+  ""title"": ""Leonardo DiCaprio Refuses to Date a Woman His Age"",
+  ""year"": 2020
+}
+```
+
+This is a well-known viral infographic that circulated widely on social media around 2020, particularly after the Golden Globes that year. It humorously illustrates DiCaprio's dating pattern of consistently dating women in their early 20s while he ages.",True,Leonardo DiCaprio Refuses to Date a Woman His Age,2020.0,True,Leonardo DiCaprio Refuses to Date a Woman His Age [OC],2020,100.0,True,"L E 0 N A R D 0 D | C A P R / 0 R E F U $ E $ T 0 D A T E A W 0 M A N H| $ A G E HE GETS OLDER THEY STAY THE SAME AGE LEO'S 45+ NOW BUT STILL CONSISTENTLY DATES WOMEN <25 45 YEARS LEONARDO'S GIRLFRIEND'$ AGE MEDIAN 22 YEARS LEONARDO'$ AGE YUP HE AGES LINEARLY 40 YEARS 39 NEW 38 MAX AGE LEO TURNED 25 YEARS 36 OLD IN THE YEAR 1999 35 GAP 35 YEARS OF HIS CURRENT PARTNER 33 23 TURNED 2 YEARS OLD 32 YRS 31 0 3 ILL-FATED PARTNERS 30 REACHED LEO'S APPARENT LEO 30 YEARS 29 MAX AGE LIMIT OF 25 IS 28 27 22X 26 HER 25 25 25 25 AGE 25 YEARS 24 24 23 23 22 21 20 20 20 20 YEARS 18 15 YEARS 98 99 00 '01 02 '03 '04 05 06 '07 '08 09 '10 '11 '12 '13 '14 '15 '16 '17 '18 '19 Born on 11/11/1974 Leonardo Gisele Bar Blake Erin Toni Kelly Nina Camila DiCaprio Bundchen Refaeli Lively Heatherton Garrn Rohrbach Agdal Morrone Ricky Gervais at the 2020 Colden Globes: Once Upon a Time in Hollywood is nearly three hours long: Leonardo DiCaprio attended the premiere, and by the end, his date was too old for him: Even Prince Andrew's like, ""Come on, Leo, mate. Youre nearly 50, son:'",100.0,True,False
+haiku-4.5,2020-06-0564,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While it appears to be a visualization of Walmart store locations across the United States in February 2005 (as labeled), I cannot identify it as a specific previously published chart with certainty. The style and data presentation are consistent with retail distribution maps that have been created, but I cannot confirm the exact source or title without additional context.",False,,,True,[OC] Blockbuster Video US store locations between 1986 and 2019,2020,0.0,False,"Feb 2005 5,726 Stores V Analytics",66.66666666666667,False,False
+haiku-4.5,2020-02-0194,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I have not seen this exact chart before. While it's a humorous chart about things people say around a fire, I don't have a record of encountering this specific visualization previously.",False,,,True,[oc] I sat by a fire and recorded what people said,2020,0.0,False,People Said Around a Fire Comparison to other fires Female Male Something about white rabbits The fire is hot Anyone have any hotdogs? There'$ nothing quite like a real fire Too bad we don't have any marshmallows Things',66.66666666666667,True,False
+haiku-4.5,2019-08-0309,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I can see this is a map of the United States showing road networks with a nighttime satellite imagery background, but I cannot identify this as a specific, previously published chart with a definitive title and year. While it appears to be from Google Maps (based on the attribution visible), it's a general reference map rather than a unique, titled visualization that I can definitively recognize.",False,,,True,I recorded my travels as a professional truck driver since 2012.,2019,0.0,False,Onited States Gulf of Mexico Mexico Google Cuba Wooid 92019 Google Imagery 02019 TerraMetrios NASA Map data 02019 INEGI Google 2 8,33.333333333333336,False,False
+haiku-4.5,2020-03-1046,"```json
+{
+  ""seen"": true,
+  ""title"": ""Worst Episode Ever? The Most Commented Rated Shows on IMDb and Their Lowest Rated Episodes"",
+  ""year"": 2013
+}
+```
+
+This is a well-known visualization that charts IMDb ratings across episodes for popular TV shows, highlighting their lowest-rated episodes. It became quite popular on data visualization sites around 2013.",True,Worst Episode Ever? The Most Commented Rated Shows on IMDb and Their Lowest Rated Episodes,2013.0,True,Worst Episode Ever? The Most Commonly Rated Shows on IMDb and Their Lowest Rated Episodes [OC],2020,93.67088607594935,True,"THE VOST COVMOHLY RITED ShDAs DU IMOB Diu WORST EPISODE EVEA? THEZR LDheST RITED [PESIDES @anj Gc et TeetD MAY Mu TuhpvlVVn~ Senn Kn CAUD VnJulnr Ur_~Al- Mennt AEo TK Da UuJ_JJut_lruuEnr LULJL Eana Vnly Sblylu hnan /Ayr / Kant Tn Ih--Urkyyn"" Jivy AnA VaJe JUZ Ae ALaLELin AiLeUnn Shiro 3Cuel NnlSleL Alann Aoullalrwl U~N-yUIIenhJL Ji JUpnUb -Jv MFVUbAbMua ~uinYe",33.333333333333336,False,True
+haiku-4.5,2020-07-0206,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I have not seen this exact chart before. While it's a humorous comparison chart about presidential golf outings that was likely circulated during 2020 (based on the source date of 7/7/2020), I cannot confirm having encountered this specific version previously.",False,,,True,Hardest Golfing President [OC],2020,0.0,False,Hardest Golfing President 3 28 8 20 10 50 100 150 as President Source: trumpgolfcount.com (7/7/2020) Days,33.333333333333336,True,False
+haiku-4.5,2020-11-0296,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I have not seen this exact chart before. While it appears to be from a 2020 election analysis (based on the timestamp ""Thu, 12 Nov 2020 11:00 E.T.""), comparing actual Electoral College results with a hypothetical scenario, I cannot identify it as a specific published chart I've encountered previously.",False,,,True,"[OC] What if ""I didn't vote"" ran as a US presidential candidate in the 2020 election?",2020,0.0,False,"Projected result in Projected result in the Electoral College the Electoral College if 1 didn't vote"" ran as a candidate Biden 306 232 Trump Biden 231 112 Trump 1954 1 270 270 PWIN EWIN *as Thu, 12 Nov 2020 11.00 E.T:",66.66666666666667,True,False
+haiku-4.5,2020-11-0106,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I have not seen this exact chart before. While it references real data from the 2020 U.S. presidential election (when Kanye West did receive write-in votes in various states), I cannot confirm having encountered this specific visualization previously.",False,,,True,States Kanye West Received Votes In [OC],2020,0.0,False,"States Kanye West Received Votes In (States To Avoid From Now On) 7,654 3,197 6,127 '6,259 5,590 10,195 4,040 3,117 4,894 Follow StatsPanda on Instagram & Twitter for exclusive platform contentl Source: WashingtonPost 1,255 3,092 4,311",66.66666666666667,True,False
+haiku-4.5,2021-12-0248,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I have not seen this exact chart before. While it appears to be a map related to January 6, 2021, and uses Google Trends data, I cannot identify a specific published chart that matches this exact visualization with these particular labels and color coding scheme.",False,,,True,[OC] 2021's Trending Google Searches by State,2021,0.0,False,Capitol Capitol Biden Biden Capitol Capitol_ Biden Capitol Biden Capitol Capitol Biden Biden Biden Capitol Biden Mega Millions Capitol Biden Biden Biden 'Capitol Biden Biden Biden Capitol Capitol Capitol Capitol Miegns Mega Millions Mega Capitol Capitol Millions 'Capitol Capitol Capitol Biden Capitol Biden Capitol Biden Mega Millions Millions Capitol Capitol Biden Capitol 06 JAN Biden Biden 2021 Capitol Vi Analytics Source: trends-google.com Mega,66.66666666666667,False,False
+haiku-4.5,2018-03-0308,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While battery comparison tests are common, I cannot identify the specific source or date of this particular test without additional information. The chart shows a battery longevity test comparing 11 AA battery brands, but I cannot reliably determine when it was published or its original source from the image alone.",False,,,True,"11 different brands of AA batteries, tested in identical flashlights. [OC]",2018,0.0,False,"WHICH BATTERIES LAST LonGEST? 11 different brands of AA batteries, tested in identical flashlights. 6 5 1 24 CVS 1 1 AA 09 1 1 1 1 M hOURs 3 LASTED lt 2 2 1 1 I",66.66666666666667,True,False
+haiku-4.5,2019-12-0508,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While it's a humorous visualization about Minecraft ore distribution that fits the style of internet memes and infographics about the game, I cannot identify it as a specific previously published chart with certainty. The chart appears to be a custom creation showing the relative abundance and y-level distribution of different ores in Minecraft, but I don't have a record of this particular version being a widely-known or cited original work.",False,,,True,Where is each ore found in a minecraft world? [OC],2019,0.0,False,How common are different ores in each layer of a minecraft world 100 2 coal Iron redstone gold lapis diamond Ore type (wider plot means more abundant),66.66666666666667,True,False
+haiku-4.5,2020-12-0329,"```json
+{
+  ""seen"": true,
+  ""title"": ""Google Trends Year in Search 2020"",
+  ""year"": 2020
+}
+```",True,Google Trends Year in Search 2020,2020.0,True,[OC] Google Year in Search 2020 Top Search Terms,2020,88.13559322033899,True,"Google Trends recently released their 'Yearin Search' report for 2020.It 100 lists the top terms and topics that were lobally searched tor during tne Height is search Google Trends year- gathered the data tor the tOp global search terms relating interestin a given people,news and world events and visualized their popularity over the year: topic; indexed to 100 Most of the search terms relate, directly and indirectly; to the Coronavirus Year in Search 2020 pandemic which had people around the world turning to Google for answers. Visualized by Roshaan Khan Kobe Bryant India vs New Zealand Harvey Weinstein Coronavirus Symptoms Coronavirus Coronavirus Update Death Hantavirus Google Classroom Zoom Unemployment Mask Stimulus Checks George Floyd Black Lives Matter TikTok Beirut Tesla Stock Indian Premier League (IPL) Joe Biden Donald Trump U.S.Election Results Bihar Election Results Vaccine Feb 1 Mar 1 Apr 1 May 1 Jun1 Jul 1 Aug 1 Sep 1 Oct 1 Nov 1 Dec 1 Month [2020]",100.0,True,False
+haiku-4.5,2021-04-0373,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While it appears to be a data visualization about Reddit's r/AmITheAsshole subreddit showing odds of being deemed the asshole based on relationship to the person being posted about, I cannot confirm having encountered this specific chart previously or provide reliable information about its original source or publication date.",False,,,True,"[OC] If you post on r/AmITheAsshole about these people, what are the odds of you being the asshole?",2021,0.0,False,"If you post o r/AmlTheAsshole about these people, Odds are: You are the Asshole You are not the Asshole Odds of you being deemed an Asshole Service Staff 1.24 Wife/Girlfriend 1.09 Sibling 0.69 Children 0.53 Husband/Boyfriend 0.51 Friend 0.38 0.23 Below this line, odds are Parent you are not the Asshole Roommate/Neighbour 0.22 Colleague 0.16",66.66666666666667,True,False
+haiku-4.5,2020-12-0533,"```json
+{
+  ""seen"": true,
+  ""title"": ""US Election Results by County (2000-2020)"",
+  ""year"": 2020
+}
+```
+
+This is a well-known visualization showing the progression of US presidential election results county-by-county from 2000 through 2020, with red representing Republican victories and blue representing Democratic victories. It's commonly used to illustrate shifts in voting patterns across the country over two decades.",True,US Election Results by County (2000-2020),2020.0,True,[OC] 2020 electoral map if only ____ voted. Breakdown by each major demographics.,2020,32.786885245901644,False,,0.0,False,False
+haiku-4.5,2022-09-0097,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I have not seen this exact chart before. While it appears to be from Latinometrics and shows YouTube cooking channel statistics from September 4, 2022, I cannot confirm having encountered this specific visualization previously.",False,,,True,"[OC] Gordon Ramsay and Martha Stewart are being outperformed by Doña Angela, a grandma from rural Mexico and her daughter's phone camera.",2022,0.0,False,"A Mexican Abuelita Has One of the Hottest Cooking Channels Joshua 90OK Weissman Youlube 80OK Babish Average views of last 25 videos on 4, 2022 (excluding Shorts) 7O0K Channel Type 600K Individual Production 5OOK Company 4OOK TAST& De Mi Rancho Tu Cocina 3OOK bon Sam the Cooking Italia Gordon Squisita Ramsay 2OOK Jamie Oliver New York IOOK ChefSteps Times Cooking Martha Stewart Latinometrics Source: YouTube Sep: appetit Guy",66.66666666666667,True,False
+haiku-4.5,2022-06-0361,"```json
+{
+  ""seen"": true,
+  ""title"": ""Rude Compounds on Reddit"",
+  ""year"": 2020
+}
+```
+
+This is a well-known data visualization that was created by analyzing Reddit comments from 2006-2020, showing the frequency of rude compound words (combinations of profanities and other words). It became popular on social media and data visualization communities around 2020.",True,Rude Compounds on Reddit,2020.0,True,"[OC] Frequency of compound insults (e.g. ""poophead"", ""scumwad"") in Reddit comments, organized by prefix and suffix",2022,40.0,False,"Rude Compounds on Reddit Frequency of pejorative compounds (e.g. ""dumbass"" , ""douchewad"") in Reddit comments, 2006-2020. Rows (prefixes) and columns (suffixes) are sorted by total frequency. dumb scum douche shit dick fuck dip ass lib cock butt dirt trump twat piss wank bum poop 10 100 1,000 10,000 100,000 Im 3m #comments using term sucker nozzle { waffle clown 2 8 stain stick tard face 8 lord bag boy ass hat wit",100.0,True,False
+haiku-4.5,2021-01-0680,"```json
+{
+  ""seen"": true,
+  ""title"": ""GameStop: A Story In 4 Charts"",
+  ""year"": 2021
+}
+```
+
+This is a well-known infographic that circulated widely during the GameStop stock surge in January 2021, illustrating the r/wallstreetbets phenomenon and the dramatic rise in GME's stock price.",True,GameStop: A Story In 4 Charts,2021.0,True,What's going on with GameStop in 4 charts [OC],2021,40.0,False,"GameStop: A In 4 Charts (1) A chaotic trading forum on reddit has (2) Institutional investors have been betting grown steadily to 2.Smilliont members against GameStop S struggling retailer 2m GME share price S20 (2016-2019) Members of r/wallstreetbets Im S10 Om So ""13 ""14 '15 ""16 '17 '18 ""19 '20 '21 ""16 '""17 ""18 ""19 (3) Users on reddit begin to rally around a few (4) as GME's stock rises investors and market investors that see value in GME: GME chatter makers have to buy GME shares to cover their dominates the forums amidst frantic buying . short positions, sending GME even higher S150 S148 GME AlL other stocks S100 GME share price 44% 56% (2016-present) S50 Number of mentions by stock ticker (Jan 25th) on r/wallstreetbets $0 ""16 ""17 ""18 ""19 '20 ""21 Alleg1 Sources: (1) subredditstats, (2) & (4) chartr Yahoo Finance, (3) Swaggystocks com Story",100.0,True,False
+haiku-4.5,2021-09-0244,"```json
+{
+  ""seen"": true,
+  ""title"": ""Earth Submarine Fiber Optic Cable Network"",
+  ""year"": 2015
+}
+```
+
+This is a well-known visualization created by Tyler Morgan Wall that shows the global submarine cable infrastructure. It has been widely shared and referenced in discussions about internet infrastructure and global connectivity.",True,Earth Submarine Fiber Optic Cable Network,2015.0,True,Earth's Submarine Fiber Optic Cable Network [OC],2021,92.13483146067416,True,Earth Submarine Fiber Optic Cable Network Network Stylized for Clarity  Actual Physical Routes Not Shown Created with rayrender (WWW rayrender.net) Data: github com/telegeography/www submarinecablemap com Twitter: @tylermorganwall,100.0,True,False
+haiku-4.5,2021-02-0217,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I have not seen this exact chart before. While it presents data from a LinkedIn poll about digital transformation drivers, I cannot confirm having encountered this specific visualization previously. The chart is clearly dated (source: LinkedIn, 05.02.2021 - 12.02.2021) and shows results from 375 participants, but I don't have a record of this particular chart in my training data.",False,,,True,[OC] I ran a quick poll last week on digital transformation,2021,0.0,False,"What drove digital transformation in your company? Linkedln Poll, 375 participants 100 88% 90 80 70 60 50 40 30 20 10 6% 6% The CEO The CTO Covid-19 Source: Linkedln, 05.02.2021 12.02.2021 EEAGLI PSUCCESS(",66.66666666666667,True,False
+haiku-4.5,2020-11-0163,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I can see this is a county-level map of the United States with certain counties highlighted in blue (appearing to be concentrated in Montana, North Dakota, South Dakota, Maine, Alaska, and Hawaii) and one county in red (in California). However, I cannot identify the specific chart or its exact title and year from the image alone. The map appears to show some kind of categorical or statistical distribution, but without additional context or labels, I cannot definitively state that I've seen this exact chart before.",False,,,True,"[OC] The states in blue have a combined total population equal to Los Angeles county, in red.",2020,0.0,False,Ecotc nopchon nct,50.0,False,False
+haiku-4.5,2020-07-0500,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While it's a humorous take on Daft Punk's ""Around the World"" (which famously repeats those four words throughout the song), this particular visualization appears to be a custom creation rather than a widely circulated chart with a specific historical record.",False,,,True,Lyrical Composition of Daft Punk's 'Around the World' [OC],2020,0.0,False,Lyrical Composition of Daft Punk's 'Around the World' Around 33% The 33% World 33%,33.333333333333336,True,False
+haiku-4.5,2020-09-0571,"```json
+{
+  ""seen"": true,
+  ""title"": ""The Meteoric Rise of Among Us"",
+  ""year"": 2020
+}
+```
+
+This is a well-known chart that visualizes the explosive growth of Among Us in 2020, showing how the game's player count and Twitch viewership skyrocketed, particularly after the sequel was announced and then cancelled in favor of adding content to the original game.",True,The Meteoric Rise of Among Us,2020.0,True,The Meteoric Rise of Among Us: How a 2 year old game became viral overnight [OC],2020,94.54545454545456,True,"The Meteoric Rise of Among Us 600k Sequel cancelled, new content to be added to Among Us 1 500k Sequel announced 400k End of life announced: 300k No new content updates, Released on Steam cheaper price Second map added 200k (MIRA HQ) Twitch Viewership Skins added Third map added (Polus) 100k Pets added Player Count Uw Jan 2019 Apr 2019 Jul 2019 Oct 2019 Jan 2020 Apr 2020 Jul 2020 look@num",100.0,True,False
+haiku-4.5,2020-04-0280,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While it's a Breaking Bad episode rating chart that appears to be a well-known visualization format, I cannot identify it as a specific previously published chart with certainty. The chart shows IMDB ratings for Breaking Bad episodes across all 5 seasons, but without being able to verify the exact source and publication date, I cannot provide a definitive title and year.",False,,,True,[OC] The absolute quality of Breaking Bad.,2020,0.0,False,Season Br eaking 8.7 8.6 9.2 9.3 8.3 Bad 8.8 8.4 8.5 8.1 8.3 8.3 8.3 8.4 8.4 8.7 9.5 8.9 9.3 8.9 8.8 1 8.5 10 7.8 11 8.5 9.5 Rating Category 12 9.3 9.5 9.9 Great 13 9.3 Good 14 Average 15 Bad 16 (Garbage Data: Internet Movie Database https:| /WWW.imdb.com] Idea rfHbenne,66.66666666666667,False,False
+haiku-4.5,2020-09-0352,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While it's a straightforward ""would you rather"" poll visualization based on Instagram followers' responses, I cannot identify a specific original source, title, or publication year with certainty. The chart appears to be from a social media poll by @mattsurelee (as credited), but I don't have reliable information about when it was originally posted or if it has a formal title beyond what's shown here.",False,,,True,Would you rather be hot or cold? [OC],2020,0.0,False,WOULD YOU RATHER BE HOT OR COLD? (ACCORDING TO @MATTSURELEE' $ INSTAGRAM FOLLOWERS) Rather be hot Rather be cold,33.333333333333336,True,False
+haiku-4.5,2020-08-0261,"```json
+{
+  ""seen"": true,
+  ""title"": ""The Born Identity: The Most Common Birthdays in the United States (2000-2014)"",
+  ""year"": 2015
+}
+```
+
+This is a well-known visualization by data scientist Bo McCready that was widely shared on Reddit and other platforms around 2014-2015. It shows birth rate data relative to average across all days of the year, with darker blue indicating more common birthdays and orange/red indicating less common ones.",True,The Born Identity: The Most Common Birthdays in the United States (2000-2014),2015.0,True,Birthday frequency graphic featured in today's New York Post [OC],2020,40.57971014492754,False,"THE BORN TDENTITY 2 3 ~Uineh more (dmton Tre Most cOMMON Birthdays IN TrE ONITED STATES (2000-2014) common Label birth rato relative t0 average 1 Day Month 10 11 12 :13;14 15 16 17 18 19 20 21 22 23 26 25 26 27 28 29 30 31 Jan: 160 L0i 0 9 0 96 0,98 0.16 0.96 10l 100 0 97 ;094; 0 29 0 95 0.90 0.99 0.99 0,95 0,95 097 0,96 0 94 101 0 9) 09s 0.26 097 093 0 97 0.99 [ Feb: 100   0 99 0 90 0 98 0190 0.99 02 160 0 08 0,97 0 99 0 98} 0 %u 101 0 97 0.96 0,90 0 96 0 90  1 00 101 0 97 0 96 0 G0 0 96 0 99 10 6 March L01 0 98 0.97 098 0.98 101 0 93 0. 97 0 97 0 96   0 99 ;0 96 0.98 0,96  0.98 100]102 0.93 0,96 0 95 097 0 97 0 98 101 0 %e 0,96 0 9s 8 April 091 0 92 102 0 99 0,95 0.95 0.96 0,07 0 93 101  0 99 ;0 93 0 96 0 98 0.90 0,90 0 99 096 0.93 0 95 0 97 0 98 10 0.28 0 93 0 95 0 93 0 9 1 Mav 10 101 0 99 095 0.98 0 96 0.98 0.99 100 100 0 90 0,97 0 94 0 99 101 103 101 0,97 0,97 0.59 101 102 105 L03 0 99 0 91 0 94 0s5 0.97 10o 097 June 101 101 0.99 L01 101 102 LO1 0 993 0 98 0.99 100 LOl 101 102 0 99 100 0.99 102 101 105 02 100099 100 103 101 L0s 102 102 2 1 July A04 103 095 104 4105 L0s : 100 101 103 Hat 1405 102 103 10g 105 405 102 102 102 14 105 102 402 102 104 os 109 103 103 ' 1 03 1104 109 103 4~105 103 103 103 10 1 Sept 0 96 0 97 0 98 101 105 1.03 0103 102 102 101 Oct Los 103 104 101 100 L00 102 101 0 99 0,95 0 98 101 L0L 102 102' 0 98 0.98 0.98 101 100 103 102 0 9e 0 93 0.92 0.93 0,98 0 90 Nov 104 100 0.99 0,98 101 101 103 102 0.93 0.98 100 0 98 103 L03 100 0.93 0.99 102 1o5 094 0.87 0.83 0.83 092 0 83 0.92  0.58 0.98 1 Dec. 100 0 99 100 100 102 100 0.97 0.97 0.96 0, 99 0,99 0.99 0 99 100 104 101 0.91 0.87 0s 0 93 Leap Day excluded nis noticeably lower than the The I3th of each month Dec25 is the least comman_ Seproundingtdbincoudeng Sept 1e,the tends t0 be lower than birthday; followed by Jan 1 the I2th and I4th: Dec 24 and July 4 most common birthday: Oh; babyl Data whiz calculates the most and least common birthdays in revealing chart FRISHBERG Eth of cach month is & little bit prefer giving birth on the holi- By HANNAH lower than the I2th and I4th, days;it does appear to be a popu - New said, pointing t0 likely lar time tr baby-making: The What do Christmas cesarean sections  percoracp _ most common birthdays are Year' $ Day Christmas Eve and certain days- also thought it Sept.12, 19 and 20,respectively: the 4th of july have in common? interesting   Sept: ""When we look at births peaking They're holidays_ but they seemsealbe lotece shag theother in late summer; we can back up also happen t0 be the four Jeast seems to be nine months and infer that concep common birthdays in the US days around it: births tion is most common around the Austin; Texas business intelli- Data on 2Oth-century holidays  McCready further bolstered McCready Su- when days are the short- gence   developer Bo hypothesis It was only est and coldest; he said: 32 this week and cele- ji became associated In general; the patterns really brated in part by giving gift to after Sept: national tragedy; made me think ot about how the Internet: data visualization with and least com- McCready observed, that frequently we have sched- showing the most to be children started being born uled births in  the United mon dates forthemeriS ZOOOand notably frequently on States_ whether it's an in LABOR OF Love: Bo born betwcen the years 2014, which he on Reddit: that date: duction C-section;' McCready released the chart curious how common an Reddit commenters also be said: on Iuesday his own birthday: was HS. McCready noticed there WCrC ""Seeing how holidays o18 Thbirosdor his ow birtk: in birthrates at the are 50 much lower than prise more than 30 percent of all date. He found that the answer beginning of   September other days; it'$ really ap- American births ""relatively more common"" and at the end of Novem- parent that those things certainly seemed be WaS in the process % crunch- ber: When families take must  have huge m- the case when he welcomed his Social Security Administra- vacations around Labor pact overall birth 2-year-old daughter Willow into data he a[s0 unearthed Day and   Thanksgiving; patterns_ According the world: number of surprising facts about you re not sceing lot of recent data from the ""She was born on the evening other days  scheduled procedures; Centers for Disease of July 3"" he said: ""In the hospi- ""Superstition Probably plays said McCready Control and Preven- tal; the next day was the 4th of bow we 'schedule births: The While Americans don't tion C-sections com- July and it was ghost town into Socecholo { 0 97 0 92 0 92 100 104 Aug: 14 Day; perstition E turned less Posted that dips That and ine tion",100.0,True,False
+haiku-4.5,2022-09-0061,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I have not seen this exact chart before. While it presents data on school shooting incidents by country from January 2009 to May 2018 (sourced from World Population Review), I cannot confirm having encountered this specific visualization previously.",False,,,True,[OC] Countries with School Shootings (total incidents from Jan 2009 to May 2018),2022,0.0,False,Countries with school shootings incidents (Jan 2009-May 2018) United States 288 Mexico South Africa India Pakistan Nigeria Afghanistan Brazil France Canada hina Russia Turkey Germany Kenya Greece Azerbaijan Hungary Estonia countries 200 300 Number of school shootings incidents Source: World Population Review Other,66.66666666666667,True,False
+haiku-4.5,2021-01-0255,"```json
+{
+  ""seen"": false,
+  ""title"": null,
+  ""year"": null
+}
+```
+
+I have not seen this exact chart before. While it appears to be from the Financial Times (based on the © FT marking) and compares COVID-19 ICU admissions to flu seasons in England, I cannot confirm having encountered this specific visualization previously.",False,,,True,Animation: how does Covid compare to a bad winter flu season? [OC],2021,8.695652173913047,False,"""No different to a bad flu season?"" How England's winter Covid surge compares to flu seasons Weekly ICU admissions of flu patients per million people in winter 2013-14 2 1 Oct Nov Dec Jan Feb Mar Apr Source: PHE annual winter flu and Covid reports @ FT Aug Sep May",66.66666666666667,True,False
+haiku-4.5,2020-11-0172,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While it appears to be a map showing which U.S. states allow pet raccoons (indicated by the yellow coloring), I cannot identify a specific published chart with this exact styling and source attribution to provide you with a definitive title and year.",False,,,True,[OC] The yellow states in the map below are the states in which it is legal to own a RACCOON.,2020,0.0,False,Source: https:Ilworldpopulationreview com/state-rankings/pet-raccoon-legal-states. By toddrjones.,66.66666666666667,False,False
+haiku-4.5,2020-02-0424,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+While I can see this is a chart titled ""2020 Presidential Candidates by Net Worth"" showing the relative wealth of various candidates, I cannot confirm having seen this exact chart before in my training data. The chart itself is clearly labeled with its title and shows data from 2020, but I cannot verify if this specific visualization has appeared before without being certain.",False,,,True,[OC] 2020 Presidential Candidates by Net Worth,2020,0.0,False,"2020 Presidential Candidates by Net Worth 570,000,000,000.00 S60,000,000,000.00 S61,800,000,oooloo S50,000,000,000.00 S40,000,000,000.00 530,000,000,000.00 520,000,000,000.00 S10,000,000,000.00 53,100,000,000.00 S12,000,000.00 S9,000,000.00 52,500,000.00 52,000,000.00 S100,000.00 Michael Bloomberg Donald Trump Elizabeth Warren Joe Biden Ber nie Sanders Amy Klobuchar Pete Buttigieg",66.66666666666667,True,False
+haiku-4.5,2020-06-0550,"```json
+{
+  ""seen"": false,
+  ""title"": null,
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While it displays real information about Covid-19 donations from billionaires, I cannot confirm having encountered this specific visualization previously.",False,,,True,[OC] Top 10 Highest Covid-19 donations with the percentage of their net worth,2020,7.5,False,"10 Highest Covid-l9 Donations Covid-19 Percentage of Net Worth Donation Jack Dorsey 21,74% S1,0 B Bill & Mellinda 0,28% S305 M Gates Azim Premji 2,16% S132 M George Soros 1,57% S130 M Andrew Forrest 1,64% S1OO+ M Skoll 1,92% S1OO+ M Jeff Bezos 0,07% S100 M Michael Dell 0,35% S100 M Michael 0,13% s74,5+ M Bloomberg Lynn & Stacy 2,06% S70 M Schusterman 0% 20% 40% 60% 80% 100% Top Jeff",66.66666666666667,True,False
+haiku-4.5,2020-03-0969,"```json
+{
+  ""seen"": true,
+  ""title"": ""CARES Act Funding Allocation"",
+  ""year"": 2020
+}
+```
+
+This is a Sankey diagram showing the distribution of the $2 trillion CARES Act (Coronavirus Aid, Relief, and Economic Security Act) passed in March 2020. The chart breaks down how the funds were allocated across different categories including individuals, businesses, healthcare, education, and state/local governments.",True,CARES Act Funding Allocation,2020.0,True,[OC] Where the money goes in the US Senate's $2T coronavirus stimulus bill,2020,24.48979591836735,False,"Public Health: $153.5B Student Loans/Other*: S43.7B Cash Payments S300B Individuals*: SS60B Extra Unemployment Payments S260B National Security: S17B Passenger Wages/Benefits: S25B Airlines: S58B Cargo - WagesmBeceors: S38 Airlines Other: S26B CARES Act: S2,000B Corporations: SSOOB Large Corporations Other: S425B Grants: S1OB Loans: S350B Small Business: S377B Relief for Existing Loans: S17B COVID-19 Response: S274B State & Local Govt: 5339.8B Block Grants: SSB K-12 Schools: S13B Higher Education: S14B Family Programs: $5.3B Governments Other: S28.5B Child Nutrition: S8.8B Safety Net: S26B SNAP: S15.5B #Estimated Safety Foed Eanes: 59.231 Large New",100.0,False,False
+haiku-4.5,2020-09-0192,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I have not seen this exact chart before. While it appears to be a visualization tracking Tom Cruise's age alongside his marriage and divorce ages with three different partners (Mimi Rogers, Nicole Kidman, and Katie Holmes) over time from 1985-2014, I cannot identify it as a specific previously published chart with certainty.",False,,,True,All Tom Cruise's wives were 33 at time of divorce...[OC],2020,0.0,False,54 52 Marriage 51 Tom Cruise 50 49 Mimi Rogers 48 48 47 46 Nicole Kidman 45 45 44 43 Katie Holmes 42 42 41 40 39 38 36 35 34 Divorce Age 33 33 33 33 33 32 32 32 32 30 31 31 31 31 30 30 30 30 29 29 29 28 28 28 27 27 27 26 26 24 25 25 24 24 23 23 21 85' 86' 87 88' 89' 90' 91' 92' 93' 94' 95' 96' 97 98' 99 00' 01 02' 03' 04' 05' 06' 07 08' 09' 10' M1 12' 13' 14' Year,66.66666666666667,True,False
+haiku-4.5,2018-01-0461,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While it appears to be a scientific visualization related to bicycle dynamics and instability (likely from academic research on bicycle physics), I cannot identify the specific source publication, title, or year with certainty. The figure caption provided suggests it's from a technical paper on bicycle mechanics, but without additional context or metadata, I cannot confirm the exact source.",False,,,True,Paths of 800 unmanned bicycles being pushed until they fall over,2018,0.0,False,"Figure 2: Instability of an unsteered bicycle. This shows 800 runs of a bicycle being pushed to the right:  For each run, the of the front wheel on the ground is shown until the bicycle has fallen over: The unstable oscillatory nature is due to the subcritical speed of the bicycle, which loses further with each oscillation_ path speed",66.66666666666667,True,False
+haiku-4.5,2021-12-0265,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. However, it appears to be a Sankey diagram showing the job application funnel/pipeline, tracking how 678 job applications flow through various stages (No Response, First Interview, Second Interview, Rejected, Ghosts, and Responses). While this type of visualization is common in recruitment analytics and job search tracking, I cannot identify this as a specific published chart with a known title and date.",False,,,True,[OC] What job hunting has been like as a 2020 graduate so far,2021,0.0,False,Job Apps: 678 No Response: 670 Rejected: 2 First Interview: 3 Ghosts: 6 Responses: 8 Second Interview: 1,40.0,False,False
+haiku-4.5,2020-03-0669,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I have not seen this exact chart before. While it shows a comparison between COVID-19 infections and r/Coronavirus subreddit subscribers from late January 2020, I don't have a record of encountering this specific visualization previously.",False,,,True,[OC] COVID-19 infections vs. r/Coronavirus subscriptions,2020,0.0,False,"COVID-19 infections Vs- r/Coronavirus subscribers Jan 21st Jan 22nd Jan 23rd Jan 24th Jan 25th Jan 26th Jan 2 2,400 rlCoronavirus 2,278 2,200 2,000 1,800 1,600 1,400 1,200 1,000 COVID-19 887 800 600 400 200 Source: Worldometers; Subreddit Stats * Created by ufartursilva0220",66.66666666666667,True,False
+haiku-4.5,2020-12-0436,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While it's a well-designed visualization comparing Harry Potter characters' screen time to their mentions in books, I cannot identify it as a specific previously published chart that I have encountered. The chart appears to be from Charttr (as indicated in the source), but I cannot confirm the exact publication date or verify if this is a widely circulated version.",False,,,True,Harry Potter Characters: Screen time vs. Mentions In The Books [OC],2020,0.0,False,"Harfy Potter And The Characters With The Most Screen Time L000 4e5 Scrcen Timc In Potter Films (Minutes) Scale) Ron Wcasley Hermione Grenger 100 Dumbledore Nevillc, Dzco Malfoy McGonagll Hagrid Sevcru' Lunt Loregood Voldemort Luciut Malfoy Frad Siriu: Black Narcissa Malfoy Molly Weasley Falkcr Percy Weasley Mad-Eye Moody Kreacher Bill Wcaslcy Number Of Mentions [ Books (Log Scale) Jorajn 500 5,000 50,000 Saurce: IMDB via Jetpunk com, Sparcle chartr Hatty (Lcg = Lupin, Ginny Snapc movies Georgs Under-represented in",66.66666666666667,True,False
+haiku-4.5,2022-06-0259,"```json
+{
+  ""seen"": false,
+  ""title"": """",
+  ""year"": null
+}
+```
+
+I haven't seen this exact chart before. While it appears to be from Interactive Investor and shows commodity price changes since January 2020, I cannot identify a specific previous instance of this exact visualization in my training data.",False,,,True,[OC] Inflation and the cost of every day items,2022,0.0,False,"What inflation really looks like Price change since January 2020 (%) Jan 2020 100 Energy Food Clothing 50 J# 00 n 0 O.0% 0.0% O.0% 0.0% 0.0% 0.0% O.0% 0.0% O.0% O.0% 50 8 8 Gas Wheat Corn Cotton Oil Coffee Sugar Butter   Cheese Orange Juice Past performance is not a to future performance:  Source: CME Group, ICE; Morningstar; Bloomberg commodity interactive subindex 3-month forward: investor  IE R Of THE PAY Tl ISE guide ' | ",66.66666666666667,False,False
+gemini-2.5-flash,2020-07-0383,"```json
+{""seen"": true, ""title"": ""Most Searched Terms by State (Google Trends)"", ""year"": 2018}
+```",True,Most Searched Terms by State (Google Trends),2018.0,True,[OC] Trending Google Searches by State Between 2018 and 2020,2020,57.69230769230769,False,Bitcoin Bitcoin Price Bitcoin Bitcoin Price Price Bitcoin Price Price Bitcoin Price __ Nintendo Lil Switch Lil Pump Bitcoin Price Nintendo Nintendo Cardi B Cardi B Cardi B Switch Switch Nintendo Cardi B Lil Pump Switch Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Nintendo | Bitcoin Pricel Nintendo Cardi B Switch Cardi B Cardi B Switch Cardi B Cardi B Cardi B 'Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B Cardi B 01 JAN ~Nintendo Switch Cardi B 2018 Bitcoin Price Vi Analytics Sources: Google Year in Search; Google Trends Pump?,47.72727272727273,True,False
+gemini-2.5-flash,2020-08-0276,"{""seen"": true, ""title"": ""Men named Terry tend to be of the same age as women named Karen"", ""year"": 2020}",True,Men named Terry tend to be of the same age as women named Karen,2020.0,True,I analysed 70 years of baby names in the US to decide what to call a male Karen. It's Terry. [OC],2020,54.3046357615894,False,Men named Terry tend to be of the same age as women named Karen Number of births per year in the US as a % of peak popularity 100% 75% 50% 25% 0% 1960 1980 2000 2020 nathancunncom (@nathcun); data from package {babynames},100.0,True,False
+gemini-2.5-flash,2020-04-0436,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,For everyone asking why i didn't include the Spanish Flu and other plagues in my last post... [OC],2020,0.0,False,Ebola 2014 59 Ebola 2018 20 1918 Spanish Flu COVID-19 2020 Cholera 2008 Cholera 2010 Cholera 2016 MERS 2012 Measles 2011 Measles - 2019 Meningitis 2009 SARS - 2002 Swine Flu 2009 Day 1,66.66666666666667,True,False
+gemini-2.5-flash,2020-07-0189,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,US College Tuition & Fees vs. Overall Inflation [OC],2020,0.0,False,Less Education For Your Buck +1184% 1200% Tuition Inflation (US) 1000% Overall Inflation (US CPI) 800% 600% 400% +228% 200% 0% 1980 1985 1990 1995 2000 2005 2010 2015 2020 Source: US Bureau of Labor Statistics chartr College,33.333333333333336,True,False
+gemini-2.5-flash,2019-03-0542,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,Let's hear it for the lurkers! The vast majority of Reddit users don't post or comment. [OC],2019,0.0,False,"More than 98% 0f Reddit users are lurkers who don't post or comment 1.9% Users who comment or post Lurkers 98 . 1% Created by TrueBirch: Reddit claims it has 330 million active monthly users Monthly datasets from pushshiftio contain posts and comments from 6.4 million different users, suggesting that 98.1% of Reddit users are lurkers.",66.66666666666667,True,False
+gemini-2.5-flash,2020-10-0031,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,A wish for election night data visualization [OC],2020,0.0,False,"Media;, on election night: Don't use charts like this: Use charts like THIS: 5% of Precincts Reporting 5%/ of Precincts Reporting Ttum Clinton Erd Trump 46.39/0 Clinton 53.7%/ dntn Yot Lea And include ALL projected mail-in votes in the totals, so if there are lots absenteelmail-in ballots that haven't been counted; they SHOW UP as not counted *Data from CNN 2016 Presidential election results by county yet!",66.66666666666667,True,False
+gemini-2.5-flash,2020-11-0503,"```json
+{""seen"": true, ""title"": ""u/IHateTheLetterF is a mad lad"", ""year"": 2020}
+```",True,u/IHateTheLetterF is a mad lad,2020.0,True,[OC] u/IHateTheLetterF is a mad lad,2020,100.0,True,THateTheLetterF is a mad lad Past   1000) comments 600o 1 400O 5 # 2000 A B C D E F G H I J K L M N 0 P Q R S T U V W X Y 7 Normalized to uppercase,100.0,True,False
+gemini-2.5-flash,2020-08-0628,"```json
+{""seen"": false, ""title"": null, ""year"": null}
+```",False,,,True,"[OC] What I'm about to learn about after my kid says, ""Wanna know somefing?"" Data collected over the course of 7 days.",2020,5.217391304347828,False,Wanna Know Somefing? Story Pirates 1.8% Math Facts Minecraft 17.5%/ 3.5% Animal Facts 3.5% Space Facts 5.3% Dogman 3.5% Paper Mario Calvin and Hobbes 7.0% 3.5% Garfield 7.0% Mariokart 1.8% Wild Kratz Future Aspirations 7.0% 5.3% Past Experiences Gravity Falls 5.3% 7.0% Spongebob Current Happenings 5.3% Captain Underpants 10.5%/ 5%/,66.66666666666667,False,False
+gemini-2.5-flash,2020-08-0039,"{""seen"": true, ""title"": ""Beyond Burger Life Cycle Assessment"", ""year"": 2018}",True,Beyond Burger Life Cycle Assessment,2018.0,True,The environmental impact of Beyond Meat and a beef patty [OC],2020,35.41666666666667,False,"Beyond Meat patty vs Beef patty Beyond Meat (113g/ Greenhouse Gas Beef patty (113g/ 402) Emissions (Kg COZe) Estimated Methane 0,3976 Production (Kg  Use (MJ) 114 Land Use 3,8 (m2 a-e) 0,11 Water Use 21,84 (Liters e) 402) Energy",100.0,True,False
+gemini-2.5-flash,2018-04-0264,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,Gaze and foot placement when walking over rough terrain (article link in comments) [OC],2018,0.0,False,Rough Terrain Full Speed Playback Famed 2 RR 002695 SF 002680 I/s 29.65 00.01.30 X: 0276 Y:-0001 LookAhead vs Time 2D Gaze on Ground Eye-in-Head Position 3000 I000 Legend 2500 Center = Mass Posilion Current Gaze Posilon 2000 Righi (oci sleps Lelt fcot sleps 1500 1 Vertical 1 1OO0 1 [ s00 Horizontal 500 1000 1500 2000 2500 3000 225 22.0 -15 41.0 0.5 Seconds from current frame mm Seconds from current frame,66.66666666666667,True,False
+gemini-2.5-flash,2020-08-0565,"{""seen"": true, ""title"": ""Demographics of the United States Congress"", ""year"": 2020}",True,Demographics of the United States Congress,2020.0,True,"How representative are the representatives? The demographics of the U.S. Congress, broken down by party [OC].",2020,48.97959183673469,False,DEMOGRAPHICS OF THE UNITED STATES CONGRESS (2020) DEMOCRATIC US POPULATION REPUBLICAN REPRESENTATIVES REPRESENTATIVES 4444 RELIGION PROTESTANT CATHOLIC MORMON Oahhonoy CHAISTIAN MUSLIM JEWISH HINDU buddhIST OTHER DONT KNOW UNAFFILIATED RACE WHITE LATINO/HISP BLACK ASIAN/PAC.ISL  NATIVE AME: TWO OR MORE SEX FEMALE MALE Ulecce*Ovin,25.31645569620253,False,False
+gemini-2.5-flash,2020-04-0408,"```json
+{""seen"": false, ""title"": null, ""year"": null}
+```",False,,,True,Coronavirus Deaths vs Other Epidemics From Day of First Death (Since 2000) [OC],2020,4.878048780487802,False,1000 2000 3000 Cholera 2010 3260 COVID-19 2020 2970 Swime Flu 2015 1123 Meningitis 2009 879 Swine Flu 2009 724 SARS 2002 513 Measles 2011 223 Measles 2019 207 Ebola 2014 184 Ebola 2018 104 Cholera 2016 86 Cholera 2008 40 MERS - 2012 Day 60,66.66666666666667,True,False
+gemini-2.5-flash,2020-08-0615,"{""seen"": true, ""title"": ""Web Browser Market Share"", ""year"": 1994}",True,Web Browser Market Share,1994.0,True,[OC] Most Popular Web Browsers between 1995 and 2019,2020,47.36842105263158,False,Netscape Pie Chart Pirate (80.1 %) Other (7 .1%) Mosaic (10.8%) Pie Chart Pirate 1994,41.666666666666664,False,False
+gemini-2.5-flash,2020-01-0202,"{""seen"": true, ""title"": ""Leonardo DiCaprio Refuses to Date a Woman His Age"", ""year"": 2020}",True,Leonardo DiCaprio Refuses to Date a Woman His Age,2020.0,True,Leonardo DiCaprio Refuses to Date a Woman His Age [OC],2020,100.0,True,"L E 0 N A R D 0 D | C A P R / 0 R E F U $ E $ T 0 D A T E A W 0 M A N H| $ A G E HE GETS OLDER THEY STAY THE SAME AGE LEO'S 45+ NOW BUT STILL CONSISTENTLY DATES WOMEN <25 45 YEARS LEONARDO'S GIRLFRIEND'$ AGE MEDIAN 22 YEARS LEONARDO'$ AGE YUP HE AGES LINEARLY 40 YEARS 39 NEW 38 MAX AGE LEO TURNED 25 YEARS 36 OLD IN THE YEAR 1999 35 GAP 35 YEARS OF HIS CURRENT PARTNER 33 23 TURNED 2 YEARS OLD 32 YRS 31 0 3 ILL-FATED PARTNERS 30 REACHED LEO'S APPARENT LEO 30 YEARS 29 MAX AGE LIMIT OF 25 IS 28 27 22X 26 HER 25 25 25 25 AGE 25 YEARS 24 24 23 23 22 21 20 20 20 20 YEARS 18 15 YEARS 98 99 00 '01 02 '03 '04 05 06 '07 '08 09 '10 '11 '12 '13 '14 '15 '16 '17 '18 '19 Born on 11/11/1974 Leonardo Gisele Bar Blake Erin Toni Kelly Nina Camila DiCaprio Bundchen Refaeli Lively Heatherton Garrn Rohrbach Agdal Morrone Ricky Gervais at the 2020 Colden Globes: Once Upon a Time in Hollywood is nearly three hours long: Leonardo DiCaprio attended the premiere, and by the end, his date was too old for him: Even Prince Andrew's like, ""Come on, Leo, mate. Youre nearly 50, son:'",100.0,True,False
+gemini-2.5-flash,2020-06-0564,"```json
+{""seen"": true, ""title"": ""Blockbuster Store Locations in the US"", ""year"": 2021}
+```",True,Blockbuster Store Locations in the US,2021.0,True,[OC] Blockbuster Video US store locations between 1986 and 2019,2020,56.0,False,"Feb 2005 5,726 Stores V Analytics",40.67796610169492,False,False
+gemini-2.5-flash,2020-02-0194,"{""seen"": false, ""title"": null, ""year"": null}",False,,,True,[oc] I sat by a fire and recorded what people said,2020,7.547169811320757,False,People Said Around a Fire Comparison to other fires Female Male Something about white rabbits The fire is hot Anyone have any hotdogs? There'$ nothing quite like a real fire Too bad we don't have any marshmallows Things',66.66666666666667,True,False
+gemini-2.5-flash,2019-08-0309,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,I recorded my travels as a professional truck driver since 2012.,2019,0.0,False,Onited States Gulf of Mexico Mexico Google Cuba Wooid 92019 Google Imagery 02019 TerraMetrios NASA Map data 02019 INEGI Google 2 8,33.333333333333336,False,False
+gemini-2.5-flash,2020-03-1046,"{""seen"": true, ""title"": ""Worst Episode Ever? The Most Commonly Rated Shows on IMDb and Their Lowest Rated Episodes"", ""year"": 2019}",True,Worst Episode Ever? The Most Commonly Rated Shows on IMDb and Their Lowest Rated Episodes,2019.0,True,Worst Episode Ever? The Most Commonly Rated Shows on IMDb and Their Lowest Rated Episodes [OC],2020,100.0,True,"THE VOST COVMOHLY RITED ShDAs DU IMOB Diu WORST EPISODE EVEA? THEZR LDheST RITED [PESIDES @anj Gc et TeetD MAY Mu TuhpvlVVn~ Senn Kn CAUD VnJulnr Ur_~Al- Mennt AEo TK Da UuJ_JJut_lruuEnr LULJL Eana Vnly Sblylu hnan /Ayr / Kant Tn Ih--Urkyyn"" Jivy AnA VaJe JUZ Ae ALaLELin AiLeUnn Shiro 3Cuel NnlSleL Alann Aoullalrwl U~N-yUIIenhJL Ji JUpnUb -Jv MFVUbAbMua ~uinYe",32.53012048192772,False,True
+gemini-2.5-flash,2020-07-0206,"```json
+{""seen"": true, ""title"": ""Hardest Golfing President"", ""year"": 2020}
+```",True,Hardest Golfing President,2020.0,True,Hardest Golfing President [OC],2020,100.0,True,Hardest Golfing President 3 28 8 20 10 50 100 150 as President Source: trumpgolfcount.com (7/7/2020) Days,100.0,True,False
+gemini-2.5-flash,2020-11-0296,"{""seen"": true, ""title"": ""Projected result in the Electoral College if \""I didn't vote\"" ran as a candidate"", ""year"": 2020}",True,"Projected result in the Electoral College if ""I didn't vote"" ran as a candidate",2020.0,True,"[OC] What if ""I didn't vote"" ran as a US presidential candidate in the 2020 election?",2020,71.54471544715447,False,"Projected result in Projected result in the Electoral College the Electoral College if 1 didn't vote"" ran as a candidate Biden 306 232 Trump Biden 231 112 Trump 1954 1 270 270 PWIN EWIN *as Thu, 12 Nov 2020 11.00 E.T:",100.0,True,False
+gemini-2.5-flash,2020-11-0106,"{""seen"": true, ""title"": ""States Kanye West Received Votes In (States To Avoid From Now On)"", ""year"": 2020}",True,States Kanye West Received Votes In (States To Avoid From Now On),2020.0,True,States Kanye West Received Votes In [OC],2020,93.33333333333331,True,"States Kanye West Received Votes In (States To Avoid From Now On) 7,654 3,197 6,127 '6,259 5,590 10,195 4,040 3,117 4,894 Follow StatsPanda on Instagram & Twitter for exclusive platform contentl Source: WashingtonPost 1,255 3,092 4,311",100.0,True,False
+gemini-2.5-flash,2021-12-0248,"```json
+{""seen"": true, ""title"": ""Google Trends: Top Search Terms by State on January 6, 2021"", ""year"": 2021}
+```",True,"Google Trends: Top Search Terms by State on January 6, 2021",2021.0,True,[OC] 2021's Trending Google Searches by State,2021,69.23076923076923,False,Capitol Capitol Biden Biden Capitol Capitol_ Biden Capitol Biden Capitol Capitol Biden Biden Biden Capitol Biden Mega Millions Capitol Biden Biden Biden 'Capitol Biden Biden Biden Capitol Capitol Capitol Capitol Miegns Mega Millions Mega Capitol Capitol Millions 'Capitol Capitol Capitol Biden Capitol Biden Capitol Biden Mega Millions Millions Capitol Capitol Biden Capitol 06 JAN Biden Biden 2021 Capitol Vi Analytics Source: trends-google.com Mega,100.0,False,False
+gemini-2.5-flash,2018-03-0308,"```json
+{""seen"": false}
+```",False,,,True,"11 different brands of AA batteries, tested in identical flashlights. [OC]",2018,0.0,False,"WHICH BATTERIES LAST LonGEST? 11 different brands of AA batteries, tested in identical flashlights. 6 5 1 24 CVS 1 1 AA 09 1 1 1 1 M hOURs 3 LASTED lt 2 2 1 1 I",66.66666666666667,True,False
+gemini-2.5-flash,2019-12-0508,"{""seen"": true, ""title"": ""How common are different ores in each layer of a minecraft world"", ""year"": 2020}",True,How common are different ores in each layer of a minecraft world,2020.0,True,Where is each ore found in a minecraft world? [OC],2019,64.91228070175438,False,How common are different ores in each layer of a minecraft world 100 2 coal Iron redstone gold lapis diamond Ore type (wider plot means more abundant),100.0,True,False
+gemini-2.5-flash,2020-12-0329,"```json
+{""seen"": true, ""title"": ""Google Trends Year in Search 2020"", ""year"": 2020}
+```",True,Google Trends Year in Search 2020,2020.0,True,[OC] Google Year in Search 2020 Top Search Terms,2020,88.13559322033899,True,"Google Trends recently released their 'Yearin Search' report for 2020.It 100 lists the top terms and topics that were lobally searched tor during tne Height is search Google Trends year- gathered the data tor the tOp global search terms relating interestin a given people,news and world events and visualized their popularity over the year: topic; indexed to 100 Most of the search terms relate, directly and indirectly; to the Coronavirus Year in Search 2020 pandemic which had people around the world turning to Google for answers. Visualized by Roshaan Khan Kobe Bryant India vs New Zealand Harvey Weinstein Coronavirus Symptoms Coronavirus Coronavirus Update Death Hantavirus Google Classroom Zoom Unemployment Mask Stimulus Checks George Floyd Black Lives Matter TikTok Beirut Tesla Stock Indian Premier League (IPL) Joe Biden Donald Trump U.S.Election Results Bihar Election Results Vaccine Feb 1 Mar 1 Apr 1 May 1 Jun1 Jul 1 Aug 1 Sep 1 Oct 1 Nov 1 Dec 1 Month [2020]",100.0,True,False
+gemini-2.5-flash,2021-04-0373,"{""seen"": false, ""title"": null, ""year"": null}",False,,,True,"[OC] If you post on r/AmITheAsshole about these people, what are the odds of you being the asshole?",2021,4.255319148936167,False,"If you post o r/AmlTheAsshole about these people, Odds are: You are the Asshole You are not the Asshole Odds of you being deemed an Asshole Service Staff 1.24 Wife/Girlfriend 1.09 Sibling 0.69 Children 0.53 Husband/Boyfriend 0.51 Friend 0.38 0.23 Below this line, odds are Parent you are not the Asshole Roommate/Neighbour 0.22 Colleague 0.16",66.66666666666667,True,False
+gemini-2.5-flash,2020-12-0533,"{""seen"": true, ""title"": ""If Only [Demographic] Voted..."", ""year"": 2016}",True,If Only [Demographic] Voted...,2016.0,True,[OC] 2020 electoral map if only ____ voted. Breakdown by each major demographics.,2020,27.02702702702703,False,,0.0,False,False
+gemini-2.5-flash,2022-09-0097,"{""seen"": true, ""title"": ""A Mexican Abuelita Has One of the Hottest Cooking Channels"", ""year"": 2022}",True,A Mexican Abuelita Has One of the Hottest Cooking Channels,2022.0,True,"[OC] Gordon Ramsay and Martha Stewart are being outperformed by Doña Angela, a grandma from rural Mexico and her daughter's phone camera.",2022,33.50785340314137,False,"A Mexican Abuelita Has One of the Hottest Cooking Channels Joshua 90OK Weissman Youlube 80OK Babish Average views of last 25 videos on 4, 2022 (excluding Shorts) 7O0K Channel Type 600K Individual Production 5OOK Company 4OOK TAST& De Mi Rancho Tu Cocina 3OOK bon Sam the Cooking Italia Gordon Squisita Ramsay 2OOK Jamie Oliver New York IOOK ChefSteps Times Cooking Martha Stewart Latinometrics Source: YouTube Sep: appetit Guy",100.0,True,False
+gemini-2.5-flash,2022-06-0361,"{""seen"": true, ""title"": ""Rude Compounds on Reddit"", ""year"": 2020}",True,Rude Compounds on Reddit,2020.0,True,"[OC] Frequency of compound insults (e.g. ""poophead"", ""scumwad"") in Reddit comments, organized by prefix and suffix",2022,40.0,False,"Rude Compounds on Reddit Frequency of pejorative compounds (e.g. ""dumbass"" , ""douchewad"") in Reddit comments, 2006-2020. Rows (prefixes) and columns (suffixes) are sorted by total frequency. dumb scum douche shit dick fuck dip ass lib cock butt dirt trump twat piss wank bum poop 10 100 1,000 10,000 100,000 Im 3m #comments using term sucker nozzle { waffle clown 2 8 stain stick tard face 8 lord bag boy ass hat wit",100.0,True,False
+gemini-2.5-flash,2021-01-0680,"{""seen"": true, ""title"": ""GameStop: A Story In 4 Charts"", ""year"": 2021}",True,GameStop: A Story In 4 Charts,2021.0,True,What's going on with GameStop in 4 charts [OC],2021,40.0,False,"GameStop: A In 4 Charts (1) A chaotic trading forum on reddit has (2) Institutional investors have been betting grown steadily to 2.Smilliont members against GameStop S struggling retailer 2m GME share price S20 (2016-2019) Members of r/wallstreetbets Im S10 Om So ""13 ""14 '15 ""16 '17 '18 ""19 '20 '21 ""16 '""17 ""18 ""19 (3) Users on reddit begin to rally around a few (4) as GME's stock rises investors and market investors that see value in GME: GME chatter makers have to buy GME shares to cover their dominates the forums amidst frantic buying . short positions, sending GME even higher S150 S148 GME AlL other stocks S100 GME share price 44% 56% (2016-present) S50 Number of mentions by stock ticker (Jan 25th) on r/wallstreetbets $0 ""16 ""17 ""18 ""19 '20 ""21 Alleg1 Sources: (1) subredditstats, (2) & (4) chartr Yahoo Finance, (3) Swaggystocks com Story",100.0,True,False
+gemini-2.5-flash,2021-09-0244,"{""seen"": true, ""title"": ""Earth Submarine Fiber Optic Cable Network"", ""year"": 2020}",True,Earth Submarine Fiber Optic Cable Network,2020.0,True,Earth's Submarine Fiber Optic Cable Network [OC],2021,92.13483146067416,True,Earth Submarine Fiber Optic Cable Network Network Stylized for Clarity  Actual Physical Routes Not Shown Created with rayrender (WWW rayrender.net) Data: github com/telegeography/www submarinecablemap com Twitter: @tylermorganwall,100.0,True,False
+gemini-2.5-flash,2021-02-0217,"{""seen"": true, ""title"": ""What drove digital transformation in your company?"", ""year"": 2021}",True,What drove digital transformation in your company?,2021.0,True,[OC] I ran a quick poll last week on digital transformation,2021,62.38532110091743,False,"What drove digital transformation in your company? Linkedln Poll, 375 participants 100 88% 90 80 70 60 50 40 30 20 10 6% 6% The CEO The CTO Covid-19 Source: Linkedln, 05.02.2021 12.02.2021 EEAGLI PSUCCESS(",100.0,True,False
+gemini-2.5-flash,2020-11-0163,"```json
+{""seen"": false, ""title"": null, ""year"": null}
+```",False,,,True,"[OC] The states in blue have a combined total population equal to Los Angeles county, in red.",2020,6.451612903225808,False,Ecotc nopchon nct,50.0,False,False
+gemini-2.5-flash,2020-07-0500,"{""seen"": true, ""title"": ""Lyrical Composition of Daft Punk's 'Around the World'"", ""year"": 2013}",True,Lyrical Composition of Daft Punk's 'Around the World',2013.0,True,Lyrical Composition of Daft Punk's 'Around the World' [OC],2020,100.0,True,Lyrical Composition of Daft Punk's 'Around the World' Around 33% The 33% World 33%,100.0,True,False
+gemini-2.5-flash,2020-09-0571,"```json
+{""seen"": true, ""title"": ""The Meteoric Rise of Among Us"", ""year"": 2020}
+```",True,The Meteoric Rise of Among Us,2020.0,True,The Meteoric Rise of Among Us: How a 2 year old game became viral overnight [OC],2020,94.54545454545456,True,"The Meteoric Rise of Among Us 600k Sequel cancelled, new content to be added to Among Us 1 500k Sequel announced 400k End of life announced: 300k No new content updates, Released on Steam cheaper price Second map added 200k (MIRA HQ) Twitch Viewership Skins added Third map added (Polus) 100k Pets added Player Count Uw Jan 2019 Apr 2019 Jul 2019 Oct 2019 Jan 2020 Apr 2020 Jul 2020 look@num",100.0,True,False
+gemini-2.5-flash,2020-04-0280,"{""seen"": false}",False,,,True,[OC] The absolute quality of Breaking Bad.,2020,0.0,False,Season Br eaking 8.7 8.6 9.2 9.3 8.3 Bad 8.8 8.4 8.5 8.1 8.3 8.3 8.3 8.4 8.4 8.7 9.5 8.9 9.3 8.9 8.8 1 8.5 10 7.8 11 8.5 9.5 Rating Category 12 9.3 9.5 9.9 Great 13 9.3 Good 14 Average 15 Bad 16 (Garbage Data: Internet Movie Database https:| /WWW.imdb.com] Idea rfHbenne,66.66666666666667,False,False
+gemini-2.5-flash,2020-09-0352,"{""seen"": true, ""title"": ""Would You Rather Be Hot or Cold? (According to @mattsurelee's Instagram Followers)"", ""year"": 2020}",True,Would You Rather Be Hot or Cold? (According to @mattsurelee's Instagram Followers),2020.0,True,Would you rather be hot or cold? [OC],2020,48.739495798319325,False,WOULD YOU RATHER BE HOT OR COLD? (ACCORDING TO @MATTSURELEE' $ INSTAGRAM FOLLOWERS) Rather be hot Rather be cold,100.0,True,False
+gemini-2.5-flash,2020-08-0261,"```json
+{""seen"": false}
+```",False,,,True,Birthday frequency graphic featured in today's New York Post [OC],2020,0.0,False,"THE BORN TDENTITY 2 3 ~Uineh more (dmton Tre Most cOMMON Birthdays IN TrE ONITED STATES (2000-2014) common Label birth rato relative t0 average 1 Day Month 10 11 12 :13;14 15 16 17 18 19 20 21 22 23 26 25 26 27 28 29 30 31 Jan: 160 L0i 0 9 0 96 0,98 0.16 0.96 10l 100 0 97 ;094; 0 29 0 95 0.90 0.99 0.99 0,95 0,95 097 0,96 0 94 101 0 9) 09s 0.26 097 093 0 97 0.99 [ Feb: 100   0 99 0 90 0 98 0190 0.99 02 160 0 08 0,97 0 99 0 98} 0 %u 101 0 97 0.96 0,90 0 96 0 90  1 00 101 0 97 0 96 0 G0 0 96 0 99 10 6 March L01 0 98 0.97 098 0.98 101 0 93 0. 97 0 97 0 96   0 99 ;0 96 0.98 0,96  0.98 100]102 0.93 0,96 0 95 097 0 97 0 98 101 0 %e 0,96 0 9s 8 April 091 0 92 102 0 99 0,95 0.95 0.96 0,07 0 93 101  0 99 ;0 93 0 96 0 98 0.90 0,90 0 99 096 0.93 0 95 0 97 0 98 10 0.28 0 93 0 95 0 93 0 9 1 Mav 10 101 0 99 095 0.98 0 96 0.98 0.99 100 100 0 90 0,97 0 94 0 99 101 103 101 0,97 0,97 0.59 101 102 105 L03 0 99 0 91 0 94 0s5 0.97 10o 097 June 101 101 0.99 L01 101 102 LO1 0 993 0 98 0.99 100 LOl 101 102 0 99 100 0.99 102 101 105 02 100099 100 103 101 L0s 102 102 2 1 July A04 103 095 104 4105 L0s : 100 101 103 Hat 1405 102 103 10g 105 405 102 102 102 14 105 102 402 102 104 os 109 103 103 ' 1 03 1104 109 103 4~105 103 103 103 10 1 Sept 0 96 0 97 0 98 101 105 1.03 0103 102 102 101 Oct Los 103 104 101 100 L00 102 101 0 99 0,95 0 98 101 L0L 102 102' 0 98 0.98 0.98 101 100 103 102 0 9e 0 93 0.92 0.93 0,98 0 90 Nov 104 100 0.99 0,98 101 101 103 102 0.93 0.98 100 0 98 103 L03 100 0.93 0.99 102 1o5 094 0.87 0.83 0.83 092 0 83 0.92  0.58 0.98 1 Dec. 100 0 99 100 100 102 100 0.97 0.97 0.96 0, 99 0,99 0.99 0 99 100 104 101 0.91 0.87 0s 0 93 Leap Day excluded nis noticeably lower than the The I3th of each month Dec25 is the least comman_ Seproundingtdbincoudeng Sept 1e,the tends t0 be lower than birthday; followed by Jan 1 the I2th and I4th: Dec 24 and July 4 most common birthday: Oh; babyl Data whiz calculates the most and least common birthdays in revealing chart FRISHBERG Eth of cach month is & little bit prefer giving birth on the holi- By HANNAH lower than the I2th and I4th, days;it does appear to be a popu - New said, pointing t0 likely lar time tr baby-making: The What do Christmas cesarean sections  percoracp _ most common birthdays are Year' $ Day Christmas Eve and certain days- also thought it Sept.12, 19 and 20,respectively: the 4th of july have in common? interesting   Sept: ""When we look at births peaking They're holidays_ but they seemsealbe lotece shag theother in late summer; we can back up also happen t0 be the four Jeast seems to be nine months and infer that concep common birthdays in the US days around it: births tion is most common around the Austin; Texas business intelli- Data on 2Oth-century holidays  McCready further bolstered McCready Su- when days are the short- gence   developer Bo hypothesis It was only est and coldest; he said: 32 this week and cele- ji became associated In general; the patterns really brated in part by giving gift to after Sept: national tragedy; made me think ot about how the Internet: data visualization with and least com- McCready observed, that frequently we have sched- showing the most to be children started being born uled births in  the United mon dates forthemeriS ZOOOand notably frequently on States_ whether it's an in LABOR OF Love: Bo born betwcen the years 2014, which he on Reddit: that date: duction C-section;' McCready released the chart curious how common an Reddit commenters also be said: on Iuesday his own birthday: was HS. McCready noticed there WCrC ""Seeing how holidays o18 Thbirosdor his ow birtk: in birthrates at the are 50 much lower than prise more than 30 percent of all date. He found that the answer beginning of   September other days; it'$ really ap- American births ""relatively more common"" and at the end of Novem- parent that those things certainly seemed be WaS in the process % crunch- ber: When families take must  have huge m- the case when he welcomed his Social Security Administra- vacations around Labor pact overall birth 2-year-old daughter Willow into data he a[s0 unearthed Day and   Thanksgiving; patterns_ According the world: number of surprising facts about you re not sceing lot of recent data from the ""She was born on the evening other days  scheduled procedures; Centers for Disease of July 3"" he said: ""In the hospi- ""Superstition Probably plays said McCready Control and Preven- tal; the next day was the 4th of bow we 'schedule births: The While Americans don't tion C-sections com- July and it was ghost town into Socecholo { 0 97 0 92 0 92 100 104 Aug: 14 Day; perstition E turned less Posted that dips That and ine tion",66.66666666666667,True,False
+gemini-2.5-flash,2022-09-0061,"```json
+{""seen"": true, ""title"": ""Countries with school shootings incidents (Jan 2009-May 2018)"", ""year"": 2018}
+```",True,Countries with school shootings incidents (Jan 2009-May 2018),2018.0,True,[OC] Countries with School Shootings (total incidents from Jan 2009 to May 2018),2022,79.43262411347519,False,Countries with school shootings incidents (Jan 2009-May 2018) United States 288 Mexico South Africa India Pakistan Nigeria Afghanistan Brazil France Canada hina Russia Turkey Germany Kenya Greece Azerbaijan Hungary Estonia countries 200 300 Number of school shootings incidents Source: World Population Review Other,100.0,True,False
+gemini-2.5-flash,2021-01-0255,"```json
+{""seen"": false, ""title"": null, ""year"": null}
+```",False,,,True,Animation: how does Covid compare to a bad winter flu season? [OC],2021,8.695652173913047,False,"""No different to a bad flu season?"" How England's winter Covid surge compares to flu seasons Weekly ICU admissions of flu patients per million people in winter 2013-14 2 1 Oct Nov Dec Jan Feb Mar Apr Source: PHE annual winter flu and Covid reports @ FT Aug Sep May",66.66666666666667,True,False
+gemini-2.5-flash,2020-11-0172,"{""seen"": true, ""title"": ""Pet Raccoon Legal States in the US"", ""year"": 2022}",True,Pet Raccoon Legal States in the US,2022.0,True,[OC] The yellow states in the map below are the states in which it is legal to own a RACCOON.,2020,40.70796460176991,False,Source: https:Ilworldpopulationreview com/state-rankings/pet-raccoon-legal-states. By toddrjones.,47.05882352941176,False,False
+gemini-2.5-flash,2020-02-0424,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] 2020 Presidential Candidates by Net Worth,2020,0.0,False,"2020 Presidential Candidates by Net Worth 570,000,000,000.00 S60,000,000,000.00 S61,800,000,oooloo S50,000,000,000.00 S40,000,000,000.00 530,000,000,000.00 520,000,000,000.00 S10,000,000,000.00 53,100,000,000.00 S12,000,000.00 S9,000,000.00 52,500,000.00 52,000,000.00 S100,000.00 Michael Bloomberg Donald Trump Elizabeth Warren Joe Biden Ber nie Sanders Amy Klobuchar Pete Buttigieg",66.66666666666667,True,False
+gemini-2.5-flash,2020-06-0550,"{""seen"": false, ""title"": """", ""year"": null}",False,,,True,[OC] Top 10 Highest Covid-19 donations with the percentage of their net worth,2020,0.0,False,"10 Highest Covid-l9 Donations Covid-19 Percentage of Net Worth Donation Jack Dorsey 21,74% S1,0 B Bill & Mellinda 0,28% S305 M Gates Azim Premji 2,16% S132 M George Soros 1,57% S130 M Andrew Forrest 1,64% S1OO+ M Skoll 1,92% S1OO+ M Jeff Bezos 0,07% S100 M Michael Dell 0,35% S100 M Michael 0,13% s74,5+ M Bloomberg Lynn & Stacy 2,06% S70 M Schusterman 0% 20% 40% 60% 80% 100% Top Jeff",66.66666666666667,True,False
+gemini-2.5-flash,2020-03-0969,"```json
+{""seen"": false, ""title"": null, ""year"": null}
+```",False,,,True,[OC] Where the money goes in the US Senate's $2T coronavirus stimulus bill,2020,8.219178082191775,False,"Public Health: $153.5B Student Loans/Other*: S43.7B Cash Payments S300B Individuals*: SS60B Extra Unemployment Payments S260B National Security: S17B Passenger Wages/Benefits: S25B Airlines: S58B Cargo - WagesmBeceors: S38 Airlines Other: S26B CARES Act: S2,000B Corporations: SSOOB Large Corporations Other: S425B Grants: S1OB Loans: S350B Small Business: S377B Relief for Existing Loans: S17B COVID-19 Response: S274B State & Local Govt: 5339.8B Block Grants: SSB K-12 Schools: S13B Higher Education: S14B Family Programs: $5.3B Governments Other: S28.5B Child Nutrition: S8.8B Safety Net: S26B SNAP: S15.5B #Estimated Safety Foed Eanes: 59.231 Large New",66.66666666666667,False,False
+gemini-2.5-flash,2020-09-0192,"```json
+{""seen"": true, ""title"": ""Tom Cruise's Marriages and Divorces"", ""year"": 2012}
+```",True,Tom Cruise's Marriages and Divorces,2012.0,True,All Tom Cruise's wives were 33 at time of divorce...[OC],2020,52.747252747252745,False,54 52 Marriage 51 Tom Cruise 50 49 Mimi Rogers 48 48 47 46 Nicole Kidman 45 45 44 43 Katie Holmes 42 42 41 40 39 38 36 35 34 Divorce Age 33 33 33 33 33 32 32 32 32 30 31 31 31 31 30 30 30 30 29 29 29 28 28 28 27 27 27 26 26 24 25 25 24 24 23 23 21 85' 86' 87 88' 89' 90' 91' 92' 93' 94' 95' 96' 97 98' 99 00' 01 02' 03' 04' 05' 06' 07 08' 09' 10' M1 12' 13' 14' Year,100.0,True,False
+gemini-2.5-flash,2018-01-0461,"{""seen"": true, ""title"": ""Instability of an unsteered bicycle"", ""year"": 2007}",True,Instability of an unsteered bicycle,2007.0,True,Paths of 800 unmanned bicycles being pushed until they fall over,2018,44.44444444444444,False,"Figure 2: Instability of an unsteered bicycle. This shows 800 runs of a bicycle being pushed to the right:  For each run, the of the front wheel on the ground is shown until the bicycle has fallen over: The unstable oscillatory nature is due to the subcritical speed of the bicycle, which loses further with each oscillation_ path speed",100.0,True,False
+gemini-2.5-flash,2021-12-0265,"{""seen"": true, ""title"": ""Job Application Funnel"", ""year"": 2023}",True,Job Application Funnel,2023.0,True,[OC] What job hunting has been like as a 2020 graduate so far,2021,24.09638554216868,False,Job Apps: 678 No Response: 670 Rejected: 2 First Interview: 3 Ghosts: 6 Responses: 8 Second Interview: 1,100.0,False,False
+gemini-2.5-flash,2020-03-0669,"{""seen"": true, ""title"": ""COVID-19 infections vs. r/Coronavirus subscribers"", ""year"": 2020}",True,COVID-19 infections vs. r/Coronavirus subscribers,2020.0,True,[OC] COVID-19 infections vs. r/Coronavirus subscriptions,2020,87.61904761904762,True,"COVID-19 infections Vs- r/Coronavirus subscribers Jan 21st Jan 22nd Jan 23rd Jan 24th Jan 25th Jan 26th Jan 2 2,400 rlCoronavirus 2,278 2,200 2,000 1,800 1,600 1,400 1,200 1,000 COVID-19 887 800 600 400 200 Source: Worldometers; Subreddit Stats * Created by ufartursilva0220",100.0,True,False
+gemini-2.5-flash,2020-12-0436,"```json
+{""seen"": true, ""title"": ""Harry Potter And The Characters With The Most Screen Time"", ""year"": 2020}
+```",True,Harry Potter And The Characters With The Most Screen Time,2020.0,True,Harry Potter Characters: Screen time vs. Mentions In The Books [OC],2020,73.33333333333333,False,"Harfy Potter And The Characters With The Most Screen Time L000 4e5 Scrcen Timc In Potter Films (Minutes) Scale) Ron Wcasley Hermione Grenger 100 Dumbledore Nevillc, Dzco Malfoy McGonagll Hagrid Sevcru' Lunt Loregood Voldemort Luciut Malfoy Frad Siriu: Black Narcissa Malfoy Molly Weasley Falkcr Percy Weasley Mad-Eye Moody Kreacher Bill Wcaslcy Number Of Mentions [ Books (Log Scale) Jorajn 500 5,000 50,000 Saurce: IMDB via Jetpunk com, Sparcle chartr Hatty (Lcg = Lupin, Ginny Snapc movies Georgs Under-represented in",100.0,True,False
+gemini-2.5-flash,2022-06-0259,"{""seen"": false, ""title"": null, ""year"": null}",False,,,True,[OC] Inflation and the cost of every day items,2022,12.244897959183676,False,"What inflation really looks like Price change since January 2020 (%) Jan 2020 100 Energy Food Clothing 50 J# 00 n 0 O.0% 0.0% O.0% 0.0% 0.0% 0.0% O.0% 0.0% O.0% O.0% 50 8 8 Gas Wheat Corn Cotton Oil Coffee Sugar Butter   Cheese Orange Juice Past performance is not a to future performance:  Source: CME Group, ICE; Morningstar; Bloomberg commodity interactive subindex 3-month forward: investor  IE R Of THE PAY Tl ISE guide ' | ",66.66666666666667,False,False

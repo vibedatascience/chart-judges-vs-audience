@@ -1,0 +1,105 @@
+row,dimension,level,n_pairs,accuracy,lo,hi,note
+gemini-2.5-flash P1,chart_type,Area,10,0.55,,,too few
+gemini-2.5-flash P1,chart_type,Bar,166,0.5753012048192772,0.5179969879518073,0.6325301204819277,
+gemini-2.5-flash P1,chart_type,Circle,1,1.0,,,too few
+gemini-2.5-flash P1,chart_type,Diagrams,8,0.4375,,,too few
+gemini-2.5-flash P1,chart_type,Grid & Matrix,7,0.7142857142857143,,,too few
+gemini-2.5-flash P1,chart_type,Line,112,0.6116071428571429,0.5491071428571429,0.6830357142857143,
+gemini-2.5-flash P1,chart_type,Maps,164,0.5975609756097561,0.5395579268292683,0.6585365853658537,
+gemini-2.5-flash P1,chart_type,Point,25,0.54,,,too few
+gemini-2.5-flash P1,chart_type,Trees & Networks,7,0.42857142857142855,,,too few
+gemini-2.5-flash P1,year_bin,2012-15,137,0.5875912408759124,0.5218978102189781,0.6496350364963503,
+gemini-2.5-flash P1,year_bin,2016-19,147,0.564625850340136,0.49991496598639457,0.6292517006802721,
+gemini-2.5-flash P1,year_bin,2020-22,108,0.5694444444444444,0.4998842592592593,0.6435185185185185,
+gemini-2.5-flash P1,year_bin,2023-25,108,0.6342592592592593,0.5694444444444444,0.7037037037037037,
+gemini-2.5-flash P3,chart_type,Area,10,0.5,,,too few
+gemini-2.5-flash P3,chart_type,Bar,166,0.5542168674698795,0.5,0.6054969879518072,
+gemini-2.5-flash P3,chart_type,Circle,1,0.5,,,too few
+gemini-2.5-flash P3,chart_type,Diagrams,8,0.625,,,too few
+gemini-2.5-flash P3,chart_type,Grid & Matrix,7,0.5714285714285714,,,too few
+gemini-2.5-flash P3,chart_type,Line,112,0.5892857142857143,0.5267857142857143,0.6517857142857143,
+gemini-2.5-flash P3,chart_type,Maps,164,0.5579268292682927,0.5091463414634146,0.6067073170731707,
+gemini-2.5-flash P3,chart_type,Point,25,0.56,,,too few
+gemini-2.5-flash P3,chart_type,Trees & Networks,7,0.5714285714285714,,,too few
+gemini-2.5-flash P3,year_bin,2012-15,137,0.5474452554744526,0.48905109489051096,0.6021897810218978,
+gemini-2.5-flash P3,year_bin,2016-19,147,0.5544217687074829,0.5,0.608843537414966,
+gemini-2.5-flash P3,year_bin,2020-22,108,0.6111111111111112,0.5416666666666666,0.6759259259259259,
+gemini-2.5-flash P3,year_bin,2023-25,108,0.5509259259259259,0.49537037037037035,0.6018518518518519,
+gpt-5 P1,chart_type,Area,10,0.45,,,too few
+gpt-5 P1,chart_type,Bar,166,0.5753012048192772,0.5090361445783133,0.6445783132530121,
+gpt-5 P1,chart_type,Circle,1,1.0,,,too few
+gpt-5 P1,chart_type,Diagrams,8,0.6875,,,too few
+gpt-5 P1,chart_type,Grid & Matrix,7,0.5714285714285714,,,too few
+gpt-5 P1,chart_type,Line,112,0.625,0.5446428571428571,0.7053571428571429,
+gpt-5 P1,chart_type,Maps,164,0.5701219512195121,0.5091463414634146,0.6341463414634146,
+gpt-5 P1,chart_type,Point,25,0.46,,,too few
+gpt-5 P1,chart_type,Trees & Networks,7,0.5714285714285714,,,too few
+gpt-5 P1,year_bin,2012-15,137,0.5328467153284672,0.4634124087591241,0.6094890510948905,
+gpt-5 P1,year_bin,2016-19,147,0.5918367346938775,0.5136054421768708,0.6632653061224489,
+gpt-5 P1,year_bin,2020-22,108,0.6111111111111112,0.5369212962962964,0.6899305555555554,
+gpt-5 P1,year_bin,2023-25,108,0.5879629629629629,0.5185185185185185,0.6620370370370371,
+gpt-5 title-only,chart_type,Area,10,0.5,,,too few
+gpt-5 title-only,chart_type,Bar,166,0.5692771084337349,0.5150602409638554,0.6234939759036144,
+gpt-5 title-only,chart_type,Circle,1,1.0,,,too few
+gpt-5 title-only,chart_type,Diagrams,8,0.4375,,,too few
+gpt-5 title-only,chart_type,Grid & Matrix,7,0.5,,,too few
+gpt-5 title-only,chart_type,Line,112,0.6071428571428571,0.5446428571428571,0.6696428571428571,
+gpt-5 title-only,chart_type,Maps,164,0.6036585365853658,0.551829268292683,0.6554878048780488,
+gpt-5 title-only,chart_type,Point,25,0.54,,,too few
+gpt-5 title-only,chart_type,Trees & Networks,7,0.42857142857142855,,,too few
+gpt-5 title-only,year_bin,2012-15,137,0.5364963503649635,0.48175182481751827,0.5912408759124088,
+gpt-5 title-only,year_bin,2016-19,147,0.608843537414966,0.5544217687074829,0.6666666666666666,
+gpt-5 title-only,year_bin,2020-22,108,0.5740740740740741,0.5092592592592593,0.6342592592592593,
+gpt-5 title-only,year_bin,2023-25,108,0.6111111111111112,0.5509259259259259,0.6759259259259259,
+haiku-4.5 P1,chart_type,Area,10,0.7,,,too few
+haiku-4.5 P1,chart_type,Bar,166,0.572289156626506,0.5150602409638554,0.6326054216867469,
+haiku-4.5 P1,chart_type,Circle,1,1.0,,,too few
+haiku-4.5 P1,chart_type,Diagrams,8,0.4375,,,too few
+haiku-4.5 P1,chart_type,Grid & Matrix,7,0.7142857142857143,,,too few
+haiku-4.5 P1,chart_type,Line,112,0.5491071428571429,0.4732142857142857,0.625,
+haiku-4.5 P1,chart_type,Maps,164,0.524390243902439,0.4633384146341464,0.5853658536585366,
+haiku-4.5 P1,chart_type,Point,25,0.6,,,too few
+haiku-4.5 P1,chart_type,Trees & Networks,7,0.5,,,too few
+haiku-4.5 P1,year_bin,2012-15,137,0.5,0.43795620437956206,0.5620437956204379,
+haiku-4.5 P1,year_bin,2016-19,147,0.5578231292517006,0.4897959183673469,0.6224489795918368,
+haiku-4.5 P1,year_bin,2020-22,108,0.5833333333333334,0.5092592592592593,0.657523148148148,
+haiku-4.5 P1,year_bin,2023-25,108,0.5925925925925926,0.5277777777777778,0.6620370370370371,
+gpt-5 P3,chart_type,Area,3,0.0,,,too few
+gpt-5 P3,chart_type,Bar,85,0.6764705882352942,0.5880882352941177,0.7647058823529411,
+gpt-5 P3,chart_type,Circle,1,1.0,,,too few
+gpt-5 P3,chart_type,Diagrams,4,0.625,,,too few
+gpt-5 P3,chart_type,Grid & Matrix,2,0.5,,,too few
+gpt-5 P3,chart_type,Line,50,0.7,0.59,0.8,
+gpt-5 P3,chart_type,Maps,89,0.5786516853932584,0.4887640449438202,0.6630617977528088,
+gpt-5 P3,chart_type,Point,10,0.55,,,too few
+gpt-5 P3,chart_type,Trees & Networks,6,0.8333333333333334,,,too few
+gpt-5 P3,year_bin,2012-15,72,0.5138888888888888,0.4166666666666667,0.6111111111111112,
+gpt-5 P3,year_bin,2016-19,72,0.6527777777777778,0.5416666666666666,0.75,
+gpt-5 P3,year_bin,2020-22,54,0.7314814814814815,0.6296296296296297,0.8333333333333334,
+gpt-5 P3,year_bin,2023-25,52,0.6826923076923077,0.5576923076923077,0.7980769230769231,
+haiku-4.5 P3,chart_type,Area,3,0.16666666666666666,,,too few
+haiku-4.5 P3,chart_type,Bar,85,0.5941176470588235,0.5058823529411764,0.6823529411764706,
+haiku-4.5 P3,chart_type,Circle,1,1.0,,,too few
+haiku-4.5 P3,chart_type,Diagrams,4,0.5,,,too few
+haiku-4.5 P3,chart_type,Grid & Matrix,2,0.5,,,too few
+haiku-4.5 P3,chart_type,Line,50,0.6,0.47,0.71,
+haiku-4.5 P3,chart_type,Maps,89,0.5224719101123596,0.43258426966292135,0.6235955056179775,
+haiku-4.5 P3,chart_type,Point,10,0.5,,,too few
+haiku-4.5 P3,chart_type,Trees & Networks,6,0.75,,,too few
+haiku-4.5 P3,year_bin,2012-15,72,0.4513888888888889,0.3402777777777778,0.5625,
+haiku-4.5 P3,year_bin,2016-19,72,0.5347222222222222,0.4305555555555556,0.6388888888888888,
+haiku-4.5 P3,year_bin,2020-22,54,0.6388888888888888,0.5275462962962963,0.75,
+haiku-4.5 P3,year_bin,2023-25,52,0.6826923076923077,0.5769230769230769,0.7788461538461539,
+gpt-5 P2,chart_type,Area,3,0.0,,,too few
+gpt-5 P2,chart_type,Bar,51,0.6470588235294118,0.5294117647058824,0.7647058823529411,
+gpt-5 P2,chart_type,Circle,1,1.0,,,too few
+gpt-5 P2,chart_type,Diagrams,3,0.6666666666666666,,,too few
+gpt-5 P2,chart_type,Grid & Matrix,1,0.0,,,too few
+gpt-5 P2,chart_type,Line,31,0.6129032258064516,,,too few
+gpt-5 P2,chart_type,Maps,53,0.5754716981132075,0.44339622641509435,0.7075471698113207,
+gpt-5 P2,chart_type,Point,4,0.375,,,too few
+gpt-5 P2,chart_type,Trees & Networks,3,1.0,,,too few
+gpt-5 P2,year_bin,2012-15,44,0.4431818181818182,,,too few
+gpt-5 P2,year_bin,2016-19,44,0.6022727272727273,,,too few
+gpt-5 P2,year_bin,2020-22,32,0.765625,,,too few
+gpt-5 P2,year_bin,2023-25,30,0.65,,,too few

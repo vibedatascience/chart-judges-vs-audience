@@ -1,0 +1,4 @@
+judge_a,judge_b,n_decisions,cohen_kappa
+gemini-2.5-flash P3,gpt-5 P3,500,0.4957095286885246
+gemini-2.5-flash P3,haiku-4.5 P3,500,0.26470588235294124
+gpt-5 P3,haiku-4.5 P3,500,0.40856777493606145
