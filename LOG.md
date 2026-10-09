@@ -32,8 +32,8 @@ Owner: Rahul Chaudhary. Seed: 20261008. Run code with `PYTHONPATH=lib python3 sr
 
 - Python 3.12.3 (brief says 3.11; no 3.11 in sandbox). Deps installed with `pip --target lib`.
 - No GPU in sandbox, so VisJudge-7B and Qwen2.5-VL-7B cannot run here.
-- Judge access found: OpenAI via internal gateway (`127.0.0.1:19193`, Host `openai.pinadmin.com`; it lists gpt-5.5-2026-04-23, gpt-5.4, gpt-5.1 and others). Claude via the sandbox Bedrock proxy. Gemini: works via Host `vertexai.pinadmin.com`, POST `/v1/projects/pin-dev-helix/locations/{us-east1|global}/publishers/google/models/<model>:generateContent`. Probed 2026-10-08: gemini-2.5-pro and gemini-2.5-flash return 200. gemini-3-pro, 3.1-pro-preview, 3-flash(-preview) and 3.5-pro return 403 under the `vertexai_dev` policy, and pin-prod-helix returns 403. So the Gemini judge is gemini-2.5-pro, which is older than the other judges; access to a newer model has to be requested.
-- Project lives at `~/code/beautivis-judges/`, outside the pintools repo.
+- Judge access: OpenAI chat completions, Claude via Amazon Bedrock, Gemini via Google Vertex AI (endpoints set by environment variables; see src/judge_client.py). Probed 2026-10-08: gemini-2.5-pro and gemini-2.5-flash were reachable; Gemini 3.x models were not available to this account, so the Gemini judges are from the 2.5 family.
+- Project lived at `~/code/beautivis-judges/` before this repository.
 
 ## Entries
 
@@ -200,3 +200,11 @@ Context: Rahul's review says the null rests on 150-500 pairs and different subse
   - Added related work: Panda 2026 (arXiv 2606.10095) and Seto et al. 2026 (arXiv 2606.15136), both verified on arXiv.
 - New figures: fig7_tost (equivalence test), fig8_bias_all (5 features × audience + 4 judges), and fig5_examples (P1 scores from all 4 judges added).
 - Open: "audiences reward topics" in the title rests on indirect evidence, which the limitations section states. Human review of the reason codes would strengthen it.
+
+### 2026-10-09, post-hoc tie check and paper polish (src/08e_ties.py)
+
+- P1 ties on 22.8-35.3% of pairs and a tie earns 0.5, so two tie-free checks were added after the pre-registered analysis. They are labeled post hoc in the paper.
+- Decisive pairs only (analysis/08e_decisive_pairs.csv): judge minus baseline on the same pairs is gpt-5 -1.0 [-4.5, +2.4], Haiku -1.6 [-5.3, +2.0], Flash +3.3 [-0.3, +7.1], Sonnet 0.0 [-4.9, +4.9] (95% CIs). None is significant. Flash's upper bound passes +4, so the paper states that the four-point bound holds under the pre-registered scoring but not on Flash's decisive pairs alone.
+- AUC, no tie rule (analysis/08e_auc_vs_baseline.csv): judge minus baseline is gpt-5 -0.042 [-0.075, -0.007], Haiku -0.052 [-0.086, -0.019], Flash -0.021 [-0.055, +0.014], Sonnet -0.027 [-0.074, +0.022].
+- Paper corrections: the upper 90% bounds range from -1.3 to +1.5 points (the draft said -0.3); Flash's text coefficient is +0.31 (the draft said +0.32); accuracies use half-up rounding (Haiku 55.5%).
+- Figures 2 and 3 restyled: red = judge, navy = audience, as in Figure 1. The P1 prompt is now printed verbatim in the paper.

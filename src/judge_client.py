@@ -1,4 +1,8 @@
-"""Cached multimodal judge calls for OpenAI (internal gateway), Claude (Bedrock proxy) and Gemini (Vertex gateway).
+"""Cached multimodal judge calls for OpenAI, Claude (Amazon Bedrock) and Gemini (Google Vertex AI).
+
+Endpoints come from environment variables: OPENAI_BASE_URL, OPENAI_HOST_HEADER (optional),
+ANTHROPIC_BEDROCK_BASE_URL, VERTEX_BASE_URL, VERTEX_HOST_HEADER (optional), VERTEX_PROJECT and VERTEX_ACCESS_TOKEN;
+OPENAI_API_KEY is sent as a bearer token when set.
 
 Every call is cached on disk by sha256(model_id + prompt_id + prompt text + image bytes + settings), so reruns cost nothing.
 Usage (tokens) is stored with each cached response so spend can be totalled from files.
@@ -17,7 +21,11 @@ from tenacity import retry, retry_if_exception, stop_after_attempt, wait_exponen
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE_DIR = os.path.join(ROOT, "judges", "cache")
-GATEWAY = "http://127.0.0.1:19193"
+OPENAI_BASE_URL = os.environ.get("OPENAI_BASE_URL", "https://api.openai.com")
+OPENAI_HOST = os.environ.get("OPENAI_HOST_HEADER", "")
+VERTEX_BASE_URL = os.environ.get("VERTEX_BASE_URL", "https://aiplatform.googleapis.com")
+VERTEX_HOST = os.environ.get("VERTEX_HOST_HEADER", "")
+VERTEX_PROJECT = os.environ.get("VERTEX_PROJECT", "")
 MAX_OUTPUT_TOKENS = 400
 
 # USD per 1M tokens (input, output). Sources recorded in LOG.md.
@@ -91,11 +99,11 @@ class RateLimiter:
             time.sleep(sleep_for)
 
 
-LIMITERS = {"openai.pinadmin.com": RateLimiter(45), "vertexai.pinadmin.com": RateLimiter(45), "bedrock": RateLimiter(45)}
+LIMITERS = {"openai": RateLimiter(45), "vertex": RateLimiter(45), "bedrock": RateLimiter(45)}
 
 
 def _post(url: str, body: dict, headers: dict, timeout: int = 180) -> dict:
-    LIMITERS.get(headers.get("Host", ""), LIMITERS["bedrock"]).wait()
+    LIMITERS.get(headers.pop("X-Limiter", "bedrock"), LIMITERS["bedrock"]).wait()
     req = urllib.request.Request(url, json.dumps(body).encode(), {"Content-Type": "application/json", **headers})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
@@ -138,7 +146,7 @@ def _call_openai(model: str, parts: list[Part], settings: dict) -> dict:
     for k in ("reasoning_effort", "temperature"):
         if k in settings:
             body[k] = settings[k]
-    r = _post(f"{GATEWAY}/v1/chat/completions", body, {"Host": "openai.pinadmin.com"})
+    r = _post(f"{OPENAI_BASE_URL}/v1/chat/completions", body, {"X-Limiter": "openai", **({"Host": OPENAI_HOST} if OPENAI_HOST else {}), **({"Authorization": f"Bearer {os.environ['OPENAI_API_KEY']}"} if os.environ.get("OPENAI_API_KEY") else {})})
     u = r.get("usage", {})
     return {
         "text": r["choices"][0]["message"].get("content") or "",
@@ -179,8 +187,8 @@ def _call_gemini(model: str, parts: list[Part], settings: dict) -> dict:
         gen["temperature"] = settings["temperature"]
     if "thinking_budget" in settings:
         gen["thinkingConfig"] = {"thinkingBudget": settings["thinking_budget"]}
-    url = f"{GATEWAY}/v1/projects/pin-dev-helix/locations/global/publishers/google/models/{model}:generateContent"
-    r = _post(url, {"contents": [{"role": "user", "parts": gparts}], "generationConfig": gen}, {"Host": "vertexai.pinadmin.com"})
+    url = f"{VERTEX_BASE_URL}/v1/projects/{VERTEX_PROJECT}/locations/global/publishers/google/models/{model}:generateContent"
+    r = _post(url, {"contents": [{"role": "user", "parts": gparts}], "generationConfig": gen}, {"X-Limiter": "vertex", **({"Host": VERTEX_HOST} if VERTEX_HOST else {}), **({"Authorization": f"Bearer {os.environ['VERTEX_ACCESS_TOKEN']}"} if os.environ.get("VERTEX_ACCESS_TOKEN") else {})})
     cand = (r.get("candidates") or [{}])[0]
     u = r.get("usageMetadata", {})
     return {

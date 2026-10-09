@@ -227,7 +227,7 @@ other.
 You may use an LLM to propose codes. Mark every code as draft for human review. Do not present LLM codes as final.
 Step 10. Figures (about 3 hours)
 
-One chart per figure. Style: white background, Pinterest Red 
+One chart per figure. Style: white background, red 
 #E60023 for the key series, Navy 
 #0a3069 secondary, Teal 
 #0d9488 tertiary, Slate 

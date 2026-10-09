@@ -11,11 +11,11 @@ Internal research repo (Rahul Chaudhary). A VisNotes-style short paper testing m
 |---|---|---|
 | Image-blind baseline (titles + timing) | 59.1% | - |
 | gpt-5 | 56.4% | -2.8 [-5.1, -0.3] |
-| Claude Haiku 4.5 | 55.4% | -3.7 [-5.9, -1.3] (significantly worse) |
+| Claude Haiku 4.5 | 55.5% | -3.7 [-5.9, -1.3] (significantly worse) |
 | Gemini 2.5 Flash | 57.6% | -1.5 [-3.9, +0.9] (TOST-equivalent) |
 | Claude Sonnet 5.5 (1,000 pairs) | 57.8% | -1.9 [-5.2, +1.5] |
 
-No judge beats the baseline by 4 points or more (one-sided p ≤ 0.002 for each). The same P1 scores correlate ρ = 0.44-0.49 with expert ratings but 0.08-0.13 with audience vote percentile. Judges reward text-heavy charts (+0.32 to +0.51 per SD of OCR words); the audience does not (-0.02).
+No judge beats the baseline by 4 points or more (one-sided p ≤ 0.002 for each). Tie-free check: ranked by AUC, every judge is below the baseline (0.571-0.604 vs 0.623-0.630). The same P1 scores correlate ρ = 0.44-0.49 with expert ratings but 0.08-0.13 with audience vote percentile. Judges reward text-heavy charts (+0.32 to +0.51 per SD of OCR words); the audience does not (-0.02).
 
 ## Layout
 
@@ -23,7 +23,7 @@ No judge beats the baseline by 4 points or more (one-sided p ≤ 0.002 for each)
 |---|---|
 | `src/` | One script per step, run in numeric order (`PYTHONPATH=lib:src python3 src/<step>.py`) |
 | `src/prompts.py` | Exact judge prompts |
-| `src/judge_client.py` | Cached judge calls via the internal OpenAI / Bedrock / Vertex gateways (devapp sandbox) |
+| `src/judge_client.py` | Cached judge calls to OpenAI, Amazon Bedrock and Google Vertex AI; endpoints are set by environment variables |
 | `pairs/` | Evaluation sets (clear 2,000, close 500, dev 100, singles 3,000, calibration 150) |
 | `data/clean/` | Cleaned post metadata and per-image features (no images) |
 | `judges/raw/`, `judges/parsed/` | Every judge response (raw text, tokens) and parsed scores |
