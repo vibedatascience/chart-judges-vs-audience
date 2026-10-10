@@ -13,7 +13,7 @@ Owner: Rahul Chaudhary. Seed: 20261008. Run code with `PYTHONPATH=lib python3 sr
 4. Same P1 scores, same metric (Spearman): ρ = 0.44-0.49 with expert ratings (150 VisJudge items) vs 0.08-0.13 with audience vote percentile.
 5. Text bias: judges +0.32 to +0.51 per SD of OCR word count; audience -0.02 (SE 0.04). Resolution does **not** differ. Position bias: Flash flips its pairwise answer on 53% of pairs (P3, 500 pairs).
 
-**Paper:** paper/main_anon.pdf (for review) and paper/main_camera.pdf (camera-ready), 4 pages, plus paper/supplement.pdf. Title: "Titles Alone Match LLM Chart Judges at Predicting r/dataisbeautiful Upvotes."
+**Paper:** paper/main_anon.pdf (for review) and paper/main_camera.pdf (camera-ready), 4 pages, plus paper/supplement.pdf. Title: "Do LLM Chart Judges Agree with What r/dataisbeautiful Upvotes?."
 
 **Open before submission**
 - Rahul codes the 20 misses: fill in analysis/09_human_codes.csv using figures/gallery/coding.html, then run `python3 src/09b_human_coding.py tally`.
